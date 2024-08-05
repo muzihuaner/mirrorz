@@ -1,0 +1,986 @@
+{
+  "site": {
+    "url": "https://mirrors.qlu.edu.cn",
+    "logo": "https://mirrors.qlu.edu.cn/static/img/logo-small@4x.png",
+    "abbr": "QLUT",
+    "name": "齐鲁工业大学开源软件镜像站",
+    "issue": "https://github.com/qlu-mirrors/issues",
+    "request": "https://github.com/qlu-mirrors/issues",
+    "big": "/speedtest/1000MB.bin",
+    "disk": "14.81TiB/36.94TiB + 5.50TiB/89.32TiB"
+  },
+  "info": [
+    {
+      "distro": "archlinux",
+      "category": "os",
+      "urls": [
+        {
+          "name": "2024.08.01 (x86_64, CLI-only)",
+          "url": "/archlinux/iso/latest/archlinux-2024.08.01-x86_64.iso"
+        }
+      ]
+    },
+    {
+      "distro": "centos",
+      "category": "os",
+      "urls": [
+        {
+          "name": "9 stream (x86_64, dvd1)",
+          "url": "/centos-stream/9-stream/BaseOS/x86_64/iso/CentOS-Stream-9-latest-x86_64-dvd1.iso"
+        },
+        {
+          "name": "9 stream (x86_64, boot)",
+          "url": "/centos-stream/9-stream/BaseOS/x86_64/iso/CentOS-Stream-9-latest-x86_64-boot.iso"
+        },
+        {
+          "name": "9 stream (s390x, dvd1)",
+          "url": "/centos-stream/9-stream/BaseOS/s390x/iso/CentOS-Stream-9-latest-s390x-dvd1.iso"
+        },
+        {
+          "name": "9 stream (s390x, boot)",
+          "url": "/centos-stream/9-stream/BaseOS/s390x/iso/CentOS-Stream-9-latest-s390x-boot.iso"
+        },
+        {
+          "name": "9 stream (ppc64le, dvd1)",
+          "url": "/centos-stream/9-stream/BaseOS/ppc64le/iso/CentOS-Stream-9-latest-ppc64le-dvd1.iso"
+        },
+        {
+          "name": "9 stream (ppc64le, boot)",
+          "url": "/centos-stream/9-stream/BaseOS/ppc64le/iso/CentOS-Stream-9-latest-ppc64le-boot.iso"
+        },
+        {
+          "name": "9 stream (aarch64, dvd1)",
+          "url": "/centos-stream/9-stream/BaseOS/aarch64/iso/CentOS-Stream-9-latest-aarch64-dvd1.iso"
+        },
+        {
+          "name": "9 stream (aarch64, boot)",
+          "url": "/centos-stream/9-stream/BaseOS/aarch64/iso/CentOS-Stream-9-latest-aarch64-boot.iso"
+        }
+      ]
+    },
+    {
+      "distro": "debian",
+      "category": "os",
+      "urls": [
+        {
+          "name": "12.6.0 (i386, Network installer)",
+          "url": "/debian-cd/current/i386/iso-cd/debian-12.6.0-i386-netinst.iso"
+        },
+        {
+          "name": "12.6.0 (i386, DVD installer (Part 1))",
+          "url": "/debian-cd/current/i386/iso-dvd/debian-12.6.0-i386-DVD-1.iso"
+        },
+        {
+          "name": "12.6.0 (amd64, Network installer)",
+          "url": "/debian-cd/current/amd64/iso-cd/debian-12.6.0-amd64-netinst.iso"
+        },
+        {
+          "name": "12.6.0 (amd64, Live CD with xfce)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.6.0-amd64-xfce.iso"
+        },
+        {
+          "name": "12.6.0 (amd64, Live CD with standard)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.6.0-amd64-standard.iso"
+        },
+        {
+          "name": "12.6.0 (amd64, Live CD with mate)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.6.0-amd64-mate.iso"
+        },
+        {
+          "name": "12.6.0 (amd64, Live CD with lxqt)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.6.0-amd64-lxqt.iso"
+        },
+        {
+          "name": "12.6.0 (amd64, Live CD with lxde)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.6.0-amd64-lxde.iso"
+        },
+        {
+          "name": "12.6.0 (amd64, Live CD with kde)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.6.0-amd64-kde.iso"
+        },
+        {
+          "name": "12.6.0 (amd64, Live CD with gnome)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.6.0-amd64-gnome.iso"
+        },
+        {
+          "name": "12.6.0 (amd64, Live CD with cinnamon)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.6.0-amd64-cinnamon.iso"
+        },
+        {
+          "name": "12.6.0 (amd64, DVD installer (Part 1))",
+          "url": "/debian-cd/current/amd64/iso-dvd/debian-12.6.0-amd64-DVD-1.iso"
+        }
+      ]
+    },
+    {
+      "distro": "deepin",
+      "category": "os",
+      "urls": [
+        {
+          "name": "live-system (amd64, live-system-2.0)",
+          "url": "/deepin-cd/live-system/deepin-live-system-2.0-amd64.iso"
+        }
+      ]
+    },
+    {
+      "distro": "fedora",
+      "category": "os",
+      "urls": [
+        {
+          "name": "40 (x86_64, Silverblue ostree)",
+          "url": "/fedora/releases/40/Silverblue/x86_64/iso/Fedora-Silverblue-ostree-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Server netinst)",
+          "url": "/fedora/releases/40/Server/x86_64/iso/Fedora-Server-netinst-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Server dvd)",
+          "url": "/fedora/releases/40/Server/x86_64/iso/Fedora-Server-dvd-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Live CD with standard workstation desktop environment)",
+          "url": "/fedora/releases/40/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Live CD with i3)",
+          "url": "/fedora/releases/40/Spins/x86_64/iso/Fedora-i3-Live-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Live CD with Xfce)",
+          "url": "/fedora/releases/40/Spins/x86_64/iso/Fedora-Xfce-Live-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Live CD with Sway)",
+          "url": "/fedora/releases/40/Spins/x86_64/iso/Fedora-Sway-Live-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Live CD with SoaS)",
+          "url": "/fedora/releases/40/Spins/x86_64/iso/Fedora-SoaS-Live-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Live CD with MATE_Compiz)",
+          "url": "/fedora/releases/40/Spins/x86_64/iso/Fedora-MATE_Compiz-Live-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Live CD with LXQt)",
+          "url": "/fedora/releases/40/Spins/x86_64/iso/Fedora-LXQt-Live-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Live CD with LXDE)",
+          "url": "/fedora/releases/40/Spins/x86_64/iso/Fedora-LXDE-Live-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Live CD with KDE)",
+          "url": "/fedora/releases/40/Spins/x86_64/iso/Fedora-KDE-Live-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Live CD with Cinnamon)",
+          "url": "/fedora/releases/40/Spins/x86_64/iso/Fedora-Cinnamon-Live-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Live CD with Budgie)",
+          "url": "/fedora/releases/40/Spins/x86_64/iso/Fedora-Budgie-Live-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Everything netinst)",
+          "url": "/fedora/releases/40/Everything/x86_64/iso/Fedora-Everything-netinst-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (osb, Live CD with standard workstation desktop environment)",
+          "url": "/fedora/releases/40/Workstation/x86_64/iso/Fedora-Workstation-Live-osb-40-1.14.x86_64.iso"
+        },
+        {
+          "name": "40 (osb, Live CD with standard workstation desktop environment)",
+          "url": "/fedora/releases/40/Workstation/aarch64/iso/Fedora-Workstation-Live-osb-40-1.14.aarch64.iso"
+        },
+        {
+          "name": "40 (aarch64, Silverblue ostree)",
+          "url": "/fedora/releases/40/Silverblue/aarch64/iso/Fedora-Silverblue-ostree-aarch64-40-1.14.iso"
+        },
+        {
+          "name": "40 (aarch64, Server netinst)",
+          "url": "/fedora/releases/40/Server/aarch64/iso/Fedora-Server-netinst-aarch64-40-1.14.iso"
+        },
+        {
+          "name": "40 (aarch64, Server dvd)",
+          "url": "/fedora/releases/40/Server/aarch64/iso/Fedora-Server-dvd-aarch64-40-1.14.iso"
+        },
+        {
+          "name": "40 (aarch64, Everything netinst)",
+          "url": "/fedora/releases/40/Everything/aarch64/iso/Fedora-Everything-netinst-aarch64-40-1.14.iso"
+        },
+        {
+          "name": "39 (x86_64, Silverblue ostree)",
+          "url": "/fedora/releases/39/Silverblue/x86_64/iso/Fedora-Silverblue-ostree-x86_64-39-1.5.iso"
+        },
+        {
+          "name": "39 (x86_64, Server netinst)",
+          "url": "/fedora/releases/39/Server/x86_64/iso/Fedora-Server-netinst-x86_64-39-1.5.iso"
+        },
+        {
+          "name": "39 (x86_64, Server dvd)",
+          "url": "/fedora/releases/39/Server/x86_64/iso/Fedora-Server-dvd-x86_64-39-1.5.iso"
+        },
+        {
+          "name": "39 (x86_64, Live CD with standard workstation desktop environment)",
+          "url": "/fedora/releases/39/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-39-1.5.iso"
+        },
+        {
+          "name": "39 (x86_64, Live CD with i3)",
+          "url": "/fedora/releases/39/Spins/x86_64/iso/Fedora-i3-Live-x86_64-39-1.5.iso"
+        },
+        {
+          "name": "39 (x86_64, Live CD with Xfce)",
+          "url": "/fedora/releases/39/Spins/x86_64/iso/Fedora-Xfce-Live-x86_64-39-1.5.iso"
+        },
+        {
+          "name": "39 (x86_64, Live CD with Sway)",
+          "url": "/fedora/releases/39/Spins/x86_64/iso/Fedora-Sway-Live-x86_64-39-1.5.iso"
+        },
+        {
+          "name": "39 (x86_64, Live CD with SoaS)",
+          "url": "/fedora/releases/39/Spins/x86_64/iso/Fedora-SoaS-Live-x86_64-39-1.5.iso"
+        },
+        {
+          "name": "39 (x86_64, Live CD with MATE_Compiz)",
+          "url": "/fedora/releases/39/Spins/x86_64/iso/Fedora-MATE_Compiz-Live-x86_64-39-1.5.iso"
+        },
+        {
+          "name": "39 (x86_64, Live CD with LXQt)",
+          "url": "/fedora/releases/39/Spins/x86_64/iso/Fedora-LXQt-Live-x86_64-39-1.5.iso"
+        },
+        {
+          "name": "39 (x86_64, Live CD with LXDE)",
+          "url": "/fedora/releases/39/Spins/x86_64/iso/Fedora-LXDE-Live-x86_64-39-1.5.iso"
+        },
+        {
+          "name": "39 (x86_64, Live CD with KDE)",
+          "url": "/fedora/releases/39/Spins/x86_64/iso/Fedora-KDE-Live-x86_64-39-1.5.iso"
+        },
+        {
+          "name": "39 (x86_64, Live CD with Cinnamon)",
+          "url": "/fedora/releases/39/Spins/x86_64/iso/Fedora-Cinnamon-Live-x86_64-39-1.5.iso"
+        },
+        {
+          "name": "39 (x86_64, Live CD with Budgie)",
+          "url": "/fedora/releases/39/Spins/x86_64/iso/Fedora-Budgie-Live-x86_64-39-1.5.iso"
+        },
+        {
+          "name": "39 (x86_64, Everything netinst)",
+          "url": "/fedora/releases/39/Everything/x86_64/iso/Fedora-Everything-netinst-x86_64-39-1.5.iso"
+        },
+        {
+          "name": "39 (aarch64, Server netinst)",
+          "url": "/fedora/releases/39/Server/aarch64/iso/Fedora-Server-netinst-aarch64-39-1.5.iso"
+        },
+        {
+          "name": "39 (aarch64, Server dvd)",
+          "url": "/fedora/releases/39/Server/aarch64/iso/Fedora-Server-dvd-aarch64-39-1.5.iso"
+        },
+        {
+          "name": "39 (aarch64, Everything netinst)",
+          "url": "/fedora/releases/39/Everything/aarch64/iso/Fedora-Everything-netinst-aarch64-39-1.5.iso"
+        }
+      ]
+    },
+    {
+      "distro": "kali",
+      "category": "os",
+      "urls": [
+        {
+          "name": "2024.2 (i386, live)",
+          "url": "/kali-images/current/kali-linux-2024.2-live-i386.iso"
+        },
+        {
+          "name": "2024.2 (i386, installer-netinst)",
+          "url": "/kali-images/current/kali-linux-2024.2-installer-netinst-i386.iso"
+        },
+        {
+          "name": "2024.2 (i386, installer)",
+          "url": "/kali-images/current/kali-linux-2024.2-installer-i386.iso"
+        },
+        {
+          "name": "2024.2 (arm64, live)",
+          "url": "/kali-images/current/kali-linux-2024.2-live-arm64.iso"
+        },
+        {
+          "name": "2024.2 (arm64, installer-netinst)",
+          "url": "/kali-images/current/kali-linux-2024.2-installer-netinst-arm64.iso"
+        },
+        {
+          "name": "2024.2 (arm64, installer)",
+          "url": "/kali-images/current/kali-linux-2024.2-installer-arm64.iso"
+        },
+        {
+          "name": "2024.2 (amd64, live)",
+          "url": "/kali-images/current/kali-linux-2024.2-live-amd64.iso"
+        },
+        {
+          "name": "2024.2 (amd64, installer-purple)",
+          "url": "/kali-images/current/kali-linux-2024.2-installer-purple-amd64.iso"
+        },
+        {
+          "name": "2024.2 (amd64, installer-netinst)",
+          "url": "/kali-images/current/kali-linux-2024.2-installer-netinst-amd64.iso"
+        },
+        {
+          "name": "2024.2 (amd64, installer)",
+          "url": "/kali-images/current/kali-linux-2024.2-installer-amd64.iso"
+        }
+      ]
+    },
+    {
+      "distro": "MSYS2",
+      "category": "app",
+      "urls": [
+        {
+          "name": "latest (Windows, x86_64)",
+          "url": "/msys2/distrib/msys2-x86_64-latest.exe"
+        }
+      ]
+    },
+    {
+      "distro": "TeX 排版系统",
+      "category": "app",
+      "urls": [
+        {
+          "name": "TeX Live 2024 (Windows & Linux)",
+          "url": "/CTAN/systems/texlive/Images/texlive2024-20240312.iso"
+        },
+        {
+          "name": "MikTeX 24.1 (Windows, x64)",
+          "url": "/CTAN/systems/win32/miktex/setup/windows-x64/basic-miktex-24.1-x64.exe"
+        },
+        {
+          "name": "MikTeX 22.1 (macOS, x86_64)",
+          "url": "/CTAN/systems/win32/miktex/setup/darwin-x86_64/miktex-22.1-darwin-x86_64.dmg"
+        },
+        {
+          "name": "MacTeX 20240312 (macOS)",
+          "url": "/CTAN/systems/mac/mactex/mactex-20240312.pkg"
+        }
+      ]
+    },
+    {
+      "distro": "ubuntu",
+      "category": "os",
+      "urls": [
+        {
+          "name": "xenial-updates (i386, network installer directory)",
+          "url": "/ubuntu/dists/xenial-updates/main/installer-i386/current/images/netboot"
+        },
+        {
+          "name": "xenial-updates (amd64, network installer directory)",
+          "url": "/ubuntu/dists/xenial-updates/main/installer-amd64/current/images/netboot"
+        },
+        {
+          "name": "xenial-proposed (i386, network installer directory)",
+          "url": "/ubuntu/dists/xenial-proposed/main/installer-i386/current/images/netboot"
+        },
+        {
+          "name": "xenial-proposed (amd64, network installer directory)",
+          "url": "/ubuntu/dists/xenial-proposed/main/installer-amd64/current/images/netboot"
+        },
+        {
+          "name": "xenial (i386, network installer directory)",
+          "url": "/ubuntu/dists/xenial/main/installer-i386/current/images/netboot"
+        },
+        {
+          "name": "xenial (amd64, network installer directory)",
+          "url": "/ubuntu/dists/xenial/main/installer-amd64/current/images/netboot"
+        },
+        {
+          "name": "24.04 (s390x, Server)",
+          "url": "/ubuntu-cdimage/releases/noble/release/ubuntu-24.04-live-server-s390x.iso"
+        },
+        {
+          "name": "24.04 (riscv64+visionfive2, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/noble/release/ubuntu-24.04-preinstalled-server-riscv64+visionfive2.img.xz"
+        },
+        {
+          "name": "24.04 (riscv64+unmatched, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/noble/release/ubuntu-24.04-preinstalled-server-riscv64+unmatched.img.xz"
+        },
+        {
+          "name": "24.04 (riscv64+nezha, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/noble/release/ubuntu-24.04-preinstalled-server-riscv64+nezha.img.xz"
+        },
+        {
+          "name": "24.04 (riscv64+milkvmars, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/noble/release/ubuntu-24.04-preinstalled-server-riscv64+milkvmars.img.xz"
+        },
+        {
+          "name": "24.04 (riscv64+licheerv, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/noble/release/ubuntu-24.04-preinstalled-server-riscv64+licheerv.img.xz"
+        },
+        {
+          "name": "24.04 (riscv64+icicle, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/noble/release/ubuntu-24.04-preinstalled-server-riscv64+icicle.img.xz"
+        },
+        {
+          "name": "24.04 (riscv64, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/noble/release/ubuntu-24.04-preinstalled-server-riscv64.img.xz"
+        },
+        {
+          "name": "24.04 (ppc64el, Server)",
+          "url": "/ubuntu-cdimage/releases/noble/release/ubuntu-24.04-live-server-ppc64el.iso"
+        },
+        {
+          "name": "24.04 (arm64+raspi, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/noble/release/ubuntu-24.04-preinstalled-server-arm64+raspi.img.xz"
+        },
+        {
+          "name": "24.04 (arm64+raspi, Preinstalled Desktop)",
+          "url": "/ubuntu-cdimage/releases/noble/release/ubuntu-24.04-preinstalled-desktop-arm64+raspi.img.xz"
+        },
+        {
+          "name": "24.04 (arm64+largemem, Server)",
+          "url": "/ubuntu-cdimage/releases/noble/release/ubuntu-24.04-live-server-arm64+largemem.iso"
+        },
+        {
+          "name": "24.04 (arm64, Server)",
+          "url": "/ubuntu-cdimage/releases/noble/release/ubuntu-24.04-live-server-arm64.iso"
+        },
+        {
+          "name": "23.10 (s390x, Server)",
+          "url": "/ubuntu-cdimage/releases/mantic/release/ubuntu-23.10-live-server-s390x.iso"
+        },
+        {
+          "name": "23.10 (riscv64+visionfive2, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/mantic/release/ubuntu-23.10-preinstalled-server-riscv64+visionfive2.img.xz"
+        },
+        {
+          "name": "23.10 (riscv64+visionfive, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/mantic/release/ubuntu-23.10-preinstalled-server-riscv64+visionfive.img.xz"
+        },
+        {
+          "name": "23.10 (riscv64+unmatched, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/mantic/release/ubuntu-23.10-preinstalled-server-riscv64+unmatched.img.xz"
+        },
+        {
+          "name": "23.10 (riscv64+nezha, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/mantic/release/ubuntu-23.10-preinstalled-server-riscv64+nezha.img.xz"
+        },
+        {
+          "name": "23.10 (riscv64+licheerv, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/mantic/release/ubuntu-23.10-preinstalled-server-riscv64+licheerv.img.xz"
+        },
+        {
+          "name": "23.10 (riscv64+icicle, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/mantic/release/ubuntu-23.10-preinstalled-server-riscv64+icicle.img.xz"
+        },
+        {
+          "name": "23.10 (riscv64, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/mantic/release/ubuntu-23.10-preinstalled-server-riscv64.img.xz"
+        },
+        {
+          "name": "23.10 (ppc64el, Server)",
+          "url": "/ubuntu-cdimage/releases/mantic/release/ubuntu-23.10-live-server-ppc64el.iso"
+        },
+        {
+          "name": "23.10 (armhf+raspi, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/mantic/release/ubuntu-23.10-preinstalled-server-armhf+raspi.img.xz"
+        },
+        {
+          "name": "23.10 (arm64+raspi, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/mantic/release/ubuntu-23.10-preinstalled-server-arm64+raspi.img.xz"
+        },
+        {
+          "name": "23.10 (arm64+raspi, Preinstalled Desktop)",
+          "url": "/ubuntu-cdimage/releases/mantic/release/ubuntu-23.10-preinstalled-desktop-arm64+raspi.img.xz"
+        },
+        {
+          "name": "23.10 (arm64, Server)",
+          "url": "/ubuntu-cdimage/releases/mantic/release/ubuntu-23.10-live-server-arm64.iso"
+        },
+        {
+          "name": "22.04.4 (s390x, Server)",
+          "url": "/ubuntu-cdimage/releases/jammy/release/ubuntu-22.04.4-live-server-s390x.iso"
+        },
+        {
+          "name": "22.04.4 (riscv64+visionfive, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/jammy/release/ubuntu-22.04.4-preinstalled-server-riscv64+visionfive.img.xz"
+        },
+        {
+          "name": "22.04.4 (riscv64+unmatched, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/jammy/release/ubuntu-22.04.4-preinstalled-server-riscv64+unmatched.img.xz"
+        },
+        {
+          "name": "22.04.4 (riscv64+nezha, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/jammy/release/ubuntu-22.04.4-preinstalled-server-riscv64+nezha.img.xz"
+        },
+        {
+          "name": "22.04.4 (riscv64+licheerv, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/jammy/release/ubuntu-22.04.4-preinstalled-server-riscv64+licheerv.img.xz"
+        },
+        {
+          "name": "22.04.4 (riscv64+icicle, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/jammy/release/ubuntu-22.04.4-preinstalled-server-riscv64+icicle.img.xz"
+        },
+        {
+          "name": "22.04.4 (ppc64el, Server)",
+          "url": "/ubuntu-cdimage/releases/jammy/release/ubuntu-22.04.4-live-server-ppc64el.iso"
+        },
+        {
+          "name": "22.04.4 (armhf+raspi, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/jammy/release/ubuntu-22.04.4-preinstalled-server-armhf+raspi.img.xz"
+        },
+        {
+          "name": "22.04.4 (arm64+raspi, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/jammy/release/ubuntu-22.04.4-preinstalled-server-arm64+raspi.img.xz"
+        },
+        {
+          "name": "22.04.4 (arm64+raspi, Preinstalled Desktop)",
+          "url": "/ubuntu-cdimage/releases/jammy/release/ubuntu-22.04.4-preinstalled-desktop-arm64+raspi.img.xz"
+        },
+        {
+          "name": "22.04.4 (arm64+largemem, Server)",
+          "url": "/ubuntu-cdimage/releases/jammy/release/ubuntu-22.04.4-live-server-arm64+largemem.iso"
+        },
+        {
+          "name": "22.04.4 (arm64, Server)",
+          "url": "/ubuntu-cdimage/releases/jammy/release/ubuntu-22.04.4-live-server-arm64.iso"
+        },
+        {
+          "name": "20.04.5 (s390x, Server)",
+          "url": "/ubuntu-cdimage/releases/focal/release/ubuntu-20.04.5-live-server-s390x.iso"
+        },
+        {
+          "name": "20.04.5 (riscv64+unmatched, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/focal/release/ubuntu-20.04.5-preinstalled-server-riscv64+unmatched.img.xz"
+        },
+        {
+          "name": "20.04.5 (ppc64el, Server)",
+          "url": "/ubuntu-cdimage/releases/focal/release/ubuntu-20.04.5-live-server-ppc64el.iso"
+        },
+        {
+          "name": "20.04.5 (armhf+raspi, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/focal/release/ubuntu-20.04.5-preinstalled-server-armhf+raspi.img.xz"
+        },
+        {
+          "name": "20.04.5 (arm64+raspi, Preinstalled Server)",
+          "url": "/ubuntu-cdimage/releases/focal/release/ubuntu-20.04.5-preinstalled-server-arm64+raspi.img.xz"
+        },
+        {
+          "name": "20.04.5 (arm64, Server)",
+          "url": "/ubuntu-cdimage/releases/focal/release/ubuntu-20.04.5-live-server-arm64.iso"
+        },
+        {
+          "name": "18.04.6 (arm64, Server)",
+          "url": "/ubuntu-cdimage/releases/bionic/release/ubuntu-18.04.6-server-arm64.iso"
+        },
+        {
+          "name": "18.04.6 (amd64, Server)",
+          "url": "/ubuntu-cdimage/releases/bionic/release/ubuntu-18.04.6-server-amd64.iso"
+        },
+        {
+          "name": "18.04.5 (s390x, Server)",
+          "url": "/ubuntu-cdimage/releases/bionic/release/ubuntu-18.04.5-server-s390x.iso"
+        },
+        {
+          "name": "18.04.5 (ppc64el, Server)",
+          "url": "/ubuntu-cdimage/releases/bionic/release/ubuntu-18.04.5-server-ppc64el.iso"
+        },
+        {
+          "name": "16.04.7 (arm64, Server)",
+          "url": "/ubuntu-cdimage/releases/xenial/release/ubuntu-16.04.7-server-arm64.iso"
+        },
+        {
+          "name": "16.04.6 (s390x, Server)",
+          "url": "/ubuntu-cdimage/releases/xenial/release/ubuntu-16.04.6-server-s390x.iso"
+        },
+        {
+          "name": "16.04.6 (ppc64el, Server)",
+          "url": "/ubuntu-cdimage/releases/xenial/release/ubuntu-16.04.6-server-ppc64el.iso"
+        },
+        {
+          "name": "16.04.6 (powerpc, Server)",
+          "url": "/ubuntu-cdimage/releases/xenial/release/ubuntu-16.04.6-server-powerpc.iso"
+        },
+        {
+          "name": "16.04.6 (arm64, Server)",
+          "url": "/ubuntu-cdimage/releases/xenial/release/ubuntu-16.04.6-server-arm64.iso"
+        }
+      ]
+    },
+    {
+      "distro": "Ubuntu Core",
+      "category": "os",
+      "urls": [
+        {
+          "name": "22 (armhf+raspi, .img.xz)",
+          "url": "/ubuntu-cdimage/ubuntu-core/22/stable/current/ubuntu-core-22-armhf+raspi.img.xz"
+        },
+        {
+          "name": "22 (arm64+raspi, .img.xz)",
+          "url": "/ubuntu-cdimage/ubuntu-core/22/stable/current/ubuntu-core-22-arm64+raspi.img.xz"
+        },
+        {
+          "name": "22 (arm64, .img.xz)",
+          "url": "/ubuntu-cdimage/ubuntu-core/22/stable/current/ubuntu-core-22-arm64.img.xz"
+        },
+        {
+          "name": "22 (amd64+intel-iot, .img.xz)",
+          "url": "/ubuntu-cdimage/ubuntu-core/22/stable/current/ubuntu-core-22-amd64+intel-iot.img.xz"
+        },
+        {
+          "name": "22 (amd64, .img.xz)",
+          "url": "/ubuntu-cdimage/ubuntu-core/22/stable/current/ubuntu-core-22-amd64.img.xz"
+        },
+        {
+          "name": "20 (armhf+raspi, .img.xz)",
+          "url": "/ubuntu-cdimage/ubuntu-core/20/stable/current/ubuntu-core-20-armhf+raspi.img.xz"
+        },
+        {
+          "name": "20 (arm64+raspi, .img.xz)",
+          "url": "/ubuntu-cdimage/ubuntu-core/20/stable/current/ubuntu-core-20-arm64+raspi.img.xz"
+        },
+        {
+          "name": "20 (amd64+intel-iot, .img.xz)",
+          "url": "/ubuntu-cdimage/ubuntu-core/20/stable/current/ubuntu-core-20-amd64+intel-iot.img.xz"
+        },
+        {
+          "name": "20 (amd64, .img.xz)",
+          "url": "/ubuntu-cdimage/ubuntu-core/20/stable/current/ubuntu-core-20-amd64.img.xz"
+        },
+        {
+          "name": "18 (i386, .img.xz)",
+          "url": "/ubuntu-cdimage/ubuntu-core/18/stable/current/ubuntu-core-18-i386.img.xz"
+        },
+        {
+          "name": "18 (armhf+raspi4, .img.xz)",
+          "url": "/ubuntu-cdimage/ubuntu-core/18/stable/current/ubuntu-core-18-armhf+raspi4.img.xz"
+        },
+        {
+          "name": "18 (armhf+raspi3, .img.xz)",
+          "url": "/ubuntu-cdimage/ubuntu-core/18/stable/current/ubuntu-core-18-armhf+raspi3.img.xz"
+        },
+        {
+          "name": "18 (armhf+raspi2, .img.xz)",
+          "url": "/ubuntu-cdimage/ubuntu-core/18/stable/current/ubuntu-core-18-armhf+raspi2.img.xz"
+        },
+        {
+          "name": "18 (armhf+raspi, .img.xz)",
+          "url": "/ubuntu-cdimage/ubuntu-core/18/stable/current/ubuntu-core-18-armhf+raspi.img.xz"
+        },
+        {
+          "name": "18 (arm64+snapdragon, .img.xz)",
+          "url": "/ubuntu-cdimage/ubuntu-core/18/stable/current/ubuntu-core-18-arm64+snapdragon.img.xz"
+        },
+        {
+          "name": "18 (arm64+raspi4, .img.xz)",
+          "url": "/ubuntu-cdimage/ubuntu-core/18/stable/current/ubuntu-core-18-arm64+raspi4.img.xz"
+        },
+        {
+          "name": "18 (arm64+raspi3, .img.xz)",
+          "url": "/ubuntu-cdimage/ubuntu-core/18/stable/current/ubuntu-core-18-arm64+raspi3.img.xz"
+        },
+        {
+          "name": "18 (arm64+raspi, .img.xz)",
+          "url": "/ubuntu-cdimage/ubuntu-core/18/stable/current/ubuntu-core-18-arm64+raspi.img.xz"
+        },
+        {
+          "name": "18 (amd64+kassel, .img.xz)",
+          "url": "/ubuntu-cdimage/ubuntu-core/18/stable/current/ubuntu-core-18-amd64+kassel.img.xz"
+        },
+        {
+          "name": "18 (amd64, .img.xz)",
+          "url": "/ubuntu-cdimage/ubuntu-core/18/stable/current/ubuntu-core-18-amd64.img.xz"
+        }
+      ]
+    },
+    {
+      "distro": "Ubuntu 衍生版",
+      "category": "os",
+      "urls": [
+        {
+          "name": "Xubuntu 24.04 (amd64)",
+          "url": "/ubuntu-cdimage/xubuntu/releases/noble/release/xubuntu-24.04-desktop-amd64.iso"
+        },
+        {
+          "name": "Ubuntu Mate 24.04 (amd64)",
+          "url": "/ubuntu-cdimage/ubuntu-mate/releases/noble/release/ubuntu-mate-24.04-desktop-amd64.iso"
+        },
+        {
+          "name": "Ubuntu Kylin 24.04 (amd64)",
+          "url": "/ubuntu-cdimage/ubuntukylin/releases/noble/release/ubuntukylin-24.04-desktop-amd64.iso"
+        },
+        {
+          "name": "Ubuntu Gnome 16.04.5 (i386)",
+          "url": "/ubuntu-cdimage/ubuntu-gnome/releases/xenial/release/ubuntu-gnome-16.04.5-desktop-i386.iso"
+        },
+        {
+          "name": "Ubuntu Gnome 16.04.5 (amd64)",
+          "url": "/ubuntu-cdimage/ubuntu-gnome/releases/xenial/release/ubuntu-gnome-16.04.5-desktop-amd64.iso"
+        },
+        {
+          "name": "Lubuntu 24.04 (amd64)",
+          "url": "/ubuntu-cdimage/lubuntu/releases/noble/release/lubuntu-24.04-desktop-amd64.iso"
+        },
+        {
+          "name": "Kubuntu 24.04 (amd64)",
+          "url": "/ubuntu-cdimage/kubuntu/releases/noble/release/kubuntu-24.04-desktop-amd64.iso"
+        }
+      ]
+    }
+  ],
+  "mirrors": [
+    {
+      "cname": "archlinux",
+      "options_name": "archlinux",
+      "url": "/archlinux",
+      "status": "S1722590097X1722633297",
+      "upstream": "rsync://rsync.mirrors.ustc.edu.cn/archlinux/",
+      "size": "105.18G",
+      "desc": "Arch Linux 的安装镜像和官方软件包仓库",
+      "help": "/help/archlinux/"
+    },
+    {
+      "cname": "bmclapi",
+      "options_name": "bmclapi",
+      "url": "/bmclapi",
+      "status": "S1722597708X1722640908",
+      "upstream": "rsync://rsync.mirrors.ustc.edu.cn/bmclapi/",
+      "size": "82.44G"
+    },
+    {
+      "cname": "centos-stream",
+      "options_name": "centos-stream",
+      "url": "/centos-stream",
+      "status": "S1722574169X1722617369",
+      "upstream": "rsync://rsync.mirrors.ustc.edu.cn/centos-stream/",
+      "size": "2.93T",
+      "help": "/help/centos-stream/"
+    },
+    {
+      "cname": "ceph",
+      "options_name": "ceph",
+      "url": "/ceph",
+      "status": "S1722574547X1722617747",
+      "upstream": "rsync://rsync.mirrors.ustc.edu.cn/ceph/",
+      "size": "526.29G",
+      "desc": "高性能对象存储和文件系统",
+      "help": "/help/ceph/"
+    },
+    {
+      "cname": "CRAN",
+      "options_name": "CRAN",
+      "url": "/CRAN",
+      "status": "S1722583863X1722627063",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/CRAN/",
+      "size": "463.32G",
+      "desc": "R 语言的可执行文件、源代码和说明文件，也收录了各种用户撰写的软件包",
+      "help": "/help/CRAN/"
+    },
+    {
+      "cname": "CTAN",
+      "options_name": "CTAN",
+      "url": "/CTAN",
+      "status": "S1722573839X1722617039",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/CTAN/",
+      "size": "59.98G",
+      "desc": "TeX 的各种发行版、软件包和文档",
+      "help": "/help/CTAN/"
+    },
+    {
+      "cname": "debian",
+      "options_name": "debian",
+      "url": "/debian",
+      "status": "S1722582943X1722626143",
+      "upstream": "rsync://rsync.mirrors.ustc.edu.cn/debian/",
+      "size": "1.99T",
+      "desc": "Debian Linux 的官方软件包仓库",
+      "help": "/help/debian/"
+    },
+    {
+      "cname": "debian-cd",
+      "options_name": "debian-cd",
+      "url": "/debian-cd",
+      "status": "S1722583442X1722626642",
+      "upstream": "rsync://rsync.mirrors.ustc.edu.cn/debian-cd/",
+      "size": "232.64G",
+      "desc": "Debian Linux 的安装镜像"
+    },
+    {
+      "cname": "deepin",
+      "options_name": "deepin",
+      "url": "/deepin",
+      "status": "S1722597346X1722640546",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/deepin/",
+      "size": "691.79G",
+      "desc": "Deepin Linux 的官方软件包仓库"
+    },
+    {
+      "cname": "deepin-cd",
+      "options_name": "deepin-cd",
+      "url": "/deepin-cd",
+      "status": "S1722592325X1722635525",
+      "upstream": "rsync://rsync.mirrors.ustc.edu.cn/deepin-cd/",
+      "size": "86.55G",
+      "desc": "Deepin Linux 的安装镜像"
+    },
+    {
+      "cname": "epel",
+      "options_name": "epel",
+      "url": "/epel",
+      "status": "S1722591011X1722634211",
+      "upstream": "rsync://rsync.mirrors.ustc.edu.cn/epel/",
+      "size": "400.91G",
+      "desc": "企业版 Linux 附加软件包",
+      "help": "/help/epel/"
+    },
+    {
+      "cname": "fedora",
+      "options_name": "fedora",
+      "url": "/fedora",
+      "status": "S1722571878X1722615078",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/fedora/",
+      "size": "1.19T",
+      "desc": "Fedora Linux 的安装镜像和官方软件包仓库",
+      "help": "/help/fedora/"
+    },
+    {
+      "cname": "kali",
+      "options_name": "kali",
+      "url": "/kali",
+      "status": "S1722598717X1722641917",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/kali/",
+      "size": "667.38G",
+      "desc": "Kali Linux 的官方软件包仓库",
+      "help": "/help/kali/"
+    },
+    {
+      "cname": "kali-images",
+      "options_name": "kali-images",
+      "url": "/kali-images",
+      "status": "S1722591205X1722634405",
+      "upstream": "rsync://rsync.mirrors.ustc.edu.cn/kali-images/",
+      "size": "185.26G",
+      "desc": "Kali Linux 的安装镜像"
+    },
+    {
+      "cname": "kernel",
+      "options_name": "kernel",
+      "url": "/kernel",
+      "status": "S1722562265X1722605465",
+      "upstream": "rsync://rsync.mirrors.ustc.edu.cn/kernel/",
+      "size": "unknown",
+      "desc": "各个版本的 Linux 内核源代码压缩包和补丁"
+    },
+    {
+      "cname": "loongson",
+      "options_name": "loongson",
+      "url": "/loongson",
+      "status": "F1722571338X1722614538",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/loongson/",
+      "size": "unknown",
+      "desc": "用于龙芯电脑的软件包"
+    },
+    {
+      "cname": "msys2",
+      "options_name": "msys2",
+      "url": "/msys2",
+      "status": "S1722601575X1722644775",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/msys2/",
+      "size": "909.75G",
+      "desc": "用于编译原生 Windows 程序的类 Linux 开发环境",
+      "help": "/help/msys2/"
+    },
+    {
+      "cname": "openwrt",
+      "options_name": "openwrt",
+      "url": "/openwrt",
+      "status": "S1722599605X1722642805",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/openwrt/",
+      "size": "2.43T",
+      "desc": "OpenWrt/LEDE 软件包镜像源",
+      "help": "/help/openwrt/"
+    },
+    {
+      "cname": "rocky",
+      "options_name": "rocky",
+      "url": "/rocky",
+      "status": "S1722598926X1722642126",
+      "upstream": "rsync://rsync.mirrors.ustc.edu.cn/rocky/",
+      "size": "1.37T"
+    },
+    {
+      "cname": "ros",
+      "options_name": "ros",
+      "url": "/ros",
+      "status": "S1722593264X1722636464",
+      "upstream": "rsync://rsync.mirrors.ustc.edu.cn/ros/",
+      "size": "58.44G",
+      "desc": "ROS 提供一系列程序库和工具以帮助软件开发者创建机器人应用软件",
+      "help": "/help/ros/"
+    },
+    {
+      "cname": "ros2",
+      "options_name": "ros2",
+      "url": "/ros2",
+      "status": "S1722579102X1722622302",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/ros2/",
+      "size": "105.60G",
+      "desc": "ROS (Robot Operating System) 2.0 版本",
+      "help": "/help/ros2/"
+    },
+    {
+      "cname": "tuna",
+      "url": "/tuna",
+      "status": "U",
+      "upstream": "cloud.tsinghua.edu.cn"
+    },
+    {
+      "cname": "ubuntu",
+      "options_name": "ubuntu",
+      "url": "/ubuntu",
+      "status": "S1722587167X1722630367",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/ubuntu/",
+      "size": "3.12T",
+      "desc": "流行的 Linux 发行版 Ubuntu 的安装镜像和官方软件包仓库",
+      "help": "/help/ubuntu/"
+    },
+    {
+      "cname": "ubuntu-cdimage",
+      "options_name": "ubuntu-cdimage",
+      "url": "/ubuntu-cdimage",
+      "status": "F1722578036O1717243081X1722621236",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/ubuntu-release/",
+      "size": "894.86G",
+      "desc": "Ubuntu 及 Ubuntu 衍生版各版本安装镜像"
+    }
+  ],
+  "endpoints": [
+    {
+      "label": "qlut",
+      "public": true,
+      "resolve": "mirrors.qlu.edu.cn",
+      "filter": [
+        "V4",
+        "SSL",
+        "NOSSL"
+      ],
+      "range": [
+        "COUNTRY:CN",
+        "REGION:SD",
+        "ISP:CERNET"
+      ]
+    },
+    {
+      "label": "qlut6",
+      "public": true,
+      "resolve": "mirrors.qlu.edu.cn",
+      "filter": [
+        "V6",
+        "NOSSL"
+      ],
+      "range": [
+        "COUNTRY:CN",
+        "REGION:SD",
+        "ISP:CERNET"
+      ]
+    }
+  ],
+  "extension": "D"
+}
