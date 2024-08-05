@@ -138,7 +138,7 @@ jobs:
           tar xzf dist-${{ matrix.build_type }}.tar.gz
           remote_repo="https://x-access-token:${ACCESS_TOKEN}@github.com/${PUBLISH_REPOSITORY}.git"
           if [[ "${{ matrix.build_type }}" == "mirrorz" ]]; then
-            remote_branch="master"
+            remote_branch="build"
           else
             remote_branch="cernet"
           fi
