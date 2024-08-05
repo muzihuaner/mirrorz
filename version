@@ -1,5 +1,5 @@
-frontend: c2cb6b0 Update deploy.yml
-config: ddb0269 nwafu: update to current configuration
+frontend: 6b5ed86 Update deploy.yml
+config: e9f8e84 Update mirrorz.org.json
 parser: bb804e2 Update hit.js
 i18n: fc9633e Add dependencies for speedtest scripts
 json_site: 8f17419 nwafu: remove big
