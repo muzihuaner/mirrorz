@@ -138,15 +138,15 @@ jobs:
           tar xzf dist-${{ matrix.build_type }}.tar.gz
           remote_repo="https://x-access-token:${ACCESS_TOKEN}@github.com/${PUBLISH_REPOSITORY}.git"
           if [[ "${{ matrix.build_type }}" == "mirrorz" ]]; then
-            remote_branch="build"
+            remote_branch="main"
           else
             remote_branch="cernet"
           fi
           git_commit_id=$(git rev-parse --short HEAD)
           mkdir _site_remote && cd _site_remote
           git init
-          git config user.name "Mirrorz Bot"
-          git config user.email "bot@mirrorz.org"
+          git config user.name "muzihuaner"
+          git config user.email "muzihuaner@hotmail.com"
           git remote add origin $remote_repo
           git pull origin $remote_branch
           git checkout $remote_branch
