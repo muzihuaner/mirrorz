@@ -32,7 +32,7 @@ jobs:
       - name: Prepare parser, config, i18n, oh-my-mirrorz
         run: |
           git clone https://github.com/muzihuaner/mirrorz-parser.git src/parser
-          git clone https://github.com/mirrorz-org/mirrorz-config.git src/config
+          git clone https://github.com/muzihuaner/mirrorz-config.git src/config
           git clone https://github.com/mirrorz-org/mirrorz-i18n.git src/i18n
           yarn ${{ matrix.build_type }}_env
           git clone https://github.com/mirrorz-org/oh-my-mirrorz.git scripts/oh-my-mirrorz
