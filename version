@@ -1,6 +1,6 @@
 frontend: c2cb6b0 Update deploy.yml
 config: ddb0269 nwafu: update to current configuration
-parser: 481b365 Add nwafu
+parser: 775f4de Update xtom.js
 i18n: fc9633e Add dependencies for speedtest scripts
 json_site: 8f17419 nwafu: remove big
 json_legacy: 2024-08-04T13:22:59.952Z
