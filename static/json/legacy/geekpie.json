@@ -1,0 +1,3331 @@
+{
+  "site": {
+    "url": "https://mirrors.shanghaitech.edu.cn",
+    "logo": "https://mirrors.shanghaitech.edu.cn/logo/icon_light.svg",
+    "logo_darkmode": "https://mirrors.shanghaitech.edu.cn/logo/icon_dark.svg",
+    "abbr": "ShanghaiTech GeekPie",
+    "name": "上海科技大学 GeekPie 开源镜像站",
+    "email": "pie at geekpie dot club",
+    "group": "https://t.me/GeekPie_mirrors; https://jq.qq.com/?k=UjYsRHCR"
+  },
+  "info": [
+    {
+      "distro": "alpine",
+      "category": "os",
+      "urls": [
+        {
+          "name": "3.20.2 (x86_64, xen)",
+          "url": "/alpine/latest-stable/releases/x86_64/alpine-xen-3.20.2-x86_64.iso"
+        },
+        {
+          "name": "3.20.2 (x86_64, virt)",
+          "url": "/alpine/latest-stable/releases/x86_64/alpine-virt-3.20.2-x86_64.iso"
+        },
+        {
+          "name": "3.20.2 (x86_64, standard)",
+          "url": "/alpine/latest-stable/releases/x86_64/alpine-standard-3.20.2-x86_64.iso"
+        },
+        {
+          "name": "3.20.2 (x86_64, extended)",
+          "url": "/alpine/latest-stable/releases/x86_64/alpine-extended-3.20.2-x86_64.iso"
+        },
+        {
+          "name": "3.20.2 (x86, virt)",
+          "url": "/alpine/latest-stable/releases/x86/alpine-virt-3.20.2-x86.iso"
+        },
+        {
+          "name": "3.20.2 (x86, standard)",
+          "url": "/alpine/latest-stable/releases/x86/alpine-standard-3.20.2-x86.iso"
+        },
+        {
+          "name": "3.20.2 (x86, extended)",
+          "url": "/alpine/latest-stable/releases/x86/alpine-extended-3.20.2-x86.iso"
+        },
+        {
+          "name": "3.20.2 (s390x, standard)",
+          "url": "/alpine/latest-stable/releases/s390x/alpine-standard-3.20.2-s390x.iso"
+        },
+        {
+          "name": "3.20.2 (ppc64le, standard)",
+          "url": "/alpine/latest-stable/releases/ppc64le/alpine-standard-3.20.2-ppc64le.iso"
+        },
+        {
+          "name": "3.20.2 (armv7, virt)",
+          "url": "/alpine/latest-stable/releases/armv7/alpine-virt-3.20.2-armv7.iso"
+        },
+        {
+          "name": "3.20.2 (armv7, standard)",
+          "url": "/alpine/latest-stable/releases/armv7/alpine-standard-3.20.2-armv7.iso"
+        },
+        {
+          "name": "3.20.2 (aarch64, virt)",
+          "url": "/alpine/latest-stable/releases/aarch64/alpine-virt-3.20.2-aarch64.iso"
+        },
+        {
+          "name": "3.20.2 (aarch64, standard)",
+          "url": "/alpine/latest-stable/releases/aarch64/alpine-standard-3.20.2-aarch64.iso"
+        }
+      ]
+    },
+    {
+      "distro": "anthon",
+      "category": "os",
+      "urls": [
+        {
+          "name": "20240730 (amd64, emukit)",
+          "url": "/anthon/aosc-os/os-amd64/emukit/aosc-os_emukit_20240730_amd64.tar.xz"
+        },
+        {
+          "name": "20240704 (loongson3, buildkit)",
+          "url": "/anthon/aosc-os/os-loongson3/buildkit/aosc-os_buildkit_20240704_loongson3.tar.xz"
+        },
+        {
+          "name": "20240414 (loongarch64, server)",
+          "url": "/anthon/aosc-os/os-loongarch64/server/aosc-os_server_20240414_loongarch64.tar.xz"
+        },
+        {
+          "name": "20240414 (loongarch64, desktop)",
+          "url": "/anthon/aosc-os/os-loongarch64/desktop/aosc-os_desktop_20240414_loongarch64.tar.xz"
+        },
+        {
+          "name": "20240414 (loongarch64, container)",
+          "url": "/anthon/aosc-os/os-loongarch64/container/aosc-os_container_20240414_loongarch64.tar.xz"
+        },
+        {
+          "name": "20240414 (loongarch64, buildkit)",
+          "url": "/anthon/aosc-os/os-loongarch64/buildkit/aosc-os_buildkit_20240414_loongarch64.tar.xz"
+        },
+        {
+          "name": "20240414 (loongarch64, base)",
+          "url": "/anthon/aosc-os/os-loongarch64/base/aosc-os_base_20240414_loongarch64.tar.xz"
+        },
+        {
+          "name": "20240414 (arm64, server)",
+          "url": "/anthon/aosc-os/os-arm64/server/aosc-os_server_20240414_arm64.tar.xz"
+        },
+        {
+          "name": "20240414 (arm64, desktop)",
+          "url": "/anthon/aosc-os/os-arm64/desktop/aosc-os_desktop_20240414_arm64.tar.xz"
+        },
+        {
+          "name": "20240414 (arm64, container)",
+          "url": "/anthon/aosc-os/os-arm64/container/aosc-os_container_20240414_arm64.tar.xz"
+        },
+        {
+          "name": "20240414 (arm64, buildkit)",
+          "url": "/anthon/aosc-os/os-arm64/buildkit/aosc-os_buildkit_20240414_arm64.tar.xz"
+        },
+        {
+          "name": "20240414 (arm64, base)",
+          "url": "/anthon/aosc-os/os-arm64/base/aosc-os_base_20240414_arm64.tar.xz"
+        },
+        {
+          "name": "20240414 (amd64, server)",
+          "url": "/anthon/aosc-os/os-amd64/server/aosc-os_server_20240414_amd64.tar.xz"
+        },
+        {
+          "name": "20240414 (amd64, desktop+nvidia)",
+          "url": "/anthon/aosc-os/os-amd64/desktop+nvidia/aosc-os_desktop+nvidia_20240414_amd64.tar.xz"
+        },
+        {
+          "name": "20240414 (amd64, desktop)",
+          "url": "/anthon/aosc-os/os-amd64/desktop/aosc-os_desktop_20240414_amd64.tar.xz"
+        },
+        {
+          "name": "20240414 (amd64, container)",
+          "url": "/anthon/aosc-os/os-amd64/container/aosc-os_container_20240414_amd64.tar.xz"
+        },
+        {
+          "name": "20240414 (amd64, buildkit)",
+          "url": "/anthon/aosc-os/os-amd64/buildkit/aosc-os_buildkit_20240414_amd64.tar.xz"
+        },
+        {
+          "name": "20240414 (amd64, base)",
+          "url": "/anthon/aosc-os/os-amd64/base/aosc-os_base_20240414_amd64.tar.xz"
+        },
+        {
+          "name": "20240405 (loongson3, desktop)",
+          "url": "/anthon/aosc-os/os-loongson3/desktop/aosc-os_desktop_20240405_loongson3.tar.xz"
+        },
+        {
+          "name": "20240331 (riscv64, buildkit)",
+          "url": "/anthon/aosc-os/os-riscv64/buildkit/aosc-os_buildkit_20240331_riscv64.tar.xz"
+        },
+        {
+          "name": "20240331 (ppc64el, buildkit)",
+          "url": "/anthon/aosc-os/os-ppc64el/buildkit/aosc-os_buildkit_20240331_ppc64el.tar.xz"
+        },
+        {
+          "name": "20240331 (mips64r6el, buildkit)",
+          "url": "/anthon/aosc-os/os-mips64r6el/buildkit/aosc-os_buildkit_20240331_mips64r6el.tar.xz"
+        },
+        {
+          "name": "20240325 (riscv64, base)",
+          "url": "/anthon/aosc-os/os-riscv64/base/aosc-os_base_20240325_riscv64.tar.xz"
+        },
+        {
+          "name": "20231025 (mips64r6el, base)",
+          "url": "/anthon/aosc-os/os-mips64r6el/base/aosc-os_base_20231025_mips64r6el.tar.xz"
+        },
+        {
+          "name": "20231018 (ppc64el, server)",
+          "url": "/anthon/aosc-os/os-ppc64el/server/aosc-os_server_20231018_ppc64el.tar.xz"
+        },
+        {
+          "name": "20231018 (ppc64el, desktop)",
+          "url": "/anthon/aosc-os/os-ppc64el/desktop/aosc-os_desktop_20231018_ppc64el.tar.xz"
+        },
+        {
+          "name": "20231018 (ppc64el, container)",
+          "url": "/anthon/aosc-os/os-ppc64el/container/aosc-os_container_20231018_ppc64el.tar.xz"
+        },
+        {
+          "name": "20231018 (ppc64el, base)",
+          "url": "/anthon/aosc-os/os-ppc64el/base/aosc-os_base_20231018_ppc64el.tar.xz"
+        },
+        {
+          "name": "20231016 (riscv64, server)",
+          "url": "/anthon/aosc-os/os-riscv64/server/aosc-os_server_20231016_riscv64.tar.xz"
+        },
+        {
+          "name": "20231016 (riscv64, container)",
+          "url": "/anthon/aosc-os/os-riscv64/container/aosc-os_container_20231016_riscv64.tar.xz"
+        },
+        {
+          "name": "20231016 (loongson3, server)",
+          "url": "/anthon/aosc-os/os-loongson3/server/aosc-os_server_20231016_loongson3.tar.xz"
+        },
+        {
+          "name": "20231016 (loongson3, container)",
+          "url": "/anthon/aosc-os/os-loongson3/container/aosc-os_container_20231016_loongson3.tar.xz"
+        },
+        {
+          "name": "20231016 (loongson3, base)",
+          "url": "/anthon/aosc-os/os-loongson3/base/aosc-os_base_20231016_loongson3.tar.xz"
+        },
+        {
+          "name": "20230713 (i486, server)",
+          "url": "/anthon/aosc-os/os-i486/server/aosc-os_server_20230713_i486.tar.xz"
+        },
+        {
+          "name": "20230713 (i486, desktop)",
+          "url": "/anthon/aosc-os/os-i486/desktop/aosc-os_desktop_20230713_i486.tar.xz"
+        },
+        {
+          "name": "20230713 (i486, buildkit)",
+          "url": "/anthon/aosc-os/os-i486/buildkit/aosc-os_buildkit_20230713_i486.tar.xz"
+        },
+        {
+          "name": "20230713 (i486, base)",
+          "url": "/anthon/aosc-os/os-i486/base/aosc-os_base_20230713_i486.tar.xz"
+        },
+        {
+          "name": "20220824 (loongson2f, retro)",
+          "url": "/anthon/aosc-os/os-loongson2f/base/aosc-os_retro_20220824_loongson2f.tar.xz"
+        },
+        {
+          "name": "20220809 (m68k, server)",
+          "url": "/anthon/aosc-os/os-m68k/server/aosc-os_server_20220809_m68k.tar.xz"
+        },
+        {
+          "name": "20220809 (m68k, buildkit)",
+          "url": "/anthon/aosc-os/os-m68k/buildkit/aosc-os_buildkit_20220809_m68k.tar.xz"
+        },
+        {
+          "name": "20220809 (m68k, base)",
+          "url": "/anthon/aosc-os/os-m68k/base/aosc-os_base_20220809_m68k.tar.xz"
+        },
+        {
+          "name": "20220801 (i486, minimal)",
+          "url": "/anthon/aosc-os/os-i486/minimal/aosc-os_minimal_20220801_i486.tar.xz"
+        },
+        {
+          "name": "20220520 (armv7hf, buildkit)",
+          "url": "/anthon/aosc-os/os-armv7hf/buildkit/aosc-os_buildkit_20220520_armv7hf.tar.xz"
+        },
+        {
+          "name": "20220520 (armv6hf, buildkit)",
+          "url": "/anthon/aosc-os/os-armv6hf/buildkit/aosc-os_buildkit_20220520_armv6hf.tar.xz"
+        },
+        {
+          "name": "20201022 (ppc64, buildkit)",
+          "url": "/anthon/aosc-os/os-ppc64/buildkit/aosc-os_buildkit_20201022_ppc64.tar.xz"
+        },
+        {
+          "name": "20201022 (powerpc, buildkit)",
+          "url": "/anthon/aosc-os/os-powerpc/buildkit/aosc-os_buildkit_20201022_powerpc.tar.xz"
+        }
+      ]
+    },
+    {
+      "distro": "archlinux",
+      "category": "os",
+      "urls": [
+        {
+          "name": "2024.08.01 (x86_64, CLI-only)",
+          "url": "/archlinux/iso/2024.08.01/archlinux-2024.08.01-x86_64.iso"
+        },
+        {
+          "name": "2024.07.01 (x86_64, CLI-only)",
+          "url": "/archlinux/iso/2024.07.01/archlinux-2024.07.01-x86_64.iso"
+        },
+        {
+          "name": "2024.06.01 (x86_64, CLI-only)",
+          "url": "/archlinux/iso/2024.06.01/archlinux-2024.06.01-x86_64.iso"
+        }
+      ]
+    },
+    {
+      "distro": "armbian",
+      "category": "os",
+      "urls": [
+        {
+          "name": "24.5.6 (Bananapif3_sid_legacy_6.1.15_minimal, img.xz)",
+          "url": "/armbian-releases/bananapif3/archive/Armbian_24.5.6_Bananapif3_sid_legacy_6.1.15_minimal.img.xz"
+        },
+        {
+          "name": "24.5.6 (Bananapif3_noble_legacy_6.1.15_minimal, img.xz)",
+          "url": "/armbian-releases/bananapif3/archive/Armbian_24.5.6_Bananapif3_noble_legacy_6.1.15_minimal.img.xz"
+        },
+        {
+          "name": "24.5.5 (Uefi-x86_noble_current_6.6.42_xfce-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/uefi-x86/archive/Armbian_24.5.5_Uefi-x86_noble_current_6.6.42_xfce-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Uefi-x86_noble_current_6.6.42_minimal, img.xz)",
+          "url": "/armbian-releases/uefi-x86/archive/Armbian_24.5.5_Uefi-x86_noble_current_6.6.42_minimal.img.xz"
+        },
+        {
+          "name": "24.5.5 (Uefi-x86_noble_current_6.6.42_gnome-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/uefi-x86/archive/Armbian_24.5.5_Uefi-x86_noble_current_6.6.42_gnome-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Uefi-x86_noble_current_6.6.42, img.xz)",
+          "url": "/armbian-releases/uefi-x86/archive/Armbian_24.5.5_Uefi-x86_noble_current_6.6.42.img.xz"
+        },
+        {
+          "name": "24.5.5 (Uefi-x86_jammy_current_6.6.42, img.xz)",
+          "url": "/armbian-releases/uefi-x86/archive/Armbian_24.5.5_Uefi-x86_jammy_current_6.6.42.img.xz"
+        },
+        {
+          "name": "24.5.5 (Uefi-x86_bookworm_current_6.6.42_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/uefi-x86/archive/Armbian_24.5.5_Uefi-x86_bookworm_current_6.6.42_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Uefi-x86_bookworm_current_6.6.42_minimal, img.xz)",
+          "url": "/armbian-releases/uefi-x86/archive/Armbian_24.5.5_Uefi-x86_bookworm_current_6.6.42_minimal.img.xz"
+        },
+        {
+          "name": "24.5.5 (Uefi-x86_bookworm_current_6.6.42_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/uefi-x86/archive/Armbian_24.5.5_Uefi-x86_bookworm_current_6.6.42_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Uefi-arm64_noble_current_6.6.42_xfce-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/uefi-arm64/archive/Armbian_24.5.5_Uefi-arm64_noble_current_6.6.42_xfce-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Uefi-arm64_noble_current_6.6.42_minimal, img.xz)",
+          "url": "/armbian-releases/uefi-arm64/archive/Armbian_24.5.5_Uefi-arm64_noble_current_6.6.42_minimal.img.xz"
+        },
+        {
+          "name": "24.5.5 (Uefi-arm64_noble_current_6.6.42_gnome-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/uefi-arm64/archive/Armbian_24.5.5_Uefi-arm64_noble_current_6.6.42_gnome-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Uefi-arm64_noble_current_6.6.42, img.xz)",
+          "url": "/armbian-releases/uefi-arm64/archive/Armbian_24.5.5_Uefi-arm64_noble_current_6.6.42.img.xz"
+        },
+        {
+          "name": "24.5.5 (Uefi-arm64_jammy_current_6.6.42_kde-neon-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/uefi-arm64/archive/Armbian_24.5.5_Uefi-arm64_jammy_current_6.6.42_kde-neon-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Uefi-arm64_jammy_current_6.6.42, img.xz)",
+          "url": "/armbian-releases/uefi-arm64/archive/Armbian_24.5.5_Uefi-arm64_jammy_current_6.6.42.img.xz"
+        },
+        {
+          "name": "24.5.5 (Uefi-arm64_bookworm_current_6.6.42_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/uefi-arm64/archive/Armbian_24.5.5_Uefi-arm64_bookworm_current_6.6.42_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Uefi-arm64_bookworm_current_6.6.42_minimal, img.xz)",
+          "url": "/armbian-releases/uefi-arm64/archive/Armbian_24.5.5_Uefi-arm64_bookworm_current_6.6.42_minimal.img.xz"
+        },
+        {
+          "name": "24.5.5 (Uefi-arm64_bookworm_current_6.6.42_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/uefi-arm64/archive/Armbian_24.5.5_Uefi-arm64_bookworm_current_6.6.42_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Thinkpad-x13s_trixie_sc8280xp_6.10.0-rc7_gnome_desktop, img.xz)",
+          "url": "/armbian-releases/thinkpad-x13s/archive/Armbian_24.5.5_Thinkpad-x13s_trixie_sc8280xp_6.10.0-rc7_gnome_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Thinkpad-x13s_noble_sc8280xp_6.10.0-rc7_gnome_desktop, img.xz)",
+          "url": "/armbian-releases/thinkpad-x13s/archive/Armbian_24.5.5_Thinkpad-x13s_noble_sc8280xp_6.10.0-rc7_gnome_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5_noble_vendor_6.1.75_xfce-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5/archive/Armbian_24.5.5_Orangepi5_noble_vendor_6.1.75_xfce-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5_noble_vendor_6.1.75_minimal, img.xz)",
+          "url": "/armbian-releases/orangepi5/archive/Armbian_24.5.5_Orangepi5_noble_vendor_6.1.75_minimal.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5_noble_vendor_6.1.75_gnome-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5/archive/Armbian_24.5.5_Orangepi5_noble_vendor_6.1.75_gnome-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5_noble_vendor_6.1.75, img.xz)",
+          "url": "/armbian-releases/orangepi5/archive/Armbian_24.5.5_Orangepi5_noble_vendor_6.1.75.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5_noble_edge_6.10.1_xfce-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5/archive/Armbian_24.5.5_Orangepi5_noble_edge_6.10.1_xfce-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5_noble_edge_6.10.1_minimal, img.xz)",
+          "url": "/armbian-releases/orangepi5/archive/Armbian_24.5.5_Orangepi5_noble_edge_6.10.1_minimal.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5_noble_edge_6.10.1_gnome-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5/archive/Armbian_24.5.5_Orangepi5_noble_edge_6.10.1_gnome-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5_noble_edge_6.10.1, img.xz)",
+          "url": "/armbian-releases/orangepi5/archive/Armbian_24.5.5_Orangepi5_noble_edge_6.10.1.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5_jammy_vendor_6.1.75_kde-neon-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5/archive/Armbian_24.5.5_Orangepi5_jammy_vendor_6.1.75_kde-neon-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5_jammy_vendor_6.1.75, img.xz)",
+          "url": "/armbian-releases/orangepi5/archive/Armbian_24.5.5_Orangepi5_jammy_vendor_6.1.75.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5_jammy_edge_6.10.1_kde-neon-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5/archive/Armbian_24.5.5_Orangepi5_jammy_edge_6.10.1_kde-neon-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5_jammy_edge_6.10.1, img.xz)",
+          "url": "/armbian-releases/orangepi5/archive/Armbian_24.5.5_Orangepi5_jammy_edge_6.10.1.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5_bookworm_vendor_6.1.75_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5/archive/Armbian_24.5.5_Orangepi5_bookworm_vendor_6.1.75_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5_bookworm_vendor_6.1.75_minimal, img.xz)",
+          "url": "/armbian-releases/orangepi5/archive/Armbian_24.5.5_Orangepi5_bookworm_vendor_6.1.75_minimal.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5_bookworm_vendor_6.1.75_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5/archive/Armbian_24.5.5_Orangepi5_bookworm_vendor_6.1.75_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5_bookworm_edge_6.10.1_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5/archive/Armbian_24.5.5_Orangepi5_bookworm_edge_6.10.1_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5_bookworm_edge_6.10.1_minimal, img.xz)",
+          "url": "/armbian-releases/orangepi5/archive/Armbian_24.5.5_Orangepi5_bookworm_edge_6.10.1_minimal.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5_bookworm_edge_6.10.1_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5/archive/Armbian_24.5.5_Orangepi5_bookworm_edge_6.10.1_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5-plus_noble_vendor_6.1.75_xfce-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5-plus/archive/Armbian_24.5.5_Orangepi5-plus_noble_vendor_6.1.75_xfce-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5-plus_noble_vendor_6.1.75_minimal, img.xz)",
+          "url": "/armbian-releases/orangepi5-plus/archive/Armbian_24.5.5_Orangepi5-plus_noble_vendor_6.1.75_minimal.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5-plus_noble_vendor_6.1.75_gnome-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5-plus/archive/Armbian_24.5.5_Orangepi5-plus_noble_vendor_6.1.75_gnome-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5-plus_noble_vendor_6.1.75, img.xz)",
+          "url": "/armbian-releases/orangepi5-plus/archive/Armbian_24.5.5_Orangepi5-plus_noble_vendor_6.1.75.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5-plus_noble_edge_6.10.1_xfce-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5-plus/archive/Armbian_24.5.5_Orangepi5-plus_noble_edge_6.10.1_xfce-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5-plus_noble_edge_6.10.1_minimal, img.xz)",
+          "url": "/armbian-releases/orangepi5-plus/archive/Armbian_24.5.5_Orangepi5-plus_noble_edge_6.10.1_minimal.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5-plus_noble_edge_6.10.1_gnome-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5-plus/archive/Armbian_24.5.5_Orangepi5-plus_noble_edge_6.10.1_gnome-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5-plus_noble_edge_6.10.1, img.xz)",
+          "url": "/armbian-releases/orangepi5-plus/archive/Armbian_24.5.5_Orangepi5-plus_noble_edge_6.10.1.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5-plus_jammy_vendor_6.1.75_kde-neon-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5-plus/archive/Armbian_24.5.5_Orangepi5-plus_jammy_vendor_6.1.75_kde-neon-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5-plus_jammy_vendor_6.1.75, img.xz)",
+          "url": "/armbian-releases/orangepi5-plus/archive/Armbian_24.5.5_Orangepi5-plus_jammy_vendor_6.1.75.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5-plus_jammy_edge_6.10.1_kde-neon-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5-plus/archive/Armbian_24.5.5_Orangepi5-plus_jammy_edge_6.10.1_kde-neon-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5-plus_jammy_edge_6.10.1, img.xz)",
+          "url": "/armbian-releases/orangepi5-plus/archive/Armbian_24.5.5_Orangepi5-plus_jammy_edge_6.10.1.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5-plus_bookworm_vendor_6.1.75_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5-plus/archive/Armbian_24.5.5_Orangepi5-plus_bookworm_vendor_6.1.75_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5-plus_bookworm_vendor_6.1.75_minimal, img.xz)",
+          "url": "/armbian-releases/orangepi5-plus/archive/Armbian_24.5.5_Orangepi5-plus_bookworm_vendor_6.1.75_minimal.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5-plus_bookworm_vendor_6.1.75_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5-plus/archive/Armbian_24.5.5_Orangepi5-plus_bookworm_vendor_6.1.75_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5-plus_bookworm_edge_6.10.1_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5-plus/archive/Armbian_24.5.5_Orangepi5-plus_bookworm_edge_6.10.1_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5-plus_bookworm_edge_6.10.1_minimal, img.xz)",
+          "url": "/armbian-releases/orangepi5-plus/archive/Armbian_24.5.5_Orangepi5-plus_bookworm_edge_6.10.1_minimal.img.xz"
+        },
+        {
+          "name": "24.5.5 (Orangepi5-plus_bookworm_edge_6.10.1_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5-plus/archive/Armbian_24.5.5_Orangepi5-plus_bookworm_edge_6.10.1_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Odroidxu4_noble_current_6.6.41_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/odroidxu4/archive/Armbian_24.5.5_Odroidxu4_noble_current_6.6.41_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Odroidxu4_noble_current_6.6.41_minimal, img.xz)",
+          "url": "/armbian-releases/odroidxu4/archive/Armbian_24.5.5_Odroidxu4_noble_current_6.6.41_minimal.img.xz"
+        },
+        {
+          "name": "24.5.5 (Odroidxu4_noble_current_6.6.41, img.xz)",
+          "url": "/armbian-releases/odroidxu4/archive/Armbian_24.5.5_Odroidxu4_noble_current_6.6.41.img.xz"
+        },
+        {
+          "name": "24.5.5 (Odroidxu4_jammy_current_6.6.41, img.xz)",
+          "url": "/armbian-releases/odroidxu4/archive/Armbian_24.5.5_Odroidxu4_jammy_current_6.6.41.img.xz"
+        },
+        {
+          "name": "24.5.5 (Odroidxu4_bookworm_current_6.6.41_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/odroidxu4/archive/Armbian_24.5.5_Odroidxu4_bookworm_current_6.6.41_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Odroidxu4_bookworm_current_6.6.41_minimal, img.xz)",
+          "url": "/armbian-releases/odroidxu4/archive/Armbian_24.5.5_Odroidxu4_bookworm_current_6.6.41_minimal.img.xz"
+        },
+        {
+          "name": "24.5.5 (Khadas-edge2_noble_vendor_6.1.75_xfce-kisak_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-edge2/archive/Armbian_24.5.5_Khadas-edge2_noble_vendor_6.1.75_xfce-kisak_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.5 (Khadas-edge2_noble_vendor_6.1.75_minimal.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-edge2/archive/Armbian_24.5.5_Khadas-edge2_noble_vendor_6.1.75_minimal.oowow.img.xz"
+        },
+        {
+          "name": "24.5.5 (Khadas-edge2_noble_vendor_6.1.75_gnome-kisak_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-edge2/archive/Armbian_24.5.5_Khadas-edge2_noble_vendor_6.1.75_gnome-kisak_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.5 (Khadas-edge2_noble_vendor_6.1.75.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-edge2/archive/Armbian_24.5.5_Khadas-edge2_noble_vendor_6.1.75.oowow.img.xz"
+        },
+        {
+          "name": "24.5.5 (Khadas-edge2_noble_edge_6.10.1_xfce-kisak_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-edge2/archive/Armbian_24.5.5_Khadas-edge2_noble_edge_6.10.1_xfce-kisak_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.5 (Khadas-edge2_noble_edge_6.10.1_minimal.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-edge2/archive/Armbian_24.5.5_Khadas-edge2_noble_edge_6.10.1_minimal.oowow.img.xz"
+        },
+        {
+          "name": "24.5.5 (Khadas-edge2_noble_edge_6.10.1_gnome-kisak_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-edge2/archive/Armbian_24.5.5_Khadas-edge2_noble_edge_6.10.1_gnome-kisak_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.5 (Khadas-edge2_noble_edge_6.10.1.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-edge2/archive/Armbian_24.5.5_Khadas-edge2_noble_edge_6.10.1.oowow.img.xz"
+        },
+        {
+          "name": "24.5.5 (Khadas-edge2_jammy_vendor_6.1.75_kde-neon-kisak_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-edge2/archive/Armbian_24.5.5_Khadas-edge2_jammy_vendor_6.1.75_kde-neon-kisak_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.5 (Khadas-edge2_jammy_vendor_6.1.75.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-edge2/archive/Armbian_24.5.5_Khadas-edge2_jammy_vendor_6.1.75.oowow.img.xz"
+        },
+        {
+          "name": "24.5.5 (Khadas-edge2_jammy_edge_6.10.1_kde-neon-kisak_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-edge2/archive/Armbian_24.5.5_Khadas-edge2_jammy_edge_6.10.1_kde-neon-kisak_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.5 (Khadas-edge2_jammy_edge_6.10.1.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-edge2/archive/Armbian_24.5.5_Khadas-edge2_jammy_edge_6.10.1.oowow.img.xz"
+        },
+        {
+          "name": "24.5.5 (Khadas-edge2_bookworm_vendor_6.1.75_xfce_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-edge2/archive/Armbian_24.5.5_Khadas-edge2_bookworm_vendor_6.1.75_xfce_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.5 (Khadas-edge2_bookworm_vendor_6.1.75_minimal.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-edge2/archive/Armbian_24.5.5_Khadas-edge2_bookworm_vendor_6.1.75_minimal.oowow.img.xz"
+        },
+        {
+          "name": "24.5.5 (Khadas-edge2_bookworm_vendor_6.1.75_cinnamon_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-edge2/archive/Armbian_24.5.5_Khadas-edge2_bookworm_vendor_6.1.75_cinnamon_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.5 (Khadas-edge2_bookworm_edge_6.10.1_xfce_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-edge2/archive/Armbian_24.5.5_Khadas-edge2_bookworm_edge_6.10.1_xfce_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.5 (Khadas-edge2_bookworm_edge_6.10.1_minimal.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-edge2/archive/Armbian_24.5.5_Khadas-edge2_bookworm_edge_6.10.1_minimal.oowow.img.xz"
+        },
+        {
+          "name": "24.5.5 (Khadas-edge2_bookworm_edge_6.10.1_cinnamon_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-edge2/archive/Armbian_24.5.5_Khadas-edge2_bookworm_edge_6.10.1_cinnamon_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.5 (Bananapim7_noble_vendor_6.1.75_xfce-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim7/archive/Armbian_24.5.5_Bananapim7_noble_vendor_6.1.75_xfce-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Bananapim7_noble_vendor_6.1.75_minimal, img.xz)",
+          "url": "/armbian-releases/bananapim7/archive/Armbian_24.5.5_Bananapim7_noble_vendor_6.1.75_minimal.img.xz"
+        },
+        {
+          "name": "24.5.5 (Bananapim7_noble_vendor_6.1.75_gnome-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim7/archive/Armbian_24.5.5_Bananapim7_noble_vendor_6.1.75_gnome-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Bananapim7_noble_vendor_6.1.75, img.xz)",
+          "url": "/armbian-releases/bananapim7/archive/Armbian_24.5.5_Bananapim7_noble_vendor_6.1.75.img.xz"
+        },
+        {
+          "name": "24.5.5 (Bananapim7_noble_edge_6.10.1_xfce-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim7/archive/Armbian_24.5.5_Bananapim7_noble_edge_6.10.1_xfce-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Bananapim7_noble_edge_6.10.1_minimal, img.xz)",
+          "url": "/armbian-releases/bananapim7/archive/Armbian_24.5.5_Bananapim7_noble_edge_6.10.1_minimal.img.xz"
+        },
+        {
+          "name": "24.5.5 (Bananapim7_noble_edge_6.10.1_gnome-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim7/archive/Armbian_24.5.5_Bananapim7_noble_edge_6.10.1_gnome-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Bananapim7_noble_edge_6.10.1, img.xz)",
+          "url": "/armbian-releases/bananapim7/archive/Armbian_24.5.5_Bananapim7_noble_edge_6.10.1.img.xz"
+        },
+        {
+          "name": "24.5.5 (Bananapim7_jammy_vendor_6.1.75_kde-neon-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim7/archive/Armbian_24.5.5_Bananapim7_jammy_vendor_6.1.75_kde-neon-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Bananapim7_jammy_vendor_6.1.75, img.xz)",
+          "url": "/armbian-releases/bananapim7/archive/Armbian_24.5.5_Bananapim7_jammy_vendor_6.1.75.img.xz"
+        },
+        {
+          "name": "24.5.5 (Bananapim7_jammy_edge_6.10.1_kde-neon-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim7/archive/Armbian_24.5.5_Bananapim7_jammy_edge_6.10.1_kde-neon-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Bananapim7_jammy_edge_6.10.1, img.xz)",
+          "url": "/armbian-releases/bananapim7/archive/Armbian_24.5.5_Bananapim7_jammy_edge_6.10.1.img.xz"
+        },
+        {
+          "name": "24.5.5 (Bananapim7_bookworm_vendor_6.1.75_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim7/archive/Armbian_24.5.5_Bananapim7_bookworm_vendor_6.1.75_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Bananapim7_bookworm_vendor_6.1.75_minimal, img.xz)",
+          "url": "/armbian-releases/bananapim7/archive/Armbian_24.5.5_Bananapim7_bookworm_vendor_6.1.75_minimal.img.xz"
+        },
+        {
+          "name": "24.5.5 (Bananapim7_bookworm_vendor_6.1.75_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim7/archive/Armbian_24.5.5_Bananapim7_bookworm_vendor_6.1.75_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Bananapim7_bookworm_edge_6.10.1_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim7/archive/Armbian_24.5.5_Bananapim7_bookworm_edge_6.10.1_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.5 (Bananapim7_bookworm_edge_6.10.1_minimal, img.xz)",
+          "url": "/armbian-releases/bananapim7/archive/Armbian_24.5.5_Bananapim7_bookworm_edge_6.10.1_minimal.img.xz"
+        },
+        {
+          "name": "24.5.5 (Bananapim7_bookworm_edge_6.10.1_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim7/archive/Armbian_24.5.5_Bananapim7_bookworm_edge_6.10.1_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.4 (Rock-5-itx_noble_vendor_6.1.75_xfce-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5-itx/archive/Armbian_24.5.4_Rock-5-itx_noble_vendor_6.1.75_xfce-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.4 (Rock-5-itx_noble_vendor_6.1.75_minimal, img.xz)",
+          "url": "/armbian-releases/rock-5-itx/archive/Armbian_24.5.4_Rock-5-itx_noble_vendor_6.1.75_minimal.img.xz"
+        },
+        {
+          "name": "24.5.4 (Rock-5-itx_noble_vendor_6.1.75_gnome-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5-itx/archive/Armbian_24.5.4_Rock-5-itx_noble_vendor_6.1.75_gnome-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.4 (Rock-5-itx_noble_vendor_6.1.75, img.xz)",
+          "url": "/armbian-releases/rock-5-itx/archive/Armbian_24.5.4_Rock-5-itx_noble_vendor_6.1.75.img.xz"
+        },
+        {
+          "name": "24.5.4 (Rock-5-itx_jammy_vendor_6.1.75_kde-neon-kisak_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5-itx/archive/Armbian_24.5.4_Rock-5-itx_jammy_vendor_6.1.75_kde-neon-kisak_desktop.img.xz"
+        },
+        {
+          "name": "24.5.4 (Rock-5-itx_jammy_vendor_6.1.75, img.xz)",
+          "url": "/armbian-releases/rock-5-itx/archive/Armbian_24.5.4_Rock-5-itx_jammy_vendor_6.1.75.img.xz"
+        },
+        {
+          "name": "24.5.4 (Rock-5-itx_bookworm_vendor_6.1.75_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5-itx/archive/Armbian_24.5.4_Rock-5-itx_bookworm_vendor_6.1.75_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.4 (Rock-5-itx_bookworm_vendor_6.1.75_minimal, img.xz)",
+          "url": "/armbian-releases/rock-5-itx/archive/Armbian_24.5.4_Rock-5-itx_bookworm_vendor_6.1.75_minimal.img.xz"
+        },
+        {
+          "name": "24.5.4 (Rock-5-itx_bookworm_vendor_6.1.75_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5-itx/archive/Armbian_24.5.4_Rock-5-itx_bookworm_vendor_6.1.75_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.4 (Olimex-teres-a64_noble_current_6.6.36_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/olimex-teres-a64/archive/Armbian_24.5.4_Olimex-teres-a64_noble_current_6.6.36_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.4 (Olimex-teres-a64_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/olimex-teres-a64/archive/Armbian_24.5.4_Olimex-teres-a64_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.4 (Olimex-teres-a64_noble_current_6.6.36_gnome_desktop, img.xz)",
+          "url": "/armbian-releases/olimex-teres-a64/archive/Armbian_24.5.4_Olimex-teres-a64_noble_current_6.6.36_gnome_desktop.img.xz"
+        },
+        {
+          "name": "24.5.4 (Olimex-teres-a64_noble_current_6.6.36, img.xz)",
+          "url": "/armbian-releases/olimex-teres-a64/archive/Armbian_24.5.4_Olimex-teres-a64_noble_current_6.6.36.img.xz"
+        },
+        {
+          "name": "24.5.4 (Olimex-teres-a64_jammy_current_6.6.36_kde-neon_desktop, img.xz)",
+          "url": "/armbian-releases/olimex-teres-a64/archive/Armbian_24.5.4_Olimex-teres-a64_jammy_current_6.6.36_kde-neon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.4 (Olimex-teres-a64_jammy_current_6.6.36, img.xz)",
+          "url": "/armbian-releases/olimex-teres-a64/archive/Armbian_24.5.4_Olimex-teres-a64_jammy_current_6.6.36.img.xz"
+        },
+        {
+          "name": "24.5.4 (Olimex-teres-a64_bookworm_current_6.6.36_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/olimex-teres-a64/archive/Armbian_24.5.4_Olimex-teres-a64_bookworm_current_6.6.36_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.4 (Olimex-teres-a64_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/olimex-teres-a64/archive/Armbian_24.5.4_Olimex-teres-a64_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.4 (Olimex-teres-a64_bookworm_current_6.6.36_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/olimex-teres-a64/archive/Armbian_24.5.4_Olimex-teres-a64_bookworm_current_6.6.36_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.3 (Tritium-h5_noble_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/tritium-h5/archive/Armbian_24.5.3_Tritium-h5_noble_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Tritium-h5_jammy_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/tritium-h5/archive/Armbian_24.5.3_Tritium-h5_jammy_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Tritium-h5_bookworm_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/tritium-h5/archive/Armbian_24.5.3_Tritium-h5_bookworm_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Tritium-h3_noble_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/tritium-h3/archive/Armbian_24.5.3_Tritium-h3_noble_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Tritium-h3_jammy_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/tritium-h3/archive/Armbian_24.5.3_Tritium-h3_jammy_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Tritium-h3_bookworm_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/tritium-h3/archive/Armbian_24.5.3_Tritium-h3_bookworm_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Tinkerboard_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/tinkerboard/archive/Armbian_24.5.3_Tinkerboard_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Tinkerboard_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/tinkerboard/archive/Armbian_24.5.3_Tinkerboard_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Tinkerboard_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/tinkerboard/archive/Armbian_24.5.3_Tinkerboard_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Sweet-potato_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/sweet-potato/archive/Armbian_24.5.3_Sweet-potato_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Sweet-potato_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/sweet-potato/archive/Armbian_24.5.3_Sweet-potato_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Sweet-potato_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/sweet-potato/archive/Armbian_24.5.3_Sweet-potato_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Sk-tda4vm_noble_current_6.1.83_minimal, img.xz)",
+          "url": "/armbian-releases/sk-tda4vm/archive/Armbian_24.5.3_Sk-tda4vm_noble_current_6.1.83_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Sk-tda4vm_jammy_current_6.1.83_minimal, img.xz)",
+          "url": "/armbian-releases/sk-tda4vm/archive/Armbian_24.5.3_Sk-tda4vm_jammy_current_6.1.83_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Sk-tda4vm_bookworm_current_6.1.83_minimal, img.xz)",
+          "url": "/armbian-releases/sk-tda4vm/archive/Armbian_24.5.3_Sk-tda4vm_bookworm_current_6.1.83_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Sk-am68_noble_current_6.1.83_minimal, img.xz)",
+          "url": "/armbian-releases/sk-am68/archive/Armbian_24.5.3_Sk-am68_noble_current_6.1.83_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Sk-am68_jammy_current_6.1.83_minimal, img.xz)",
+          "url": "/armbian-releases/sk-am68/archive/Armbian_24.5.3_Sk-am68_jammy_current_6.1.83_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Sk-am68_bookworm_current_6.1.83_minimal, img.xz)",
+          "url": "/armbian-releases/sk-am68/archive/Armbian_24.5.3_Sk-am68_bookworm_current_6.1.83_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Sk-am64b_noble_current_6.1.83_minimal, img.xz)",
+          "url": "/armbian-releases/sk-am64b/archive/Armbian_24.5.3_Sk-am64b_noble_current_6.1.83_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Sk-am64b_jammy_current_6.1.83_minimal, img.xz)",
+          "url": "/armbian-releases/sk-am64b/archive/Armbian_24.5.3_Sk-am64b_jammy_current_6.1.83_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Sk-am64b_bookworm_current_6.1.83_minimal, img.xz)",
+          "url": "/armbian-releases/sk-am64b/archive/Armbian_24.5.3_Sk-am64b_bookworm_current_6.1.83_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Sk-am62b_noble_edge_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/sk-am62b/archive/Armbian_24.5.3_Sk-am62b_noble_edge_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Sk-am62b_jammy_edge_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/sk-am62b/archive/Armbian_24.5.3_Sk-am62b_jammy_edge_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Sk-am62b_bookworm_edge_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/sk-am62b/archive/Armbian_24.5.3_Sk-am62b_bookworm_edge_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rpi4b_noble_current_6.6.35_minimal, img.xz)",
+          "url": "/armbian-releases/rpi4b/archive/Armbian_24.5.3_Rpi4b_noble_current_6.6.35_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rpi4b_jammy_current_6.6.35_minimal, img.xz)",
+          "url": "/armbian-releases/rpi4b/archive/Armbian_24.5.3_Rpi4b_jammy_current_6.6.35_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rpi4b_bookworm_current_6.6.35_minimal, img.xz)",
+          "url": "/armbian-releases/rpi4b/archive/Armbian_24.5.3_Rpi4b_bookworm_current_6.6.35_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rockpro64_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/rockpro64/archive/Armbian_24.5.3_Rockpro64_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rockpro64_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/rockpro64/archive/Armbian_24.5.3_Rockpro64_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rockpro64_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/rockpro64/archive/Armbian_24.5.3_Rockpro64_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rockpi-s_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/rockpi-s/archive/Armbian_24.5.3_Rockpi-s_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rockpi-s_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/rockpi-s/archive/Armbian_24.5.3_Rockpi-s_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rockpi-s_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/rockpi-s/archive/Armbian_24.5.3_Rockpi-s_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rockpi-e_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/rockpi-e/archive/Armbian_24.5.3_Rockpi-e_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rockpi-e_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/rockpi-e/archive/Armbian_24.5.3_Rockpi-e_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rockpi-e_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/rockpi-e/archive/Armbian_24.5.3_Rockpi-e_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rock-s0_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/rock-s0/archive/Armbian_24.5.3_Rock-s0_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rock-s0_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/rock-s0/archive/Armbian_24.5.3_Rock-s0_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rock-s0_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/rock-s0/archive/Armbian_24.5.3_Rock-s0_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rock-5c_noble_vendor_6.1.43_minimal, img.xz)",
+          "url": "/armbian-releases/rock-5c/archive/Armbian_24.5.3_Rock-5c_noble_vendor_6.1.43_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rock-5c_noble_edge_6.10.0-rc5_minimal, img.xz)",
+          "url": "/armbian-releases/rock-5c/archive/Armbian_24.5.3_Rock-5c_noble_edge_6.10.0-rc5_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rock-5c_jammy_vendor_6.1.43_minimal, img.xz)",
+          "url": "/armbian-releases/rock-5c/archive/Armbian_24.5.3_Rock-5c_jammy_vendor_6.1.43_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rock-5c_jammy_edge_6.10.0-rc5_minimal, img.xz)",
+          "url": "/armbian-releases/rock-5c/archive/Armbian_24.5.3_Rock-5c_jammy_edge_6.10.0-rc5_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rock-5c_bookworm_vendor_6.1.43_minimal, img.xz)",
+          "url": "/armbian-releases/rock-5c/archive/Armbian_24.5.3_Rock-5c_bookworm_vendor_6.1.43_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rock-5c_bookworm_edge_6.10.0-rc5_minimal, img.xz)",
+          "url": "/armbian-releases/rock-5c/archive/Armbian_24.5.3_Rock-5c_bookworm_edge_6.10.0-rc5_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rock-5b_noble_vendor_6.1.43_minimal, img.xz)",
+          "url": "/armbian-releases/rock-5b/archive/Armbian_24.5.3_Rock-5b_noble_vendor_6.1.43_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rock-5b_noble_edge_6.10.0-rc5_minimal, img.xz)",
+          "url": "/armbian-releases/rock-5b/archive/Armbian_24.5.3_Rock-5b_noble_edge_6.10.0-rc5_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rock-5b_jammy_vendor_6.1.43_minimal, img.xz)",
+          "url": "/armbian-releases/rock-5b/archive/Armbian_24.5.3_Rock-5b_jammy_vendor_6.1.43_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rock-5b_jammy_edge_6.10.0-rc5_minimal, img.xz)",
+          "url": "/armbian-releases/rock-5b/archive/Armbian_24.5.3_Rock-5b_jammy_edge_6.10.0-rc5_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rock-5b_bookworm_vendor_6.1.43_minimal, img.xz)",
+          "url": "/armbian-releases/rock-5b/archive/Armbian_24.5.3_Rock-5b_bookworm_vendor_6.1.43_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rock-5b_bookworm_edge_6.10.0-rc5_minimal, img.xz)",
+          "url": "/armbian-releases/rock-5b/archive/Armbian_24.5.3_Rock-5b_bookworm_edge_6.10.0-rc5_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rock-5a_noble_vendor_6.1.43_minimal, img.xz)",
+          "url": "/armbian-releases/rock-5a/archive/Armbian_24.5.3_Rock-5a_noble_vendor_6.1.43_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rock-5a_noble_edge_6.10.0-rc5_minimal, img.xz)",
+          "url": "/armbian-releases/rock-5a/archive/Armbian_24.5.3_Rock-5a_noble_edge_6.10.0-rc5_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rock-5a_jammy_vendor_6.1.43_minimal, img.xz)",
+          "url": "/armbian-releases/rock-5a/archive/Armbian_24.5.3_Rock-5a_jammy_vendor_6.1.43_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rock-5a_jammy_edge_6.10.0-rc5_minimal, img.xz)",
+          "url": "/armbian-releases/rock-5a/archive/Armbian_24.5.3_Rock-5a_jammy_edge_6.10.0-rc5_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rock-5a_bookworm_vendor_6.1.43_minimal, img.xz)",
+          "url": "/armbian-releases/rock-5a/archive/Armbian_24.5.3_Rock-5a_bookworm_vendor_6.1.43_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Rock-5a_bookworm_edge_6.10.0-rc5_minimal, img.xz)",
+          "url": "/armbian-releases/rock-5a/archive/Armbian_24.5.3_Rock-5a_bookworm_edge_6.10.0-rc5_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Renegade_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/renegade/archive/Armbian_24.5.3_Renegade_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Renegade_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/renegade/archive/Armbian_24.5.3_Renegade_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Renegade_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/renegade/archive/Armbian_24.5.3_Renegade_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Radxa-zero_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/radxa-zero/archive/Armbian_24.5.3_Radxa-zero_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Radxa-zero_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/radxa-zero/archive/Armbian_24.5.3_Radxa-zero_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Radxa-zero_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/radxa-zero/archive/Armbian_24.5.3_Radxa-zero_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Radxa-zero3_noble_vendor_6.1.43_minimal, img.xz)",
+          "url": "/armbian-releases/radxa-zero3/archive/Armbian_24.5.3_Radxa-zero3_noble_vendor_6.1.43_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Radxa-zero3_noble_legacy_5.10.160_minimal, img.xz)",
+          "url": "/armbian-releases/radxa-zero3/archive/Armbian_24.5.3_Radxa-zero3_noble_legacy_5.10.160_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Radxa-zero3_jammy_vendor_6.1.43_minimal, img.xz)",
+          "url": "/armbian-releases/radxa-zero3/archive/Armbian_24.5.3_Radxa-zero3_jammy_vendor_6.1.43_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Radxa-zero3_jammy_legacy_5.10.160_minimal, img.xz)",
+          "url": "/armbian-releases/radxa-zero3/archive/Armbian_24.5.3_Radxa-zero3_jammy_legacy_5.10.160_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Radxa-zero3_bookworm_vendor_6.1.43_minimal, img.xz)",
+          "url": "/armbian-releases/radxa-zero3/archive/Armbian_24.5.3_Radxa-zero3_bookworm_vendor_6.1.43_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Radxa-zero3_bookworm_legacy_5.10.160_minimal, img.xz)",
+          "url": "/armbian-releases/radxa-zero3/archive/Armbian_24.5.3_Radxa-zero3_bookworm_legacy_5.10.160_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Pinebook-pro_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/pinebook-pro/archive/Armbian_24.5.3_Pinebook-pro_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Pinebook-pro_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/pinebook-pro/archive/Armbian_24.5.3_Pinebook-pro_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Pinebook-pro_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/pinebook-pro/archive/Armbian_24.5.3_Pinebook-pro_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Pine64_noble_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/pine64/archive/Armbian_24.5.3_Pine64_noble_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Pine64_jammy_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/pine64/archive/Armbian_24.5.3_Pine64_jammy_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Pine64_bookworm_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/pine64/archive/Armbian_24.5.3_Pine64_bookworm_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Phytiumpi_noble_legacy_5.10.209_minimal, img.xz)",
+          "url": "/armbian-releases/phytiumpi/archive/Armbian_24.5.3_Phytiumpi_noble_legacy_5.10.209_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Phytiumpi_jammy_legacy_5.10.209_minimal, img.xz)",
+          "url": "/armbian-releases/phytiumpi/archive/Armbian_24.5.3_Phytiumpi_jammy_legacy_5.10.209_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Phytiumpi_bookworm_legacy_5.10.209_minimal, img.xz)",
+          "url": "/armbian-releases/phytiumpi/archive/Armbian_24.5.3_Phytiumpi_bookworm_legacy_5.10.209_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Orangepizeroplus_noble_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/orangepizeroplus/archive/Armbian_24.5.3_Orangepizeroplus_noble_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Orangepizeroplus_jammy_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/orangepizeroplus/archive/Armbian_24.5.3_Orangepizeroplus_jammy_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Orangepizeroplus_bookworm_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/orangepizeroplus/archive/Armbian_24.5.3_Orangepizeroplus_bookworm_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Orangepizero2_noble_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/orangepizero2/archive/Armbian_24.5.3_Orangepizero2_noble_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Orangepizero2_jammy_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/orangepizero2/archive/Armbian_24.5.3_Orangepizero2_jammy_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Orangepizero2_bookworm_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/orangepizero2/archive/Armbian_24.5.3_Orangepizero2_bookworm_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Orangepione_noble_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/orangepione/archive/Armbian_24.5.3_Orangepione_noble_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Orangepione_jammy_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/orangepione/archive/Armbian_24.5.3_Orangepione_jammy_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Orangepione_bookworm_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/orangepione/archive/Armbian_24.5.3_Orangepione_bookworm_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Orangepi4-lts_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/orangepi4-lts/archive/Armbian_24.5.3_Orangepi4-lts_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Orangepi4-lts_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/orangepi4-lts/archive/Armbian_24.5.3_Orangepi4-lts_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Orangepi4-lts_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/orangepi4-lts/archive/Armbian_24.5.3_Orangepi4-lts_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Onecloud_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/onecloud/archive/Armbian_24.5.3_Onecloud_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Onecloud_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/onecloud/archive/Armbian_24.5.3_Onecloud_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Onecloud_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/onecloud/archive/Armbian_24.5.3_Onecloud_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Odroidn2_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/odroidn2/archive/Armbian_24.5.3_Odroidn2_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Odroidn2_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/odroidn2/archive/Armbian_24.5.3_Odroidn2_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Odroidn2_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/odroidn2/archive/Armbian_24.5.3_Odroidn2_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Odroidm1_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/odroidm1/archive/Armbian_24.5.3_Odroidm1_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Odroidm1_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/odroidm1/archive/Armbian_24.5.3_Odroidm1_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Odroidm1_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/odroidm1/archive/Armbian_24.5.3_Odroidm1_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Odroidc2_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/odroidc2/archive/Armbian_24.5.3_Odroidc2_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Odroidc2_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/odroidc2/archive/Armbian_24.5.3_Odroidc2_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Odroidc2_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/odroidc2/archive/Armbian_24.5.3_Odroidc2_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Nanopi-r4s_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/nanopi-r4s/archive/Armbian_24.5.3_Nanopi-r4s_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Nanopi-r4s_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/nanopi-r4s/archive/Armbian_24.5.3_Nanopi-r4s_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Nanopi-r4s_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/nanopi-r4s/archive/Armbian_24.5.3_Nanopi-r4s_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Lepotato_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/lepotato/archive/Armbian_24.5.3_Lepotato_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Lepotato_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/lepotato/archive/Armbian_24.5.3_Lepotato_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Lepotato_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/lepotato/archive/Armbian_24.5.3_Lepotato_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Lafrite_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/lafrite/archive/Armbian_24.5.3_Lafrite_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Lafrite_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/lafrite/archive/Armbian_24.5.3_Lafrite_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Lafrite_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/lafrite/archive/Armbian_24.5.3_Lafrite_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Khadas-vim4_noble_legacy_5.15.119_minimal.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim4/archive/Armbian_24.5.3_Khadas-vim4_noble_legacy_5.15.119_minimal.oowow.img.xz"
+        },
+        {
+          "name": "24.5.3 (Khadas-vim4_jammy_legacy_5.15.119_minimal.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim4/archive/Armbian_24.5.3_Khadas-vim4_jammy_legacy_5.15.119_minimal.oowow.img.xz"
+        },
+        {
+          "name": "24.5.3 (Khadas-vim4_bookworm_legacy_5.15.119_minimal.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim4/archive/Armbian_24.5.3_Khadas-vim4_bookworm_legacy_5.15.119_minimal.oowow.img.xz"
+        },
+        {
+          "name": "24.5.3 (Khadas-vim3l_noble_current_6.6.36_minimal.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim3l/archive/Armbian_24.5.3_Khadas-vim3l_noble_current_6.6.36_minimal.oowow.img.xz"
+        },
+        {
+          "name": "24.5.3 (Khadas-vim3l_jammy_current_6.6.36_minimal.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim3l/archive/Armbian_24.5.3_Khadas-vim3l_jammy_current_6.6.36_minimal.oowow.img.xz"
+        },
+        {
+          "name": "24.5.3 (Khadas-vim3l_bookworm_current_6.6.36_minimal.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim3l/archive/Armbian_24.5.3_Khadas-vim3l_bookworm_current_6.6.36_minimal.oowow.img.xz"
+        },
+        {
+          "name": "24.5.3 (Khadas-vim3_noble_current_6.6.36_minimal.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim3/archive/Armbian_24.5.3_Khadas-vim3_noble_current_6.6.36_minimal.oowow.img.xz"
+        },
+        {
+          "name": "24.5.3 (Khadas-vim3_jammy_current_6.6.36_minimal.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim3/archive/Armbian_24.5.3_Khadas-vim3_jammy_current_6.6.36_minimal.oowow.img.xz"
+        },
+        {
+          "name": "24.5.3 (Khadas-vim3_bookworm_current_6.6.36_minimal.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim3/archive/Armbian_24.5.3_Khadas-vim3_bookworm_current_6.6.36_minimal.oowow.img.xz"
+        },
+        {
+          "name": "24.5.3 (Khadas-vim2_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/khadas-vim2/archive/Armbian_24.5.3_Khadas-vim2_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Khadas-vim2_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/khadas-vim2/archive/Armbian_24.5.3_Khadas-vim2_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Khadas-vim2_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/khadas-vim2/archive/Armbian_24.5.3_Khadas-vim2_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Khadas-vim1s_noble_legacy_5.15.119_minimal.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim1s/archive/Armbian_24.5.3_Khadas-vim1s_noble_legacy_5.15.119_minimal.oowow.img.xz"
+        },
+        {
+          "name": "24.5.3 (Khadas-vim1s_jammy_legacy_5.15.119_minimal.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim1s/archive/Armbian_24.5.3_Khadas-vim1s_jammy_legacy_5.15.119_minimal.oowow.img.xz"
+        },
+        {
+          "name": "24.5.3 (Khadas-vim1s_bookworm_legacy_5.15.119_minimal.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim1s/archive/Armbian_24.5.3_Khadas-vim1s_bookworm_legacy_5.15.119_minimal.oowow.img.xz"
+        },
+        {
+          "name": "24.5.3 (Khadas-vim1_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/khadas-vim1/archive/Armbian_24.5.3_Khadas-vim1_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Khadas-vim1_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/khadas-vim1/archive/Armbian_24.5.3_Khadas-vim1_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Khadas-vim1_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/khadas-vim1/archive/Armbian_24.5.3_Khadas-vim1_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Jethubj80_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/jethubj80/archive/Armbian_24.5.3_Jethubj80_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Jethubj80_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/jethubj80/archive/Armbian_24.5.3_Jethubj80_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Jethubj80_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/jethubj80/archive/Armbian_24.5.3_Jethubj80_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Jethubj100_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/jethubj100/archive/Armbian_24.5.3_Jethubj100_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Jethubj100_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/jethubj100/archive/Armbian_24.5.3_Jethubj100_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Jethubj100_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/jethubj100/archive/Armbian_24.5.3_Jethubj100_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Inovato-quadra_noble_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/inovato-quadra/archive/Armbian_24.5.3_Inovato-quadra_noble_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Inovato-quadra_jammy_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/inovato-quadra/archive/Armbian_24.5.3_Inovato-quadra_jammy_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Inovato-quadra_bookworm_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/inovato-quadra/archive/Armbian_24.5.3_Inovato-quadra_bookworm_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Helios64_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/helios64/archive/Armbian_24.5.3_Helios64_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Helios64_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/helios64/archive/Armbian_24.5.3_Helios64_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Helios64_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/helios64/archive/Armbian_24.5.3_Helios64_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Bigtreetech-cb1_noble_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/bigtreetech-cb1/archive/Armbian_24.5.3_Bigtreetech-cb1_noble_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Bigtreetech-cb1_jammy_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/bigtreetech-cb1/archive/Armbian_24.5.3_Bigtreetech-cb1_jammy_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Bigtreetech-cb1_bookworm_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/bigtreetech-cb1/archive/Armbian_24.5.3_Bigtreetech-cb1_bookworm_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Bananapim5_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/bananapim5/archive/Armbian_24.5.3_Bananapim5_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Bananapim5_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/bananapim5/archive/Armbian_24.5.3_Bananapim5_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Bananapim5_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/bananapim5/archive/Armbian_24.5.3_Bananapim5_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Bananapim4zero_noble_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/bananapim4zero/archive/Armbian_24.5.3_Bananapim4zero_noble_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Bananapim4zero_jammy_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/bananapim4zero/archive/Armbian_24.5.3_Bananapim4zero_jammy_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Bananapim4zero_bookworm_current_6.6.31_minimal, img.xz)",
+          "url": "/armbian-releases/bananapim4zero/archive/Armbian_24.5.3_Bananapim4zero_bookworm_current_6.6.31_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Bananapim2s_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/bananapim2s/archive/Armbian_24.5.3_Bananapim2s_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Bananapim2s_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/bananapim2s/archive/Armbian_24.5.3_Bananapim2s_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Bananapim2s_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/bananapim2s/archive/Armbian_24.5.3_Bananapim2s_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Bananapim2pro_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/bananapim2pro/archive/Armbian_24.5.3_Bananapim2pro_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Bananapim2pro_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/bananapim2pro/archive/Armbian_24.5.3_Bananapim2pro_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Bananapim2pro_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/bananapim2pro/archive/Armbian_24.5.3_Bananapim2pro_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Bananapicm4io_noble_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/bananapicm4io/archive/Armbian_24.5.3_Bananapicm4io_noble_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Bananapicm4io_jammy_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/bananapicm4io/archive/Armbian_24.5.3_Bananapicm4io_jammy_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Bananapicm4io_bookworm_current_6.6.36_minimal, img.xz)",
+          "url": "/armbian-releases/bananapicm4io/archive/Armbian_24.5.3_Bananapicm4io_bookworm_current_6.6.36_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Avaota-a1_noble_legacy_5.15.161_minimal, img.xz)",
+          "url": "/armbian-releases/avaota-a1/archive/Armbian_24.5.3_Avaota-a1_noble_legacy_5.15.161_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Avaota-a1_jammy_legacy_5.15.161_minimal, img.xz)",
+          "url": "/armbian-releases/avaota-a1/archive/Armbian_24.5.3_Avaota-a1_jammy_legacy_5.15.161_minimal.img.xz"
+        },
+        {
+          "name": "24.5.3 (Avaota-a1_bookworm_legacy_5.15.161_minimal, img.xz)",
+          "url": "/armbian-releases/avaota-a1/archive/Armbian_24.5.3_Avaota-a1_bookworm_legacy_5.15.161_minimal.img.xz"
+        },
+        {
+          "name": "24.5.2 (Orangepi5pro_noble_vendor_6.1.43_xfce-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5pro/archive/Armbian_24.5.2_Orangepi5pro_noble_vendor_6.1.43_xfce-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.2 (Orangepi5pro_noble_vendor_6.1.43_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5pro/archive/Armbian_24.5.2_Orangepi5pro_noble_vendor_6.1.43_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.2 (Orangepi5pro_noble_vendor_6.1.43, img.xz)",
+          "url": "/armbian-releases/orangepi5pro/archive/Armbian_24.5.2_Orangepi5pro_noble_vendor_6.1.43.img.xz"
+        },
+        {
+          "name": "24.5.2 (Orangepi5pro_jammy_vendor_6.1.43, img.xz)",
+          "url": "/armbian-releases/orangepi5pro/archive/Armbian_24.5.2_Orangepi5pro_jammy_vendor_6.1.43.img.xz"
+        },
+        {
+          "name": "24.5.2 (Orangepi5pro_bookworm_vendor_6.1.43_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5pro/archive/Armbian_24.5.2_Orangepi5pro_bookworm_vendor_6.1.43_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.2 (Orangepi5pro_bookworm_vendor_6.1.43_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi5pro/archive/Armbian_24.5.2_Orangepi5pro_bookworm_vendor_6.1.43_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.2 (Odroidm1_noble_current_6.6.35_xfce-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/odroidm1/archive/Armbian_24.5.2_Odroidm1_noble_current_6.6.35_xfce-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.2 (Odroidm1_noble_current_6.6.35_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/odroidm1/archive/Armbian_24.5.2_Odroidm1_noble_current_6.6.35_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.2 (Odroidm1_noble_current_6.6.35, img.xz)",
+          "url": "/armbian-releases/odroidm1/archive/Armbian_24.5.2_Odroidm1_noble_current_6.6.35.img.xz"
+        },
+        {
+          "name": "24.5.2 (Odroidm1_jammy_current_6.6.35_kde-neon-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/odroidm1/archive/Armbian_24.5.2_Odroidm1_jammy_current_6.6.35_kde-neon-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.2 (Odroidm1_jammy_current_6.6.35, img.xz)",
+          "url": "/armbian-releases/odroidm1/archive/Armbian_24.5.2_Odroidm1_jammy_current_6.6.35.img.xz"
+        },
+        {
+          "name": "24.5.2 (Odroidm1_bookworm_current_6.6.35_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/odroidm1/archive/Armbian_24.5.2_Odroidm1_bookworm_current_6.6.35_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.2 (Odroidm1_bookworm_current_6.6.35_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/odroidm1/archive/Armbian_24.5.2_Odroidm1_bookworm_current_6.6.35_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Xiaomi-umi_trixie_current_6.7.5_gnome_desktop.rootfs, img.xz)",
+          "url": "/armbian-releases/xiaomi-umi/archive/Armbian_24.5.1_Xiaomi-umi_trixie_current_6.7.5_gnome_desktop.rootfs.img.xz"
+        },
+        {
+          "name": "24.5.1 (Xiaomi-umi_trixie_current_6.7.5_gnome_desktop.boot_sm8250-xiaomi-umi-sms, img.xz)",
+          "url": "/armbian-releases/xiaomi-umi/archive/Armbian_24.5.1_Xiaomi-umi_trixie_current_6.7.5_gnome_desktop.boot_sm8250-xiaomi-umi-sms.img.xz"
+        },
+        {
+          "name": "24.5.1 (Xiaomi-umi_trixie_current_6.7.5_gnome_desktop.boot_sm8250-xiaomi-umi-csot, img.xz)",
+          "url": "/armbian-releases/xiaomi-umi/archive/Armbian_24.5.1_Xiaomi-umi_trixie_current_6.7.5_gnome_desktop.boot_sm8250-xiaomi-umi-csot.img.xz"
+        },
+        {
+          "name": "24.5.1 (Xiaomi-umi_noble_current_6.7.5_gnome_desktop.rootfs, img.xz)",
+          "url": "/armbian-releases/xiaomi-umi/archive/Armbian_24.5.1_Xiaomi-umi_noble_current_6.7.5_gnome_desktop.rootfs.img.xz"
+        },
+        {
+          "name": "24.5.1 (Xiaomi-umi_noble_current_6.7.5_gnome_desktop.boot_sm8250-xiaomi-umi-sms, img.xz)",
+          "url": "/armbian-releases/xiaomi-umi/archive/Armbian_24.5.1_Xiaomi-umi_noble_current_6.7.5_gnome_desktop.boot_sm8250-xiaomi-umi-sms.img.xz"
+        },
+        {
+          "name": "24.5.1 (Xiaomi-umi_noble_current_6.7.5_gnome_desktop.boot_sm8250-xiaomi-umi-csot, img.xz)",
+          "url": "/armbian-releases/xiaomi-umi/archive/Armbian_24.5.1_Xiaomi-umi_noble_current_6.7.5_gnome_desktop.boot_sm8250-xiaomi-umi-csot.img.xz"
+        },
+        {
+          "name": "24.5.1 (Xiaomi-elish_trixie_current_6.7.5_gnome_desktop.rootfs, img.xz)",
+          "url": "/armbian-releases/xiaomi-elish/archive/Armbian_24.5.1_Xiaomi-elish_trixie_current_6.7.5_gnome_desktop.rootfs.img.xz"
+        },
+        {
+          "name": "24.5.1 (Xiaomi-elish_trixie_current_6.7.5_gnome_desktop.boot_sm8250-xiaomi-elish-csot, img.xz)",
+          "url": "/armbian-releases/xiaomi-elish/archive/Armbian_24.5.1_Xiaomi-elish_trixie_current_6.7.5_gnome_desktop.boot_sm8250-xiaomi-elish-csot.img.xz"
+        },
+        {
+          "name": "24.5.1 (Xiaomi-elish_trixie_current_6.7.5_gnome_desktop.boot_sm8250-xiaomi-elish-boe, img.xz)",
+          "url": "/armbian-releases/xiaomi-elish/archive/Armbian_24.5.1_Xiaomi-elish_trixie_current_6.7.5_gnome_desktop.boot_sm8250-xiaomi-elish-boe.img.xz"
+        },
+        {
+          "name": "24.5.1 (Xiaomi-elish_noble_current_6.7.5_gnome_desktop.rootfs, img.xz)",
+          "url": "/armbian-releases/xiaomi-elish/archive/Armbian_24.5.1_Xiaomi-elish_noble_current_6.7.5_gnome_desktop.rootfs.img.xz"
+        },
+        {
+          "name": "24.5.1 (Xiaomi-elish_noble_current_6.7.5_gnome_desktop.boot_sm8250-xiaomi-elish-csot, img.xz)",
+          "url": "/armbian-releases/xiaomi-elish/archive/Armbian_24.5.1_Xiaomi-elish_noble_current_6.7.5_gnome_desktop.boot_sm8250-xiaomi-elish-csot.img.xz"
+        },
+        {
+          "name": "24.5.1 (Xiaomi-elish_noble_current_6.7.5_gnome_desktop.boot_sm8250-xiaomi-elish-boe, img.xz)",
+          "url": "/armbian-releases/xiaomi-elish/archive/Armbian_24.5.1_Xiaomi-elish_noble_current_6.7.5_gnome_desktop.boot_sm8250-xiaomi-elish-boe.img.xz"
+        },
+        {
+          "name": "24.5.1 (Tritium-h5_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/tritium-h5/archive/Armbian_24.5.1_Tritium-h5_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Tritium-h5_noble_current_6.6.31_gnome_desktop, img.xz)",
+          "url": "/armbian-releases/tritium-h5/archive/Armbian_24.5.1_Tritium-h5_noble_current_6.6.31_gnome_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Tritium-h5_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/tritium-h5/archive/Armbian_24.5.1_Tritium-h5_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Tritium-h5_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/tritium-h5/archive/Armbian_24.5.1_Tritium-h5_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Tritium-h5_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/tritium-h5/archive/Armbian_24.5.1_Tritium-h5_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Tritium-h5_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/tritium-h5/archive/Armbian_24.5.1_Tritium-h5_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Tritium-h3_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/tritium-h3/archive/Armbian_24.5.1_Tritium-h3_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Tritium-h3_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/tritium-h3/archive/Armbian_24.5.1_Tritium-h3_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Tritium-h3_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/tritium-h3/archive/Armbian_24.5.1_Tritium-h3_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Tritium-h3_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/tritium-h3/archive/Armbian_24.5.1_Tritium-h3_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Tinkerboard_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/tinkerboard/archive/Armbian_24.5.1_Tinkerboard_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Tinkerboard_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/tinkerboard/archive/Armbian_24.5.1_Tinkerboard_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Tinkerboard_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/tinkerboard/archive/Armbian_24.5.1_Tinkerboard_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Tinkerboard_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/tinkerboard/archive/Armbian_24.5.1_Tinkerboard_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Sk-tda4vm_noble_current_6.1.83_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/sk-tda4vm/archive/Armbian_24.5.1_Sk-tda4vm_noble_current_6.1.83_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Sk-tda4vm_noble_current_6.1.83_gnome_desktop, img.xz)",
+          "url": "/armbian-releases/sk-tda4vm/archive/Armbian_24.5.1_Sk-tda4vm_noble_current_6.1.83_gnome_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Sk-tda4vm_noble_current_6.1.83, img.xz)",
+          "url": "/armbian-releases/sk-tda4vm/archive/Armbian_24.5.1_Sk-tda4vm_noble_current_6.1.83.img.xz"
+        },
+        {
+          "name": "24.5.1 (Sk-tda4vm_jammy_current_6.1.83, img.xz)",
+          "url": "/armbian-releases/sk-tda4vm/archive/Armbian_24.5.1_Sk-tda4vm_jammy_current_6.1.83.img.xz"
+        },
+        {
+          "name": "24.5.1 (Sk-tda4vm_bookworm_current_6.1.83_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/sk-tda4vm/archive/Armbian_24.5.1_Sk-tda4vm_bookworm_current_6.1.83_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Sk-tda4vm_bookworm_current_6.1.83_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/sk-tda4vm/archive/Armbian_24.5.1_Sk-tda4vm_bookworm_current_6.1.83_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Sk-am68_noble_current_6.1.83_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/sk-am68/archive/Armbian_24.5.1_Sk-am68_noble_current_6.1.83_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Sk-am68_noble_current_6.1.83_gnome_desktop, img.xz)",
+          "url": "/armbian-releases/sk-am68/archive/Armbian_24.5.1_Sk-am68_noble_current_6.1.83_gnome_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Sk-am68_noble_current_6.1.83, img.xz)",
+          "url": "/armbian-releases/sk-am68/archive/Armbian_24.5.1_Sk-am68_noble_current_6.1.83.img.xz"
+        },
+        {
+          "name": "24.5.1 (Sk-am68_jammy_current_6.1.83, img.xz)",
+          "url": "/armbian-releases/sk-am68/archive/Armbian_24.5.1_Sk-am68_jammy_current_6.1.83.img.xz"
+        },
+        {
+          "name": "24.5.1 (Sk-am68_bookworm_current_6.1.83_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/sk-am68/archive/Armbian_24.5.1_Sk-am68_bookworm_current_6.1.83_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Sk-am68_bookworm_current_6.1.83_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/sk-am68/archive/Armbian_24.5.1_Sk-am68_bookworm_current_6.1.83_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Sk-am64b_noble_current_6.1.83, img.xz)",
+          "url": "/armbian-releases/sk-am64b/archive/Armbian_24.5.1_Sk-am64b_noble_current_6.1.83.img.xz"
+        },
+        {
+          "name": "24.5.1 (Sk-am64b_jammy_current_6.1.83, img.xz)",
+          "url": "/armbian-releases/sk-am64b/archive/Armbian_24.5.1_Sk-am64b_jammy_current_6.1.83.img.xz"
+        },
+        {
+          "name": "24.5.1 (Sk-am62b_noble_edge_6.6.31, img.xz)",
+          "url": "/armbian-releases/sk-am62b/archive/Armbian_24.5.1_Sk-am62b_noble_edge_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Sk-am62b_jammy_edge_6.6.31, img.xz)",
+          "url": "/armbian-releases/sk-am62b/archive/Armbian_24.5.1_Sk-am62b_jammy_edge_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rpi4b_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/rpi4b/archive/Armbian_24.5.1_Rpi4b_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rpi4b_noble_current_6.6.31_gnome_desktop, img.xz)",
+          "url": "/armbian-releases/rpi4b/archive/Armbian_24.5.1_Rpi4b_noble_current_6.6.31_gnome_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rpi4b_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/rpi4b/archive/Armbian_24.5.1_Rpi4b_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rpi4b_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/rpi4b/archive/Armbian_24.5.1_Rpi4b_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rpi4b_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/rpi4b/archive/Armbian_24.5.1_Rpi4b_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rpi4b_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/rpi4b/archive/Armbian_24.5.1_Rpi4b_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rockpro64_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/rockpro64/archive/Armbian_24.5.1_Rockpro64_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rockpro64_noble_current_6.6.31_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/rockpro64/archive/Armbian_24.5.1_Rockpro64_noble_current_6.6.31_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rockpro64_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/rockpro64/archive/Armbian_24.5.1_Rockpro64_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rockpro64_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/rockpro64/archive/Armbian_24.5.1_Rockpro64_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rockpro64_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/rockpro64/archive/Armbian_24.5.1_Rockpro64_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rockpro64_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/rockpro64/archive/Armbian_24.5.1_Rockpro64_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rockpi-s_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/rockpi-s/archive/Armbian_24.5.1_Rockpi-s_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rockpi-s_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/rockpi-s/archive/Armbian_24.5.1_Rockpi-s_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rockpi-e_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/rockpi-e/archive/Armbian_24.5.1_Rockpi-e_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rockpi-e_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/rockpi-e/archive/Armbian_24.5.1_Rockpi-e_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-s0_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/rock-s0/archive/Armbian_24.5.1_Rock-s0_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-s0_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/rock-s0/archive/Armbian_24.5.1_Rock-s0_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5c_noble_vendor_6.1.43_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5c/archive/Armbian_24.5.1_Rock-5c_noble_vendor_6.1.43_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5c_noble_vendor_6.1.43_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5c/archive/Armbian_24.5.1_Rock-5c_noble_vendor_6.1.43_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5c_noble_vendor_6.1.43, img.xz)",
+          "url": "/armbian-releases/rock-5c/archive/Armbian_24.5.1_Rock-5c_noble_vendor_6.1.43.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5c_noble_edge_6.8.10_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5c/archive/Armbian_24.5.1_Rock-5c_noble_edge_6.8.10_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5c_noble_edge_6.8.10_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5c/archive/Armbian_24.5.1_Rock-5c_noble_edge_6.8.10_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5c_noble_edge_6.8.10, img.xz)",
+          "url": "/armbian-releases/rock-5c/archive/Armbian_24.5.1_Rock-5c_noble_edge_6.8.10.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5c_jammy_vendor_6.1.43, img.xz)",
+          "url": "/armbian-releases/rock-5c/archive/Armbian_24.5.1_Rock-5c_jammy_vendor_6.1.43.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5c_jammy_edge_6.8.10, img.xz)",
+          "url": "/armbian-releases/rock-5c/archive/Armbian_24.5.1_Rock-5c_jammy_edge_6.8.10.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5c_bookworm_vendor_6.1.43_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5c/archive/Armbian_24.5.1_Rock-5c_bookworm_vendor_6.1.43_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5c_bookworm_vendor_6.1.43_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5c/archive/Armbian_24.5.1_Rock-5c_bookworm_vendor_6.1.43_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5c_bookworm_edge_6.8.10_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5c/archive/Armbian_24.5.1_Rock-5c_bookworm_edge_6.8.10_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5c_bookworm_edge_6.8.10_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5c/archive/Armbian_24.5.1_Rock-5c_bookworm_edge_6.8.10_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5b_noble_vendor_6.1.43_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5b/archive/Armbian_24.5.1_Rock-5b_noble_vendor_6.1.43_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5b_noble_vendor_6.1.43_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5b/archive/Armbian_24.5.1_Rock-5b_noble_vendor_6.1.43_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5b_noble_vendor_6.1.43, img.xz)",
+          "url": "/armbian-releases/rock-5b/archive/Armbian_24.5.1_Rock-5b_noble_vendor_6.1.43.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5b_noble_edge_6.8.10_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5b/archive/Armbian_24.5.1_Rock-5b_noble_edge_6.8.10_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5b_noble_edge_6.8.10_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5b/archive/Armbian_24.5.1_Rock-5b_noble_edge_6.8.10_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5b_noble_edge_6.8.10, img.xz)",
+          "url": "/armbian-releases/rock-5b/archive/Armbian_24.5.1_Rock-5b_noble_edge_6.8.10.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5b_jammy_vendor_6.1.43, img.xz)",
+          "url": "/armbian-releases/rock-5b/archive/Armbian_24.5.1_Rock-5b_jammy_vendor_6.1.43.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5b_jammy_edge_6.8.10, img.xz)",
+          "url": "/armbian-releases/rock-5b/archive/Armbian_24.5.1_Rock-5b_jammy_edge_6.8.10.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5b_bookworm_vendor_6.1.43_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5b/archive/Armbian_24.5.1_Rock-5b_bookworm_vendor_6.1.43_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5b_bookworm_vendor_6.1.43_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5b/archive/Armbian_24.5.1_Rock-5b_bookworm_vendor_6.1.43_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5b_bookworm_edge_6.8.10_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5b/archive/Armbian_24.5.1_Rock-5b_bookworm_edge_6.8.10_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5b_bookworm_edge_6.8.10_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5b/archive/Armbian_24.5.1_Rock-5b_bookworm_edge_6.8.10_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5a_noble_vendor_6.1.43_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5a/archive/Armbian_24.5.1_Rock-5a_noble_vendor_6.1.43_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5a_noble_vendor_6.1.43_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5a/archive/Armbian_24.5.1_Rock-5a_noble_vendor_6.1.43_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5a_noble_vendor_6.1.43, img.xz)",
+          "url": "/armbian-releases/rock-5a/archive/Armbian_24.5.1_Rock-5a_noble_vendor_6.1.43.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5a_noble_edge_6.8.10_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5a/archive/Armbian_24.5.1_Rock-5a_noble_edge_6.8.10_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5a_noble_edge_6.8.10_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5a/archive/Armbian_24.5.1_Rock-5a_noble_edge_6.8.10_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5a_noble_edge_6.8.10, img.xz)",
+          "url": "/armbian-releases/rock-5a/archive/Armbian_24.5.1_Rock-5a_noble_edge_6.8.10.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5a_jammy_vendor_6.1.43, img.xz)",
+          "url": "/armbian-releases/rock-5a/archive/Armbian_24.5.1_Rock-5a_jammy_vendor_6.1.43.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5a_jammy_edge_6.8.10, img.xz)",
+          "url": "/armbian-releases/rock-5a/archive/Armbian_24.5.1_Rock-5a_jammy_edge_6.8.10.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5a_bookworm_vendor_6.1.43_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5a/archive/Armbian_24.5.1_Rock-5a_bookworm_vendor_6.1.43_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5a_bookworm_vendor_6.1.43_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5a/archive/Armbian_24.5.1_Rock-5a_bookworm_vendor_6.1.43_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5a_bookworm_edge_6.8.10_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5a/archive/Armbian_24.5.1_Rock-5a_bookworm_edge_6.8.10_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Rock-5a_bookworm_edge_6.8.10_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/rock-5a/archive/Armbian_24.5.1_Rock-5a_bookworm_edge_6.8.10_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Renegade_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/renegade/archive/Armbian_24.5.1_Renegade_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Renegade_noble_current_6.6.31_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/renegade/archive/Armbian_24.5.1_Renegade_noble_current_6.6.31_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Renegade_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/renegade/archive/Armbian_24.5.1_Renegade_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Renegade_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/renegade/archive/Armbian_24.5.1_Renegade_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Renegade_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/renegade/archive/Armbian_24.5.1_Renegade_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Renegade_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/renegade/archive/Armbian_24.5.1_Renegade_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Radxa-zero_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/radxa-zero/archive/Armbian_24.5.1_Radxa-zero_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Radxa-zero_noble_current_6.6.31_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/radxa-zero/archive/Armbian_24.5.1_Radxa-zero_noble_current_6.6.31_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Radxa-zero_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/radxa-zero/archive/Armbian_24.5.1_Radxa-zero_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Radxa-zero_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/radxa-zero/archive/Armbian_24.5.1_Radxa-zero_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Radxa-zero_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/radxa-zero/archive/Armbian_24.5.1_Radxa-zero_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Radxa-zero_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/radxa-zero/archive/Armbian_24.5.1_Radxa-zero_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Radxa-zero3_noble_vendor_6.1.43_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/radxa-zero3/archive/Armbian_24.5.1_Radxa-zero3_noble_vendor_6.1.43_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Radxa-zero3_noble_vendor_6.1.43_gnome_desktop, img.xz)",
+          "url": "/armbian-releases/radxa-zero3/archive/Armbian_24.5.1_Radxa-zero3_noble_vendor_6.1.43_gnome_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Radxa-zero3_noble_vendor_6.1.43, img.xz)",
+          "url": "/armbian-releases/radxa-zero3/archive/Armbian_24.5.1_Radxa-zero3_noble_vendor_6.1.43.img.xz"
+        },
+        {
+          "name": "24.5.1 (Radxa-zero3_noble_legacy_5.10.160_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/radxa-zero3/archive/Armbian_24.5.1_Radxa-zero3_noble_legacy_5.10.160_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Radxa-zero3_noble_legacy_5.10.160_gnome_desktop, img.xz)",
+          "url": "/armbian-releases/radxa-zero3/archive/Armbian_24.5.1_Radxa-zero3_noble_legacy_5.10.160_gnome_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Radxa-zero3_noble_legacy_5.10.160, img.xz)",
+          "url": "/armbian-releases/radxa-zero3/archive/Armbian_24.5.1_Radxa-zero3_noble_legacy_5.10.160.img.xz"
+        },
+        {
+          "name": "24.5.1 (Radxa-zero3_jammy_vendor_6.1.43, img.xz)",
+          "url": "/armbian-releases/radxa-zero3/archive/Armbian_24.5.1_Radxa-zero3_jammy_vendor_6.1.43.img.xz"
+        },
+        {
+          "name": "24.5.1 (Radxa-zero3_jammy_legacy_5.10.160, img.xz)",
+          "url": "/armbian-releases/radxa-zero3/archive/Armbian_24.5.1_Radxa-zero3_jammy_legacy_5.10.160.img.xz"
+        },
+        {
+          "name": "24.5.1 (Radxa-zero3_bookworm_vendor_6.1.43_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/radxa-zero3/archive/Armbian_24.5.1_Radxa-zero3_bookworm_vendor_6.1.43_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Radxa-zero3_bookworm_vendor_6.1.43_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/radxa-zero3/archive/Armbian_24.5.1_Radxa-zero3_bookworm_vendor_6.1.43_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Radxa-zero3_bookworm_legacy_5.10.160_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/radxa-zero3/archive/Armbian_24.5.1_Radxa-zero3_bookworm_legacy_5.10.160_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Radxa-zero3_bookworm_legacy_5.10.160_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/radxa-zero3/archive/Armbian_24.5.1_Radxa-zero3_bookworm_legacy_5.10.160_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Qemu-uefi-x86_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/qemu-uefi-x86/archive/Armbian_24.5.1_Qemu-uefi-x86_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Qemu-uefi-x86_noble_current_6.6.31_gnome_desktop, img.xz)",
+          "url": "/armbian-releases/qemu-uefi-x86/archive/Armbian_24.5.1_Qemu-uefi-x86_noble_current_6.6.31_gnome_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Qemu-uefi-x86_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/qemu-uefi-x86/archive/Armbian_24.5.1_Qemu-uefi-x86_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Qemu-uefi-x86_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/qemu-uefi-x86/archive/Armbian_24.5.1_Qemu-uefi-x86_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Qemu-uefi-x86_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/qemu-uefi-x86/archive/Armbian_24.5.1_Qemu-uefi-x86_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Qemu-uefi-x86_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/qemu-uefi-x86/archive/Armbian_24.5.1_Qemu-uefi-x86_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Pinebook-pro_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/pinebook-pro/archive/Armbian_24.5.1_Pinebook-pro_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Pinebook-pro_noble_current_6.6.31_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/pinebook-pro/archive/Armbian_24.5.1_Pinebook-pro_noble_current_6.6.31_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Pinebook-pro_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/pinebook-pro/archive/Armbian_24.5.1_Pinebook-pro_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Pinebook-pro_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/pinebook-pro/archive/Armbian_24.5.1_Pinebook-pro_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Pinebook-pro_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/pinebook-pro/archive/Armbian_24.5.1_Pinebook-pro_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Pinebook-pro_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/pinebook-pro/archive/Armbian_24.5.1_Pinebook-pro_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Pine64_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/pine64/archive/Armbian_24.5.1_Pine64_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Pine64_noble_current_6.6.31_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/pine64/archive/Armbian_24.5.1_Pine64_noble_current_6.6.31_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Pine64_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/pine64/archive/Armbian_24.5.1_Pine64_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Pine64_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/pine64/archive/Armbian_24.5.1_Pine64_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Pine64_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/pine64/archive/Armbian_24.5.1_Pine64_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Pine64_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/pine64/archive/Armbian_24.5.1_Pine64_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Phytiumpi_noble_legacy_5.10.209_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/phytiumpi/archive/Armbian_24.5.1_Phytiumpi_noble_legacy_5.10.209_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Phytiumpi_noble_legacy_5.10.209_gnome_desktop, img.xz)",
+          "url": "/armbian-releases/phytiumpi/archive/Armbian_24.5.1_Phytiumpi_noble_legacy_5.10.209_gnome_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Phytiumpi_noble_legacy_5.10.209, img.xz)",
+          "url": "/armbian-releases/phytiumpi/archive/Armbian_24.5.1_Phytiumpi_noble_legacy_5.10.209.img.xz"
+        },
+        {
+          "name": "24.5.1 (Phytiumpi_jammy_legacy_5.10.209, img.xz)",
+          "url": "/armbian-releases/phytiumpi/archive/Armbian_24.5.1_Phytiumpi_jammy_legacy_5.10.209.img.xz"
+        },
+        {
+          "name": "24.5.1 (Phytiumpi_bookworm_legacy_5.10.209_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/phytiumpi/archive/Armbian_24.5.1_Phytiumpi_bookworm_legacy_5.10.209_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Phytiumpi_bookworm_legacy_5.10.209_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/phytiumpi/archive/Armbian_24.5.1_Phytiumpi_bookworm_legacy_5.10.209_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Orangepizeroplus_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/orangepizeroplus/archive/Armbian_24.5.1_Orangepizeroplus_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Orangepizeroplus_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/orangepizeroplus/archive/Armbian_24.5.1_Orangepizeroplus_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Orangepizero2_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/orangepizero2/archive/Armbian_24.5.1_Orangepizero2_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Orangepizero2_noble_current_6.6.31_gnome_desktop, img.xz)",
+          "url": "/armbian-releases/orangepizero2/archive/Armbian_24.5.1_Orangepizero2_noble_current_6.6.31_gnome_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Orangepizero2_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/orangepizero2/archive/Armbian_24.5.1_Orangepizero2_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Orangepizero2_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/orangepizero2/archive/Armbian_24.5.1_Orangepizero2_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Orangepizero2_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/orangepizero2/archive/Armbian_24.5.1_Orangepizero2_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Orangepizero2_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/orangepizero2/archive/Armbian_24.5.1_Orangepizero2_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Orangepione_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/orangepione/archive/Armbian_24.5.1_Orangepione_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Orangepione_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/orangepione/archive/Armbian_24.5.1_Orangepione_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Orangepione_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/orangepione/archive/Armbian_24.5.1_Orangepione_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Orangepione_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/orangepione/archive/Armbian_24.5.1_Orangepione_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Orangepi4-lts_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi4-lts/archive/Armbian_24.5.1_Orangepi4-lts_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Orangepi4-lts_noble_current_6.6.31_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi4-lts/archive/Armbian_24.5.1_Orangepi4-lts_noble_current_6.6.31_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Orangepi4-lts_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/orangepi4-lts/archive/Armbian_24.5.1_Orangepi4-lts_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Orangepi4-lts_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/orangepi4-lts/archive/Armbian_24.5.1_Orangepi4-lts_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Orangepi4-lts_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi4-lts/archive/Armbian_24.5.1_Orangepi4-lts_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Orangepi4-lts_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/orangepi4-lts/archive/Armbian_24.5.1_Orangepi4-lts_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Onecloud_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/onecloud/archive/Armbian_24.5.1_Onecloud_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Onecloud_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/onecloud/archive/Armbian_24.5.1_Onecloud_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Onecloud_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/onecloud/archive/Armbian_24.5.1_Onecloud_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Onecloud_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/onecloud/archive/Armbian_24.5.1_Onecloud_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Odroidn2_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/odroidn2/archive/Armbian_24.5.1_Odroidn2_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Odroidn2_noble_current_6.6.31_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/odroidn2/archive/Armbian_24.5.1_Odroidn2_noble_current_6.6.31_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Odroidn2_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/odroidn2/archive/Armbian_24.5.1_Odroidn2_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Odroidn2_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/odroidn2/archive/Armbian_24.5.1_Odroidn2_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Odroidn2_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/odroidn2/archive/Armbian_24.5.1_Odroidn2_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Odroidn2_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/odroidn2/archive/Armbian_24.5.1_Odroidn2_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Odroidc2_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/odroidc2/archive/Armbian_24.5.1_Odroidc2_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Odroidc2_noble_current_6.6.31_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/odroidc2/archive/Armbian_24.5.1_Odroidc2_noble_current_6.6.31_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Odroidc2_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/odroidc2/archive/Armbian_24.5.1_Odroidc2_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Odroidc2_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/odroidc2/archive/Armbian_24.5.1_Odroidc2_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Odroidc2_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/odroidc2/archive/Armbian_24.5.1_Odroidc2_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Odroidc2_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/odroidc2/archive/Armbian_24.5.1_Odroidc2_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Nanopi-r4s_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/nanopi-r4s/archive/Armbian_24.5.1_Nanopi-r4s_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Nanopi-r4s_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/nanopi-r4s/archive/Armbian_24.5.1_Nanopi-r4s_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Lepotato_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/lepotato/archive/Armbian_24.5.1_Lepotato_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Lepotato_noble_current_6.6.31_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/lepotato/archive/Armbian_24.5.1_Lepotato_noble_current_6.6.31_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Lepotato_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/lepotato/archive/Armbian_24.5.1_Lepotato_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Lepotato_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/lepotato/archive/Armbian_24.5.1_Lepotato_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Lepotato_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/lepotato/archive/Armbian_24.5.1_Lepotato_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Lepotato_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/lepotato/archive/Armbian_24.5.1_Lepotato_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Lafrite_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/lafrite/archive/Armbian_24.5.1_Lafrite_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Lafrite_noble_current_6.6.31_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/lafrite/archive/Armbian_24.5.1_Lafrite_noble_current_6.6.31_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Lafrite_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/lafrite/archive/Armbian_24.5.1_Lafrite_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Lafrite_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/lafrite/archive/Armbian_24.5.1_Lafrite_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Lafrite_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/lafrite/archive/Armbian_24.5.1_Lafrite_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Lafrite_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/lafrite/archive/Armbian_24.5.1_Lafrite_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim4_noble_legacy_5.15.119_xfce_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim4/archive/Armbian_24.5.1_Khadas-vim4_noble_legacy_5.15.119_xfce_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim4_noble_legacy_5.15.119_gnome_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim4/archive/Armbian_24.5.1_Khadas-vim4_noble_legacy_5.15.119_gnome_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim4_noble_legacy_5.15.119.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim4/archive/Armbian_24.5.1_Khadas-vim4_noble_legacy_5.15.119.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim4_jammy_legacy_5.15.119.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim4/archive/Armbian_24.5.1_Khadas-vim4_jammy_legacy_5.15.119.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim4_bookworm_legacy_5.15.119_xfce_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim4/archive/Armbian_24.5.1_Khadas-vim4_bookworm_legacy_5.15.119_xfce_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim4_bookworm_legacy_5.15.119_cinnamon_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim4/archive/Armbian_24.5.1_Khadas-vim4_bookworm_legacy_5.15.119_cinnamon_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim3l_noble_current_6.6.31_xfce_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim3l/archive/Armbian_24.5.1_Khadas-vim3l_noble_current_6.6.31_xfce_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim3l_noble_current_6.6.31_gnome-oibaf_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim3l/archive/Armbian_24.5.1_Khadas-vim3l_noble_current_6.6.31_gnome-oibaf_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim3l_noble_current_6.6.31.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim3l/archive/Armbian_24.5.1_Khadas-vim3l_noble_current_6.6.31.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim3l_jammy_current_6.6.31.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim3l/archive/Armbian_24.5.1_Khadas-vim3l_jammy_current_6.6.31.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim3l_bookworm_current_6.6.31_xfce_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim3l/archive/Armbian_24.5.1_Khadas-vim3l_bookworm_current_6.6.31_xfce_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim3l_bookworm_current_6.6.31_cinnamon_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim3l/archive/Armbian_24.5.1_Khadas-vim3l_bookworm_current_6.6.31_cinnamon_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim3_noble_current_6.6.31_xfce_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim3/archive/Armbian_24.5.1_Khadas-vim3_noble_current_6.6.31_xfce_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim3_noble_current_6.6.31_gnome-oibaf_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim3/archive/Armbian_24.5.1_Khadas-vim3_noble_current_6.6.31_gnome-oibaf_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim3_noble_current_6.6.31.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim3/archive/Armbian_24.5.1_Khadas-vim3_noble_current_6.6.31.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim3_jammy_current_6.6.31.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim3/archive/Armbian_24.5.1_Khadas-vim3_jammy_current_6.6.31.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim3_bookworm_current_6.6.31_xfce_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim3/archive/Armbian_24.5.1_Khadas-vim3_bookworm_current_6.6.31_xfce_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim3_bookworm_current_6.6.31_cinnamon_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim3/archive/Armbian_24.5.1_Khadas-vim3_bookworm_current_6.6.31_cinnamon_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim2_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/khadas-vim2/archive/Armbian_24.5.1_Khadas-vim2_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim2_noble_current_6.6.31_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/khadas-vim2/archive/Armbian_24.5.1_Khadas-vim2_noble_current_6.6.31_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim2_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/khadas-vim2/archive/Armbian_24.5.1_Khadas-vim2_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim2_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/khadas-vim2/archive/Armbian_24.5.1_Khadas-vim2_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim2_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/khadas-vim2/archive/Armbian_24.5.1_Khadas-vim2_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim2_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/khadas-vim2/archive/Armbian_24.5.1_Khadas-vim2_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim1s_noble_legacy_5.15.119_xfce_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim1s/archive/Armbian_24.5.1_Khadas-vim1s_noble_legacy_5.15.119_xfce_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim1s_noble_legacy_5.15.119_gnome_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim1s/archive/Armbian_24.5.1_Khadas-vim1s_noble_legacy_5.15.119_gnome_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim1s_noble_legacy_5.15.119.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim1s/archive/Armbian_24.5.1_Khadas-vim1s_noble_legacy_5.15.119.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim1s_jammy_legacy_5.15.119.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim1s/archive/Armbian_24.5.1_Khadas-vim1s_jammy_legacy_5.15.119.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim1s_bookworm_legacy_5.15.119_xfce_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim1s/archive/Armbian_24.5.1_Khadas-vim1s_bookworm_legacy_5.15.119_xfce_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim1s_bookworm_legacy_5.15.119_cinnamon_desktop.oowow, img.xz)",
+          "url": "/armbian-releases/khadas-vim1s/archive/Armbian_24.5.1_Khadas-vim1s_bookworm_legacy_5.15.119_cinnamon_desktop.oowow.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim1_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/khadas-vim1/archive/Armbian_24.5.1_Khadas-vim1_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim1_noble_current_6.6.31_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/khadas-vim1/archive/Armbian_24.5.1_Khadas-vim1_noble_current_6.6.31_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim1_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/khadas-vim1/archive/Armbian_24.5.1_Khadas-vim1_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim1_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/khadas-vim1/archive/Armbian_24.5.1_Khadas-vim1_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim1_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/khadas-vim1/archive/Armbian_24.5.1_Khadas-vim1_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Khadas-vim1_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/khadas-vim1/archive/Armbian_24.5.1_Khadas-vim1_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Jethubj80_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/jethubj80/archive/Armbian_24.5.1_Jethubj80_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Jethubj80_noble_current_6.6.31_gnome_desktop, img.xz)",
+          "url": "/armbian-releases/jethubj80/archive/Armbian_24.5.1_Jethubj80_noble_current_6.6.31_gnome_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Jethubj80_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/jethubj80/archive/Armbian_24.5.1_Jethubj80_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Jethubj80_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/jethubj80/archive/Armbian_24.5.1_Jethubj80_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Jethubj80_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/jethubj80/archive/Armbian_24.5.1_Jethubj80_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Jethubj80_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/jethubj80/archive/Armbian_24.5.1_Jethubj80_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Jethubj100_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/jethubj100/archive/Armbian_24.5.1_Jethubj100_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Jethubj100_noble_current_6.6.31_gnome_desktop, img.xz)",
+          "url": "/armbian-releases/jethubj100/archive/Armbian_24.5.1_Jethubj100_noble_current_6.6.31_gnome_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Jethubj100_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/jethubj100/archive/Armbian_24.5.1_Jethubj100_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Jethubj100_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/jethubj100/archive/Armbian_24.5.1_Jethubj100_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Jethubj100_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/jethubj100/archive/Armbian_24.5.1_Jethubj100_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Jethubj100_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/jethubj100/archive/Armbian_24.5.1_Jethubj100_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Inovato-quadra_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/inovato-quadra/archive/Armbian_24.5.1_Inovato-quadra_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Inovato-quadra_noble_current_6.6.31_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/inovato-quadra/archive/Armbian_24.5.1_Inovato-quadra_noble_current_6.6.31_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Inovato-quadra_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/inovato-quadra/archive/Armbian_24.5.1_Inovato-quadra_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Inovato-quadra_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/inovato-quadra/archive/Armbian_24.5.1_Inovato-quadra_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Inovato-quadra_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/inovato-quadra/archive/Armbian_24.5.1_Inovato-quadra_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Inovato-quadra_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/inovato-quadra/archive/Armbian_24.5.1_Inovato-quadra_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Helios4_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/helios4/archive/Armbian_24.5.1_Helios4_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Helios4_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/helios4/archive/Armbian_24.5.1_Helios4_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bigtreetech-cb1_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/bigtreetech-cb1/archive/Armbian_24.5.1_Bigtreetech-cb1_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bigtreetech-cb1_noble_current_6.6.31_gnome_desktop, img.xz)",
+          "url": "/armbian-releases/bigtreetech-cb1/archive/Armbian_24.5.1_Bigtreetech-cb1_noble_current_6.6.31_gnome_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bigtreetech-cb1_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/bigtreetech-cb1/archive/Armbian_24.5.1_Bigtreetech-cb1_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bigtreetech-cb1_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/bigtreetech-cb1/archive/Armbian_24.5.1_Bigtreetech-cb1_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bigtreetech-cb1_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/bigtreetech-cb1/archive/Armbian_24.5.1_Bigtreetech-cb1_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bigtreetech-cb1_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/bigtreetech-cb1/archive/Armbian_24.5.1_Bigtreetech-cb1_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim5_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim5/archive/Armbian_24.5.1_Bananapim5_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim5_noble_current_6.6.31_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim5/archive/Armbian_24.5.1_Bananapim5_noble_current_6.6.31_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim5_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/bananapim5/archive/Armbian_24.5.1_Bananapim5_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim5_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/bananapim5/archive/Armbian_24.5.1_Bananapim5_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim5_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim5/archive/Armbian_24.5.1_Bananapim5_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim5_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim5/archive/Armbian_24.5.1_Bananapim5_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim4zero_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim4zero/archive/Armbian_24.5.1_Bananapim4zero_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim4zero_noble_current_6.6.31_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim4zero/archive/Armbian_24.5.1_Bananapim4zero_noble_current_6.6.31_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim4zero_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/bananapim4zero/archive/Armbian_24.5.1_Bananapim4zero_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim4zero_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/bananapim4zero/archive/Armbian_24.5.1_Bananapim4zero_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim4zero_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim4zero/archive/Armbian_24.5.1_Bananapim4zero_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim4zero_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim4zero/archive/Armbian_24.5.1_Bananapim4zero_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim2s_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim2s/archive/Armbian_24.5.1_Bananapim2s_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim2s_noble_current_6.6.31_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim2s/archive/Armbian_24.5.1_Bananapim2s_noble_current_6.6.31_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim2s_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/bananapim2s/archive/Armbian_24.5.1_Bananapim2s_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim2s_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/bananapim2s/archive/Armbian_24.5.1_Bananapim2s_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim2s_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim2s/archive/Armbian_24.5.1_Bananapim2s_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim2s_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim2s/archive/Armbian_24.5.1_Bananapim2s_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim2pro_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim2pro/archive/Armbian_24.5.1_Bananapim2pro_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim2pro_noble_current_6.6.31_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim2pro/archive/Armbian_24.5.1_Bananapim2pro_noble_current_6.6.31_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim2pro_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/bananapim2pro/archive/Armbian_24.5.1_Bananapim2pro_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim2pro_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/bananapim2pro/archive/Armbian_24.5.1_Bananapim2pro_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim2pro_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim2pro/archive/Armbian_24.5.1_Bananapim2pro_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapim2pro_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/bananapim2pro/archive/Armbian_24.5.1_Bananapim2pro_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapicm4io_noble_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/bananapicm4io/archive/Armbian_24.5.1_Bananapicm4io_noble_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapicm4io_noble_current_6.6.31_gnome-oibaf_desktop, img.xz)",
+          "url": "/armbian-releases/bananapicm4io/archive/Armbian_24.5.1_Bananapicm4io_noble_current_6.6.31_gnome-oibaf_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapicm4io_noble_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/bananapicm4io/archive/Armbian_24.5.1_Bananapicm4io_noble_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapicm4io_jammy_current_6.6.31, img.xz)",
+          "url": "/armbian-releases/bananapicm4io/archive/Armbian_24.5.1_Bananapicm4io_jammy_current_6.6.31.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapicm4io_bookworm_current_6.6.31_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/bananapicm4io/archive/Armbian_24.5.1_Bananapicm4io_bookworm_current_6.6.31_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Bananapicm4io_bookworm_current_6.6.31_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/bananapicm4io/archive/Armbian_24.5.1_Bananapicm4io_bookworm_current_6.6.31_cinnamon_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Avaota-a1_noble_legacy_5.15.153_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/avaota-a1/archive/Armbian_24.5.1_Avaota-a1_noble_legacy_5.15.153_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Avaota-a1_noble_legacy_5.15.153_gnome_desktop, img.xz)",
+          "url": "/armbian-releases/avaota-a1/archive/Armbian_24.5.1_Avaota-a1_noble_legacy_5.15.153_gnome_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Avaota-a1_noble_legacy_5.15.153, img.xz)",
+          "url": "/armbian-releases/avaota-a1/archive/Armbian_24.5.1_Avaota-a1_noble_legacy_5.15.153.img.xz"
+        },
+        {
+          "name": "24.5.1 (Avaota-a1_jammy_legacy_5.15.153, img.xz)",
+          "url": "/armbian-releases/avaota-a1/archive/Armbian_24.5.1_Avaota-a1_jammy_legacy_5.15.153.img.xz"
+        },
+        {
+          "name": "24.5.1 (Avaota-a1_bookworm_legacy_5.15.153_xfce_desktop, img.xz)",
+          "url": "/armbian-releases/avaota-a1/archive/Armbian_24.5.1_Avaota-a1_bookworm_legacy_5.15.153_xfce_desktop.img.xz"
+        },
+        {
+          "name": "24.5.1 (Avaota-a1_bookworm_legacy_5.15.153_cinnamon_desktop, img.xz)",
+          "url": "/armbian-releases/avaota-a1/archive/Armbian_24.5.1_Avaota-a1_bookworm_legacy_5.15.153_cinnamon_desktop.img.xz"
+        }
+      ]
+    },
+    {
+      "distro": "centos",
+      "category": "os",
+      "urls": [
+        {
+          "name": "Stream 9 (x86_64, dvd1)",
+          "url": "/centos-stream/9-stream/BaseOS/x86_64/iso/CentOS-Stream-9-latest-x86_64-dvd1.iso"
+        },
+        {
+          "name": "Stream 9 (x86_64, boot)",
+          "url": "/centos-stream/9-stream/BaseOS/x86_64/iso/CentOS-Stream-9-latest-x86_64-boot.iso"
+        },
+        {
+          "name": "Stream 9 (s390x, dvd1)",
+          "url": "/centos-stream/9-stream/BaseOS/s390x/iso/CentOS-Stream-9-latest-s390x-dvd1.iso"
+        },
+        {
+          "name": "Stream 9 (s390x, boot)",
+          "url": "/centos-stream/9-stream/BaseOS/s390x/iso/CentOS-Stream-9-latest-s390x-boot.iso"
+        },
+        {
+          "name": "Stream 9 (ppc64le, dvd1)",
+          "url": "/centos-stream/9-stream/BaseOS/ppc64le/iso/CentOS-Stream-9-latest-ppc64le-dvd1.iso"
+        },
+        {
+          "name": "Stream 9 (ppc64le, boot)",
+          "url": "/centos-stream/9-stream/BaseOS/ppc64le/iso/CentOS-Stream-9-latest-ppc64le-boot.iso"
+        },
+        {
+          "name": "Stream 9 (aarch64, dvd1)",
+          "url": "/centos-stream/9-stream/BaseOS/aarch64/iso/CentOS-Stream-9-latest-aarch64-dvd1.iso"
+        },
+        {
+          "name": "Stream 9 (aarch64, boot)",
+          "url": "/centos-stream/9-stream/BaseOS/aarch64/iso/CentOS-Stream-9-latest-aarch64-boot.iso"
+        }
+      ]
+    },
+    {
+      "distro": "Conda",
+      "category": "app",
+      "urls": [
+        {
+          "name": "Miniconda3-py39 4.12.0 (Windows/x86_64, exe)",
+          "url": "/anaconda/miniconda/Miniconda3-py39_4.12.0-Windows-x86_64.exe"
+        },
+        {
+          "name": "Miniconda3-py39 4.12.0 (Windows/x86, exe)",
+          "url": "/anaconda/miniconda/Miniconda3-py39_4.12.0-Windows-x86.exe"
+        },
+        {
+          "name": "Miniconda3-py39 4.12.0 (MacOSX/x86_64, sh)",
+          "url": "/anaconda/miniconda/Miniconda3-py39_4.12.0-MacOSX-x86_64.sh"
+        },
+        {
+          "name": "Miniconda3-py39 4.12.0 (MacOSX/x86_64, pkg)",
+          "url": "/anaconda/miniconda/Miniconda3-py39_4.12.0-MacOSX-x86_64.pkg"
+        },
+        {
+          "name": "Miniconda3-py39 4.12.0 (Linux/x86_64, sh)",
+          "url": "/anaconda/miniconda/Miniconda3-py39_4.12.0-Linux-x86_64.sh"
+        },
+        {
+          "name": "Miniconda2 4.7.12.1 (Windows/x86_64, exe)",
+          "url": "/anaconda/miniconda/Miniconda2-4.7.12.1-Windows-x86_64.exe"
+        },
+        {
+          "name": "Miniconda2 4.7.12.1 (Windows/x86, exe)",
+          "url": "/anaconda/miniconda/Miniconda2-4.7.12.1-Windows-x86.exe"
+        },
+        {
+          "name": "Miniconda2 4.7.12.1 (MacOSX/x86_64, sh)",
+          "url": "/anaconda/miniconda/Miniconda2-4.7.12.1-MacOSX-x86_64.sh"
+        },
+        {
+          "name": "Miniconda2 4.7.12.1 (MacOSX/x86_64, pkg)",
+          "url": "/anaconda/miniconda/Miniconda2-4.7.12.1-MacOSX-x86_64.pkg"
+        },
+        {
+          "name": "Miniconda2 4.7.12.1 (Linux/x86_64, sh)",
+          "url": "/anaconda/miniconda/Miniconda2-4.7.12.1-Linux-x86_64.sh"
+        },
+        {
+          "name": "Anaconda3 2023.03 (Windows/x86_64, exe)",
+          "url": "/anaconda/archive/Anaconda3-2023.03-Windows-x86_64.exe"
+        },
+        {
+          "name": "Anaconda3 2023.03 (MacOSX/x86_64, sh)",
+          "url": "/anaconda/archive/Anaconda3-2023.03-MacOSX-x86_64.sh"
+        },
+        {
+          "name": "Anaconda3 2023.03 (MacOSX/x86_64, pkg)",
+          "url": "/anaconda/archive/Anaconda3-2023.03-MacOSX-x86_64.pkg"
+        },
+        {
+          "name": "Anaconda3 2023.03 (Linux/x86_64, sh)",
+          "url": "/anaconda/archive/Anaconda3-2023.03-Linux-x86_64.sh"
+        },
+        {
+          "name": "Anaconda2 2019.10 (Windows/x86_64, exe)",
+          "url": "/anaconda/archive/Anaconda2-2019.10-Windows-x86_64.exe"
+        },
+        {
+          "name": "Anaconda2 2019.10 (Windows/x86, exe)",
+          "url": "/anaconda/archive/Anaconda2-2019.10-Windows-x86.exe"
+        },
+        {
+          "name": "Anaconda2 2019.10 (MacOSX/x86_64, sh)",
+          "url": "/anaconda/archive/Anaconda2-2019.10-MacOSX-x86_64.sh"
+        },
+        {
+          "name": "Anaconda2 2019.10 (MacOSX/x86_64, pkg)",
+          "url": "/anaconda/archive/Anaconda2-2019.10-MacOSX-x86_64.pkg"
+        },
+        {
+          "name": "Anaconda2 2019.10 (Linux/x86_64, sh)",
+          "url": "/anaconda/archive/Anaconda2-2019.10-Linux-x86_64.sh"
+        }
+      ]
+    },
+    {
+      "distro": "debian",
+      "category": "os",
+      "urls": [
+        {
+          "name": "12.6.0 (i386, Network installer)",
+          "url": "/debian-cd/current/i386/iso-cd/debian-12.6.0-i386-netinst.iso"
+        },
+        {
+          "name": "12.6.0 (i386, DVD installer (Part 1))",
+          "url": "/debian-cd/current/i386/iso-dvd/debian-12.6.0-i386-DVD-1.iso"
+        },
+        {
+          "name": "12.6.0 (amd64, Network installer)",
+          "url": "/debian-cd/current/amd64/iso-cd/debian-12.6.0-amd64-netinst.iso"
+        },
+        {
+          "name": "12.6.0 (amd64, Live CD with xfce)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.6.0-amd64-xfce.iso"
+        },
+        {
+          "name": "12.6.0 (amd64, Live CD with standard)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.6.0-amd64-standard.iso"
+        },
+        {
+          "name": "12.6.0 (amd64, Live CD with mate)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.6.0-amd64-mate.iso"
+        },
+        {
+          "name": "12.6.0 (amd64, Live CD with lxqt)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.6.0-amd64-lxqt.iso"
+        },
+        {
+          "name": "12.6.0 (amd64, Live CD with lxde)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.6.0-amd64-lxde.iso"
+        },
+        {
+          "name": "12.6.0 (amd64, Live CD with kde)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.6.0-amd64-kde.iso"
+        },
+        {
+          "name": "12.6.0 (amd64, Live CD with gnome)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.6.0-amd64-gnome.iso"
+        },
+        {
+          "name": "12.6.0 (amd64, Live CD with cinnamon)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.6.0-amd64-cinnamon.iso"
+        },
+        {
+          "name": "12.6.0 (amd64, DVD installer (Part 1))",
+          "url": "/debian-cd/current/amd64/iso-dvd/debian-12.6.0-amd64-DVD-1.iso"
+        }
+      ]
+    },
+    {
+      "distro": "fedora",
+      "category": "os",
+      "urls": [
+        {
+          "name": "40 (x86_64, Silverblue ostree)",
+          "url": "/fedora/releases/40/Silverblue/x86_64/iso/Fedora-Silverblue-ostree-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Server netinst)",
+          "url": "/fedora/releases/40/Server/x86_64/iso/Fedora-Server-netinst-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Server dvd)",
+          "url": "/fedora/releases/40/Server/x86_64/iso/Fedora-Server-dvd-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Live CD with i3)",
+          "url": "/fedora/releases/40/Spins/x86_64/iso/Fedora-i3-Live-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Live CD with default DE)",
+          "url": "/fedora/releases/40/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Live CD with Xfce)",
+          "url": "/fedora/releases/40/Spins/x86_64/iso/Fedora-Xfce-Live-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Live CD with Sway)",
+          "url": "/fedora/releases/40/Spins/x86_64/iso/Fedora-Sway-Live-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Live CD with SoaS)",
+          "url": "/fedora/releases/40/Spins/x86_64/iso/Fedora-SoaS-Live-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Live CD with MATE_Compiz)",
+          "url": "/fedora/releases/40/Spins/x86_64/iso/Fedora-MATE_Compiz-Live-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Live CD with LXQt)",
+          "url": "/fedora/releases/40/Spins/x86_64/iso/Fedora-LXQt-Live-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Live CD with LXDE)",
+          "url": "/fedora/releases/40/Spins/x86_64/iso/Fedora-LXDE-Live-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Live CD with KDE)",
+          "url": "/fedora/releases/40/Spins/x86_64/iso/Fedora-KDE-Live-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Live CD with Cinnamon)",
+          "url": "/fedora/releases/40/Spins/x86_64/iso/Fedora-Cinnamon-Live-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (x86_64, Live CD with Budgie)",
+          "url": "/fedora/releases/40/Spins/x86_64/iso/Fedora-Budgie-Live-x86_64-40-1.14.iso"
+        },
+        {
+          "name": "40 (osb, Live CD with default DE)",
+          "url": "/fedora/releases/40/Workstation/x86_64/iso/Fedora-Workstation-Live-osb-40-1.14.x86_64.iso"
+        },
+        {
+          "name": "40 (osb, Live CD with default DE)",
+          "url": "/fedora/releases/40/Workstation/aarch64/iso/Fedora-Workstation-Live-osb-40-1.14.aarch64.iso"
+        },
+        {
+          "name": "40 (aarch64, Silverblue ostree)",
+          "url": "/fedora/releases/40/Silverblue/aarch64/iso/Fedora-Silverblue-ostree-aarch64-40-1.14.iso"
+        },
+        {
+          "name": "40 (aarch64, Server netinst)",
+          "url": "/fedora/releases/40/Server/aarch64/iso/Fedora-Server-netinst-aarch64-40-1.14.iso"
+        },
+        {
+          "name": "40 (aarch64, Server dvd)",
+          "url": "/fedora/releases/40/Server/aarch64/iso/Fedora-Server-dvd-aarch64-40-1.14.iso"
+        },
+        {
+          "name": "39 (x86_64, Live CD with default DE)",
+          "url": "/fedora/releases/39/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-39-1.5.iso"
+        }
+      ]
+    },
+    {
+      "distro": "kali",
+      "category": "os",
+      "urls": [
+        {
+          "name": "2024.2 (i386, Network installer)",
+          "url": "/kali-images/current/kali-linux-2024.2-installer-netinst-i386.iso"
+        },
+        {
+          "name": "2024.2 (i386, Live)",
+          "url": "/kali-images/current/kali-linux-2024.2-live-i386.iso"
+        },
+        {
+          "name": "2024.2 (i386, Installer)",
+          "url": "/kali-images/current/kali-linux-2024.2-installer-i386.iso"
+        },
+        {
+          "name": "2024.2 (arm64, Network installer)",
+          "url": "/kali-images/current/kali-linux-2024.2-installer-netinst-arm64.iso"
+        },
+        {
+          "name": "2024.2 (arm64, Live)",
+          "url": "/kali-images/current/kali-linux-2024.2-live-arm64.iso"
+        },
+        {
+          "name": "2024.2 (arm64, Installer)",
+          "url": "/kali-images/current/kali-linux-2024.2-installer-arm64.iso"
+        },
+        {
+          "name": "2024.2 (amd64, Network installer)",
+          "url": "/kali-images/current/kali-linux-2024.2-installer-netinst-amd64.iso"
+        },
+        {
+          "name": "2024.2 (amd64, Live)",
+          "url": "/kali-images/current/kali-linux-2024.2-live-amd64.iso"
+        },
+        {
+          "name": "2024.2 (amd64, Installer)",
+          "url": "/kali-images/current/kali-linux-2024.2-installer-amd64.iso"
+        }
+      ]
+    },
+    {
+      "distro": "linuxmint",
+      "category": "os",
+      "urls": [
+        {
+          "name": "22 (64bit, mate)",
+          "url": "/linuxmint-cd/stable/22/linuxmint-22-mate-64bit.iso"
+        },
+        {
+          "name": "22 (64bit, cinnamon)",
+          "url": "/linuxmint-cd/stable/22/linuxmint-22-cinnamon-64bit.iso"
+        }
+      ]
+    },
+    {
+      "distro": "opensuse",
+      "category": "os",
+      "urls": [
+        {
+          "name": "Tumbleweed (x86_64, KDE-Live)",
+          "url": "/opensuse/tumbleweed/iso/openSUSE-Tumbleweed-KDE-Live-x86_64-Current.iso"
+        },
+        {
+          "name": "Tumbleweed (x86_64, GNOME-Live)",
+          "url": "/opensuse/tumbleweed/iso/openSUSE-Tumbleweed-GNOME-Live-x86_64-Current.iso"
+        },
+        {
+          "name": "Tumbleweed (x86_64, DVD)",
+          "url": "/opensuse/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso"
+        },
+        {
+          "name": "15.6 (x86_64, XFCE Live)",
+          "url": "/opensuse/distribution/leap/15.6/live/openSUSE-Leap-15.6-XFCE-Live-x86_64-Media.iso"
+        },
+        {
+          "name": "15.6 (x86_64, Rescue CD)",
+          "url": "/opensuse/distribution/leap/15.6/live/openSUSE-Leap-15.6-Rescue-CD-x86_64-Media.iso"
+        },
+        {
+          "name": "15.6 (x86_64, KDE Live)",
+          "url": "/opensuse/distribution/leap/15.6/live/openSUSE-Leap-15.6-KDE-Live-x86_64-Media.iso"
+        },
+        {
+          "name": "15.6 (x86_64, GNOME Live)",
+          "url": "/opensuse/distribution/leap/15.6/live/openSUSE-Leap-15.6-GNOME-Live-x86_64-Media.iso"
+        },
+        {
+          "name": "15.6 (aarch64, XFCE Live)",
+          "url": "/opensuse/distribution/leap/15.6/live/openSUSE-Leap-15.6-XFCE-Live-aarch64-Media.iso"
+        },
+        {
+          "name": "15.6 (aarch64, Rescue CD)",
+          "url": "/opensuse/distribution/leap/15.6/live/openSUSE-Leap-15.6-Rescue-CD-aarch64-Media.iso"
+        },
+        {
+          "name": "15.6 (aarch64, KDE Live)",
+          "url": "/opensuse/distribution/leap/15.6/live/openSUSE-Leap-15.6-KDE-Live-aarch64-Media.iso"
+        },
+        {
+          "name": "15.6 (aarch64, GNOME Live)",
+          "url": "/opensuse/distribution/leap/15.6/live/openSUSE-Leap-15.6-GNOME-Live-aarch64-Media.iso"
+        },
+        {
+          "name": "15.5 (x86_64, XFCE Live)",
+          "url": "/opensuse/distribution/leap/15.5/live/openSUSE-Leap-15.5-XFCE-Live-x86_64-Media.iso"
+        },
+        {
+          "name": "15.5 (x86_64, Rescue CD)",
+          "url": "/opensuse/distribution/leap/15.5/live/openSUSE-Leap-15.5-Rescue-CD-x86_64-Media.iso"
+        },
+        {
+          "name": "15.5 (x86_64, KDE Live)",
+          "url": "/opensuse/distribution/leap/15.5/live/openSUSE-Leap-15.5-KDE-Live-x86_64-Media.iso"
+        },
+        {
+          "name": "15.5 (x86_64, GNOME Live)",
+          "url": "/opensuse/distribution/leap/15.5/live/openSUSE-Leap-15.5-GNOME-Live-x86_64-Media.iso"
+        },
+        {
+          "name": "15.5 (aarch64, XFCE Live)",
+          "url": "/opensuse/distribution/leap/15.5/live/openSUSE-Leap-15.5-XFCE-Live-aarch64-Media.iso"
+        },
+        {
+          "name": "15.5 (aarch64, Rescue CD)",
+          "url": "/opensuse/distribution/leap/15.5/live/openSUSE-Leap-15.5-Rescue-CD-aarch64-Media.iso"
+        },
+        {
+          "name": "15.5 (aarch64, KDE Live)",
+          "url": "/opensuse/distribution/leap/15.5/live/openSUSE-Leap-15.5-KDE-Live-aarch64-Media.iso"
+        },
+        {
+          "name": "15.5 (aarch64, GNOME Live)",
+          "url": "/opensuse/distribution/leap/15.5/live/openSUSE-Leap-15.5-GNOME-Live-aarch64-Media.iso"
+        }
+      ]
+    },
+    {
+      "distro": "TeX 排版系统",
+      "category": "app",
+      "urls": [
+        {
+          "name": "TeX Live 2024 (Windows & Linux)",
+          "url": "/CTAN/systems/texlive/Images/texlive2024-20240312.iso"
+        },
+        {
+          "name": "MikTeX 24.1 (Windows, x64)",
+          "url": "/CTAN/systems/win32/miktex/setup/windows-x64/basic-miktex-24.1-x64.exe"
+        },
+        {
+          "name": "MikTeX 22.1 (macOS, x86_64)",
+          "url": "/CTAN/systems/win32/miktex/setup/darwin-x86_64/miktex-22.1-darwin-x86_64.dmg"
+        },
+        {
+          "name": "MacTeX 20240312 (macOS)",
+          "url": "/CTAN/systems/mac/mactex/mactex-20240312.pkg"
+        }
+      ]
+    },
+    {
+      "distro": "ubuntu",
+      "category": "os",
+      "urls": [
+        {
+          "name": "24.04 (amd64, Live Server)",
+          "url": "/ubuntu-releases/noble/ubuntu-24.04-live-server-amd64.iso"
+        },
+        {
+          "name": "24.04 (amd64, Desktop)",
+          "url": "/ubuntu-releases/noble/ubuntu-24.04-desktop-amd64.iso"
+        },
+        {
+          "name": "23.10.1 (amd64, Desktop)",
+          "url": "/ubuntu-releases/mantic/ubuntu-23.10.1-desktop-amd64.iso"
+        },
+        {
+          "name": "23.10 (amd64, Live Server)",
+          "url": "/ubuntu-releases/mantic/ubuntu-23.10-live-server-amd64.iso"
+        },
+        {
+          "name": "22.04.4 (amd64, Live Server)",
+          "url": "/ubuntu-releases/jammy/ubuntu-22.04.4-live-server-amd64.iso"
+        },
+        {
+          "name": "22.04.4 (amd64, Desktop)",
+          "url": "/ubuntu-releases/jammy/ubuntu-22.04.4-desktop-amd64.iso"
+        },
+        {
+          "name": "20.04.6 (amd64, Live Server)",
+          "url": "/ubuntu-releases/focal/ubuntu-20.04.6-live-server-amd64.iso"
+        },
+        {
+          "name": "20.04.6 (amd64, Desktop)",
+          "url": "/ubuntu-releases/focal/ubuntu-20.04.6-desktop-amd64.iso"
+        }
+      ]
+    },
+    {
+      "distro": "Ubuntu 衍生版",
+      "category": "os",
+      "urls": [
+        {
+          "name": "Xubuntu 24.04 (amd64)",
+          "url": "/ubuntu-cdimage/xubuntu/releases/noble/release/xubuntu-24.04-desktop-amd64.iso"
+        },
+        {
+          "name": "Ubuntu Unity 24.04 (amd64)",
+          "url": "/ubuntu-cdimage/ubuntu-unity/releases/noble/release/ubuntu-unity-24.04-desktop-amd64.iso"
+        },
+        {
+          "name": "Ubuntu Studio 24.04 (amd64)",
+          "url": "/ubuntu-cdimage/ubuntustudio/releases/noble/release/ubuntustudio-24.04-dvd-amd64.iso"
+        },
+        {
+          "name": "Ubuntu Mate 24.04 (amd64)",
+          "url": "/ubuntu-cdimage/ubuntu-mate/releases/noble/release/ubuntu-mate-24.04-desktop-amd64.iso"
+        },
+        {
+          "name": "Ubuntu Kylin 24.04 (amd64)",
+          "url": "/ubuntu-cdimage/ubuntukylin/releases/noble/release/ubuntukylin-24.04-desktop-amd64.iso"
+        },
+        {
+          "name": "Ubuntu Gnome 16.04.5 (i386)",
+          "url": "/ubuntu-cdimage/ubuntu-gnome/releases/xenial/release/ubuntu-gnome-16.04.5-desktop-i386.iso"
+        },
+        {
+          "name": "Ubuntu Gnome 16.04.5 (amd64)",
+          "url": "/ubuntu-cdimage/ubuntu-gnome/releases/xenial/release/ubuntu-gnome-16.04.5-desktop-amd64.iso"
+        },
+        {
+          "name": "Ubuntu Budgie 24.04 (amd64)",
+          "url": "/ubuntu-cdimage/ubuntu-budgie/releases/noble/release/ubuntu-budgie-24.04-desktop-amd64.iso"
+        },
+        {
+          "name": "Lubuntu 24.04 (amd64)",
+          "url": "/ubuntu-cdimage/lubuntu/releases/noble/release/lubuntu-24.04-desktop-amd64.iso"
+        },
+        {
+          "name": "Kubuntu 24.04 (amd64)",
+          "url": "/ubuntu-cdimage/kubuntu/releases/noble/release/kubuntu-24.04-desktop-amd64.iso"
+        }
+      ]
+    }
+  ],
+  "mirrors": [
+    {
+      "cname": "alhp",
+      "url": "/alhp",
+      "status": "S1722675452"
+    },
+    {
+      "cname": "alpine",
+      "url": "/alpine",
+      "status": "S1722687435"
+    },
+    {
+      "cname": "anaconda",
+      "url": "/anaconda",
+      "status": "S1722675676"
+    },
+    {
+      "cname": "anthon",
+      "url": "/anthon",
+      "status": "S1722687364"
+    },
+    {
+      "cname": "AOSP",
+      "url": "/AOSP",
+      "status": "S1722674287"
+    },
+    {
+      "cname": "aosp-monthly",
+      "url": "/aosp-monthly",
+      "status": "S1722678434"
+    },
+    {
+      "cname": "archlinux",
+      "url": "/archlinux",
+      "status": "S1722689711"
+    },
+    {
+      "cname": "archlinuxcn",
+      "url": "/archlinuxcn",
+      "status": "S1722690829"
+    },
+    {
+      "cname": "armbian",
+      "url": "/armbian",
+      "status": "S1722687540"
+    },
+    {
+      "cname": "armbian-releases",
+      "url": "/armbian-releases",
+      "status": "S1722689637"
+    },
+    {
+      "cname": "bmclapi",
+      "url": "/bmclapi",
+      "status": "S1722675661"
+    },
+    {
+      "cname": "centos",
+      "url": "/centos",
+      "status": "S1722667136"
+    },
+    {
+      "cname": "centos-stream",
+      "url": "/centos-stream",
+      "status": "S1722667405"
+    },
+    {
+      "cname": "CTAN",
+      "url": "/CTAN",
+      "status": "S1722687370"
+    },
+    {
+      "cname": "deb-multimedia",
+      "url": "/debian-multimedia",
+      "status": "S1722665578"
+    },
+    {
+      "cname": "debian",
+      "url": "/debian",
+      "status": "S1722664964"
+    },
+    {
+      "cname": "debian-cd",
+      "url": "/debian-cd",
+      "status": "S1722665456"
+    },
+    {
+      "cname": "debian-nonfree",
+      "url": "/debian-nonfree",
+      "status": "S1722665576"
+    },
+    {
+      "cname": "debian-security",
+      "url": "/debian-security",
+      "status": "S1722665579"
+    },
+    {
+      "cname": "deepin",
+      "url": "/deepin",
+      "status": "S1722666074"
+    },
+    {
+      "cname": "deepin-cd",
+      "url": "/deepin-cd",
+      "status": "S1722666056"
+    },
+    {
+      "cname": "fdroid",
+      "url": "/fdroid",
+      "status": "S1722675694"
+    },
+    {
+      "cname": "fedora",
+      "url": "/fedora",
+      "status": "S1722667273"
+    },
+    {
+      "cname": "git-repo",
+      "url": "/git-repo",
+      "status": "S1722674697"
+    },
+    {
+      "cname": "immortalwrt",
+      "url": "/immortalwrt",
+      "status": "S1722670568"
+    },
+    {
+      "cname": "kali",
+      "url": "/kali",
+      "status": "S1722666077"
+    },
+    {
+      "cname": "kali-images",
+      "url": "/kali-images",
+      "status": "S1722666835"
+    },
+    {
+      "cname": "linuxmint",
+      "url": "/linuxmint",
+      "status": "S1722670619"
+    },
+    {
+      "cname": "linuxmint-cd",
+      "url": "/linuxmint-cd",
+      "status": "S1722670676"
+    },
+    {
+      "cname": "manjaro",
+      "url": "/manjaro",
+      "status": "S1722666997"
+    },
+    {
+      "cname": "opensuse",
+      "url": "/opensuse",
+      "status": "S1722675658"
+    },
+    {
+      "cname": "raspbian",
+      "url": "/raspbian",
+      "status": "S1722674916"
+    },
+    {
+      "cname": "ros",
+      "url": "/ros",
+      "status": "S1722675308"
+    },
+    {
+      "cname": "ros2",
+      "url": "/ros2",
+      "status": "S1722675419"
+    },
+    {
+      "cname": "scoop",
+      "url": "/scoop",
+      "status": "S1722675853"
+    },
+    {
+      "cname": "ubuntu",
+      "url": "/ubuntu",
+      "status": "S1722691099"
+    },
+    {
+      "cname": "ubuntu-cdimage",
+      "url": "/ubuntu-cdimage",
+      "status": "S1722663724"
+    },
+    {
+      "cname": "ubuntu-ports",
+      "url": "/ubuntu-ports",
+      "status": "S1722665032"
+    },
+    {
+      "cname": "ubuntu-releases",
+      "url": "/ubuntu-releases",
+      "status": "S1722664316"
+    }
+  ],
+  "endpoints": [
+    {
+      "label": "shanghaitech-campus",
+      "public": false,
+      "resolve": "mirrors.shanghaitech.edu.cn",
+      "filter": [
+        "V4",
+        "SSL"
+      ],
+      "range": [
+        "119.78.254.0/24",
+        "59.78.171.0/24",
+        "180.167.19.64/27"
+      ]
+    }
+  ],
+  "extension": "D"
+}

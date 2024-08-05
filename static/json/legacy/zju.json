@@ -1,0 +1,598 @@
+{
+  "version": 1.7,
+  "site": {
+    "url": "https://mirrors.zju.edu.cn",
+    "logo": "https://mirrors.zju.edu.cn/zju-falcon.svg",
+    "abbr": "ZJU",
+    "name": "浙江大学开源软件镜像站",
+    "homepage": "https://www.zjusct.io",
+    "email": "mirrors@zju.edu.cn",
+    "disable": false
+  },
+  "info": [],
+  "mirrors": [
+    {
+      "cname": "almalinux",
+      "desc": "Enterprise Linux 兼容发行版",
+      "url": "/almalinux",
+      "status": "S1721295003X1721323418",
+      "help": "/docs/almalinux",
+      "upstream": "rsync://rsync.repo.almalinux.org/almalinux/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "alpine",
+      "desc": "基于 musl libc 和 busybox 的安全、轻量 Linux 发行版",
+      "url": "/alpine",
+      "status": "S1721288302X1721315185",
+      "help": "/docs/alpine",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/alpine/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "anaconda",
+      "desc": "科学计算工具包",
+      "url": "/anaconda",
+      "status": "S1721297504X1721323743",
+      "help": "/docs/anaconda",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/anaconda/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "anaconda-r",
+      "desc": "经反向代理提供的 Anaconda channel 补充镜像",
+      "url": "/anaconda-r",
+      "status": "S1721283853X1721370222",
+      "help": "/docs/anaconda-r",
+      "upstream": "https://conda.anaconda.org/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "anolis",
+      "desc": "支持多架构的开源 Linux 操作系统发行版",
+      "url": "/anolis",
+      "status": "S1721262094X1721347847",
+      "help": "/docs/anolis",
+      "upstream": "rsync://rsync.openanolis.cn/anolis",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "archlinux",
+      "desc": "Arch Linux 软件包",
+      "url": "/archlinux",
+      "status": "Y1721308896O1721287390",
+      "help": "/docs/archlinux",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/archlinux/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "archlinuxcn",
+      "desc": "由 Arch Linux 中文社区提供的额外软件包",
+      "url": "/archlinuxcn",
+      "status": "S1721307970X1721336604",
+      "help": "/docs/archlinuxcn",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/archlinuxcn/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "bioconductor",
+      "desc": "生物信息学开源软件",
+      "url": "/bioconductor",
+      "status": "S1721254566X1721336766",
+      "help": "/docs/bioconductor",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/bioconductor/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "centos",
+      "desc": "Mirror of CentOS Linux and CentOS Stream 8",
+      "url": "/centos",
+      "status": "S1719610854X10359524323",
+      "help": "/docs/centos",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/centos/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "centos-vault",
+      "desc": "已归档 CentOS 版本软件包源",
+      "url": "/centos-vault",
+      "status": "C",
+      "help": "/docs/centos-vault",
+      "upstream": "https://mirrors.tuna.tsinghua.edu.cn/centos-vault",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "CPAN",
+      "desc": "Perl 语言模块仓库",
+      "url": "/CPAN",
+      "status": "S1721307575X1721335593",
+      "help": "/docs/CPAN",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/CPAN/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "CRAN",
+      "desc": "R 语言的可执行文件、源代码和说明文件，以及用户撰写的软件包",
+      "url": "/CRAN",
+      "status": "S1721284066X1721308999",
+      "help": "/docs/CRAN",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/CRAN/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "crates.io-index",
+      "desc": "Rust 语言软件包索引（稀疏）",
+      "url": "/crates.io-index",
+      "status": "S1721304767X1721325399",
+      "help": "/docs/crates.io-index",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/crates.io-index/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "CTAN",
+      "desc": "TeX 的各种发行版、软件包和文档",
+      "url": "/CTAN",
+      "status": "S1721286391X1721314631",
+      "help": "/docs/CTAN",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/CTAN/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "cygwin",
+      "desc": "Cygwin 提供 Windows 下的 POSIX 兼容环境与开源工具包",
+      "url": "/cygwin",
+      "status": "S1721289019X1721353598",
+      "help": "/docs/cygwin",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/cygwin/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "debian",
+      "desc": "Debian 发行版软件包",
+      "url": "/debian",
+      "status": "S1721305268X1721311483",
+      "help": "/docs/debian",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/debian/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "debian-cd",
+      "desc": "Debian Linux 安装镜像",
+      "url": "/debian-cd",
+      "status": "S1721267801X1721354192",
+      "help": "/docs/debian-cd",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/debian-cd/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "debian-security",
+      "desc": "Debian 发行版安全更新软件包",
+      "url": "/debian-security",
+      "status": "S1721280783X1721309438",
+      "help": "/docs/debian-security",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/debian-security/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "deepin",
+      "desc": "深度操作系统软件源",
+      "url": "/deepin",
+      "status": "S1721308582X1721350606",
+      "help": "/docs/deepin",
+      "upstream": "rsync://rsync.deepin.com/deepin/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "deepin-cd",
+      "desc": "Deepin Linux 安装镜像",
+      "url": "/deepin-cd",
+      "status": "S1721261402X1721347796",
+      "help": "/docs/deepin-cd",
+      "upstream": "rsync://rsync.deepin.com/releases/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "docker-ce",
+      "desc": "Docker 社区版",
+      "url": "/docker-ce",
+      "status": "S1721264171X1721349917",
+      "help": "/docs/docker-ce",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/docker-ce/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "elpa",
+      "desc": "Emacs Lisp 软件包归档",
+      "url": "/elpa",
+      "status": "S1721282872X1721325700",
+      "help": "/docs/elpa",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/elpa/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "elrepo",
+      "desc": "Enterprise Linux 社区软件源",
+      "url": "/elrepo",
+      "status": "S1721284634X1721327790",
+      "help": "/docs/elrepo",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/elrepo/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "epel",
+      "desc": "Extra Packages for Enterprise Linux",
+      "url": "/epel",
+      "status": "S1721284282X1721326588",
+      "help": "/docs/epel",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/epel/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "fedora",
+      "desc": "Fedora Linux 源",
+      "url": "/fedora",
+      "status": "S1721283737X1721311678",
+      "help": "/docs/fedora",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/fedora/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "gentoo",
+      "desc": "灵活的、源码分发的 Linux 发行版",
+      "url": "/gentoo",
+      "status": "S1721292633X1721312975",
+      "help": "/docs/gentoo",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/gentoo/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "gentoo-portage",
+      "desc": "Gentoo ebuild 软件源",
+      "url": "/gentoo-portage",
+      "status": "S1721297026X1721317652",
+      "help": "/docs/gentoo-portage",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/gentoo-portage/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "gnu",
+      "desc": "GNU 软件 （二进制、文档与源码包）",
+      "url": "/gnu",
+      "status": "S1721247992X1721334346",
+      "help": "/docs/gnu",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/gnu/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "homebrew",
+      "desc": "macOS 第三方软件包管理器",
+      "url": "/homebrew",
+      "status": "S1721294789X1721337391",
+      "help": "/docs/homebrew",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/homebrew/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "ius",
+      "desc": "为 EL7 提供新版本的软件包",
+      "url": "/ius",
+      "status": "S1721283770X1721888543",
+      "help": "/docs/ius",
+      "upstream": "rsync://origin.repo.ius.io/ius/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "kali",
+      "desc": "Kali Linux 软件包仓库",
+      "url": "/kali",
+      "status": "Y1721307679O1721269227",
+      "help": "/docs/kali",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/kali/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "kali-images",
+      "desc": "Kali Linux 安装镜像",
+      "url": "/kali-images",
+      "status": "S1721228863X1721315260",
+      "help": "/docs/kali-images",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/kali-images/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "kernel",
+      "desc": "Linux 内核源码和补丁",
+      "url": "/kernel",
+      "status": "S1721264244X1721350216",
+      "help": "/docs/kernel",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/kernel/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "linuxmint",
+      "desc": "Linux Mint 软件包仓库",
+      "url": "/linuxmint",
+      "status": "S1721307617X1721350684",
+      "help": "/docs/linuxmint",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/linuxmint/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "llvm-apt",
+      "desc": "为 Debian 和 Ubuntu 提供的、每夜构建的 LLVM 二进制包",
+      "url": "/llvm-apt",
+      "status": "S1721299298X1721385525",
+      "help": "/docs/llvm-apt",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/llvm-apt/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "manjaro",
+      "desc": "基于独立开发的 Arch Linux 对用户友好的 Linux 发行版",
+      "url": "/manjaro",
+      "status": "S1721298175X1721326567",
+      "help": "/docs/manjaro",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/manjaro/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "msys2",
+      "desc": "面向 Windows 的软件分发与构建平台",
+      "url": "/msys2",
+      "status": "S1721303071X1721345934",
+      "help": "/docs/msys2",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/msys2/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "openeuler",
+      "desc": "面向数字基础设施的开源操作系统",
+      "url": "/openeuler",
+      "status": "S1721286500X1721314274",
+      "help": "/docs/openeuler",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/openeuler/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "opensuse",
+      "desc": "openSUSE 安装介质与官方软件包仓库",
+      "url": "/opensuse",
+      "status": "S1721293160X1721320329",
+      "help": "/docs/opensuse",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/opensuse/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "openwrt",
+      "desc": "用于网络路由的嵌入式系统",
+      "url": "/openwrt",
+      "status": "C",
+      "help": "/docs/openwrt",
+      "upstream": "https://mirrors.tuna.tsinghua.edu.cn/openwrt",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "packman",
+      "desc": "为 Debian、Fedora、openSUSE、Ubuntu 提供额外和过期软件包的仓库",
+      "url": "/packman",
+      "status": "S1721277389X1721320378",
+      "help": "/docs/packman",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/packman/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "postgresql",
+      "desc": "世界上最先进的开源关系型数据库",
+      "url": "/postgresql",
+      "status": "S1721244505X1721330256",
+      "help": "/docs/postgresql",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/postgresql/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "pypi",
+      "desc": "Python 第三方软件包索引",
+      "url": "/pypi",
+      "status": "S1721298306X1721337841",
+      "help": "/docs/pypi",
+      "upstream": "https://pypi.org",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "qt",
+      "desc": "Qt 软件仓库",
+      "url": "/qt",
+      "status": "S1721057819X1721661057",
+      "help": "/docs/qt",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/qt/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "raspberrypi",
+      "desc": "用于树莓派的一些 Debian 软件包",
+      "url": "/raspberrypi",
+      "status": "S1721274627X1721317703",
+      "help": "/docs/raspberrypi",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/raspberrypi/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "raspbian",
+      "desc": "为树莓派优化的 Debian 发行版",
+      "url": "/raspbian",
+      "status": "Y1721308919O1721267781",
+      "help": "/docs/raspbian",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/raspbian/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "rocky",
+      "desc": "Enterprise Linux 兼容发行版",
+      "url": "/rocky",
+      "status": "S1721301593X1721329666",
+      "help": "/docs/rocky",
+      "upstream": "rsync://msync.rockylinux.org/rocky/mirror/pub/rocky/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "ros",
+      "desc": "ROS 软件包（仅同步 Ubuntu）",
+      "url": "/ros",
+      "status": "S1721249706X1721335825",
+      "help": "/docs/ros",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/ros/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "ros2",
+      "desc": "ROS 2 软件包（仅同步 Ubuntu）",
+      "url": "/ros2",
+      "status": "S1721268278X1721354226",
+      "help": "/docs/ros2",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/ros2/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "rosdistro",
+      "desc": "rosdep 使用的文件",
+      "url": "/rosdistro",
+      "status": "S1721226992X1721313366",
+      "help": "/docs/rosdistro",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/rosdistro/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "rustup",
+      "desc": "Rust 工具链二进制",
+      "url": "/rustup",
+      "status": "S1721298449X1721341535",
+      "help": "/docs/rustup",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/rustup/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "termux",
+      "desc": "Termux 软件包源",
+      "url": "/termux",
+      "status": "S1721229311X1721315583",
+      "help": "/docs/termux",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/termux/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "ubuntu",
+      "desc": "Ubuntu 软件包镜像",
+      "url": "/ubuntu",
+      "status": "S1721302050X1721327275",
+      "help": "/docs/ubuntu",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/ubuntu/",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "ubuntu-ports",
+      "desc": "Ubuntu ports 软件包镜像",
+      "url": "/ubuntu-ports",
+      "status": "C",
+      "help": "/docs/ubuntu-ports",
+      "upstream": "https://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports",
+      "size": "0",
+      "disable": false
+    },
+    {
+      "cname": "ubuntu-releases",
+      "desc": "Ubuntu 安装介质（原版）",
+      "url": "/ubuntu-releases",
+      "status": "S1721302762X1721389159",
+      "help": "/docs/ubuntu-releases",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/",
+      "size": "0",
+      "disable": false
+    }
+  ],
+  "extension": "D",
+  "endpoints": [
+    {
+      "label": "zju",
+      "public": true,
+      "resolve": "mirrors.zju.edu.cn",
+      "filter": [
+        "V4",
+        "V6",
+        "SSL",
+        "NOSSL"
+      ],
+      "range": [
+        "COUNTRY:CN",
+        "REGION:ZJ",
+        "ISP:CERNET",
+        "AS4538",
+        "AS24367",
+        "AS23910",
+        "AS23911",
+        "210.32.0.0/20",
+        "222.205.0.0/17",
+        "210.32.128.0/19",
+        "210.32.160.0/21",
+        "210.32.168.0/22",
+        "210.32.172.0/23",
+        "210.32.174.0/24",
+        "210.32.176.0/20",
+        "58.196.192.0/19",
+        "58.196.224.0/20"
+      ]
+    }
+  ]
+}

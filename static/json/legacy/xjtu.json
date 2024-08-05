@@ -1,0 +1,534 @@
+{
+  "site": {
+    "url": "https://mirrors.xjtu.edu.cn",
+    "logo": "https://mirrors.xjtu.edu.cn/assets/img/icon.20210917.svg",
+    "logo_darkmode": "https://mirrors.xjtu.edu.cn/assets/img/icon-white.20210917.svg",
+    "abbr": "XJTU",
+    "name": "西安交通大学软件镜像站",
+    "homepage": "https://xjtuana.com",
+    "email": "mirrors at xjtu dot edu dot cn",
+    "issue": "https://github.com/openana/mirrors.xjtu.edu.cn/issues"
+  },
+  "info": [],
+  "mirrors": [
+    {
+      "cname": "alpine",
+      "options_name": "alpine",
+      "url": "/alpine",
+      "status": "S1702040543X1702062143",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/alpine/",
+      "size": "2.70T"
+    },
+    {
+      "cname": "anaconda",
+      "options_name": "anaconda",
+      "url": "/anaconda",
+      "status": "S1702035226X1702056826",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/anaconda/",
+      "size": "13.46T"
+    },
+    {
+      "cname": "archlinux",
+      "options_name": "archlinux",
+      "url": "/archlinux",
+      "status": "S1702029015X1702050615",
+      "upstream": "rsync://mirror.xtom.com.hk/repo/archlinux/",
+      "size": "101.27G"
+    },
+    {
+      "cname": "archlinuxcn",
+      "options_name": "archlinuxcn",
+      "url": "/archlinuxcn",
+      "status": "S1702021878X1702043478",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/archlinuxcn/",
+      "size": "164.67G"
+    },
+    {
+      "cname": "brew.git",
+      "options_name": "brew.git",
+      "url": "/brew.git",
+      "status": "S1702040099X1702043699",
+      "upstream": "https://github.com/Homebrew/brew.git",
+      "size": "108M"
+    },
+    {
+      "cname": "centos",
+      "options_name": "centos",
+      "url": "/centos",
+      "status": "S1702036995X1702058595",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/centos/",
+      "size": "724.18G"
+    },
+    {
+      "cname": "ceph",
+      "options_name": "ceph",
+      "url": "/ceph",
+      "status": "S1702028720X1702050320",
+      "upstream": "rsync://rsync.mirrors.ustc.edu.cn/ceph/",
+      "size": "500.27G"
+    },
+    {
+      "cname": "CPAN",
+      "options_name": "cpan",
+      "url": "/cpan",
+      "status": "S1702038344X1702059944",
+      "upstream": "rsync://cpan-rsync.perl.org/CPAN/",
+      "size": "33.88G"
+    },
+    {
+      "cname": "CRAN",
+      "options_name": "cran",
+      "url": "/cran",
+      "status": "S1702031659X1702053259",
+      "upstream": "rsync://cran.r-project.org/CRAN/",
+      "size": "391.25G"
+    },
+    {
+      "cname": "CTAN",
+      "options_name": "ctan",
+      "url": "/ctan",
+      "status": "S1702037159X1702058759",
+      "upstream": "rsync://mirrors.rit.edu/CTAN/",
+      "size": "56.04G"
+    },
+    {
+      "cname": "cygwin",
+      "options_name": "cygwin",
+      "url": "/cygwin",
+      "status": "S1702036473X1702058073",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/cygwin/",
+      "size": "111.14G"
+    },
+    {
+      "cname": "debian",
+      "options_name": "debian",
+      "url": "/debian",
+      "status": "S1702032562X1702054162",
+      "upstream": "rsync://rsync.mirrors.ustc.edu.cn/debian/",
+      "size": "1.84T"
+    },
+    {
+      "cname": "debian-cd",
+      "options_name": "debian-cd",
+      "url": "/debian-cd",
+      "status": "S1702041187X1702062787",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/debian-cd/",
+      "size": "230.34G"
+    },
+    {
+      "cname": "debian-security",
+      "options_name": "debian-security",
+      "url": "/debian-security",
+      "status": "S1702025455X1702047055",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/debian-security/",
+      "size": "130.63G"
+    },
+    {
+      "cname": "deepin",
+      "options_name": "deepin",
+      "url": "/deepin",
+      "status": "S1702039395X1702060995",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/deepin/",
+      "size": "580.56G"
+    },
+    {
+      "cname": "docker-ce",
+      "options_name": "docker-ce",
+      "url": "/docker-ce",
+      "status": "S1702025353X1702046953",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/docker-ce/",
+      "size": "905.95G"
+    },
+    {
+      "cname": "epel",
+      "options_name": "epel",
+      "url": "/epel",
+      "status": "S1702024330X1702045930",
+      "upstream": "rsync://rsync.mirrors.ustc.edu.cn/epel/",
+      "size": "541.77G"
+    },
+    {
+      "cname": "fedora",
+      "options_name": "fedora",
+      "url": "/fedora",
+      "status": "S1702039337X1702060937",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/fedora/",
+      "size": "1.65T"
+    },
+    {
+      "cname": "gnu",
+      "options_name": "gnu",
+      "url": "/gnu",
+      "status": "S1702025181X1702046781",
+      "upstream": "rsync://mirrors.ocf.berkeley.edu/gnu/",
+      "size": "174.80G"
+    },
+    {
+      "cname": "homebrew-bottles",
+      "options_name": "homebrew-bottles",
+      "url": "/homebrew-bottles",
+      "status": "S1702036300X1702057900",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/",
+      "size": "555.08G"
+    },
+    {
+      "cname": "homebrew-bundle.git",
+      "options_name": "homebrew-bundle.git",
+      "url": "/homebrew-bundle.git",
+      "status": "S1702040121X1702043721",
+      "upstream": "https://github.com/Homebrew/homebrew-bundle.git",
+      "size": "2.2M"
+    },
+    {
+      "cname": "homebrew-cask-drivers.git",
+      "options_name": "homebrew-cask-drivers.git",
+      "url": "/homebrew-cask-drivers.git",
+      "status": "S1702040661X1702044261",
+      "upstream": "https://github.com/Homebrew/homebrew-cask-drivers.git",
+      "size": "7.1M"
+    },
+    {
+      "cname": "homebrew-cask-fonts.git",
+      "options_name": "homebrew-cask-fonts.git",
+      "url": "/homebrew-cask-fonts.git",
+      "status": "S1702039307X1702042907",
+      "upstream": "https://github.com/Homebrew/homebrew-cask-fonts.git",
+      "size": "31M"
+    },
+    {
+      "cname": "homebrew-cask.git",
+      "options_name": "homebrew-cask.git",
+      "url": "/homebrew-cask.git",
+      "status": "S1702041209X1702044809",
+      "upstream": "https://github.com/Homebrew/homebrew-cask.git",
+      "size": "849M"
+    },
+    {
+      "cname": "homebrew-core.git",
+      "options_name": "homebrew-core.git",
+      "url": "/homebrew-core.git",
+      "status": "S1702039331X1702042931",
+      "upstream": "https://github.com/Homebrew/homebrew-core.git",
+      "size": "1.4G"
+    },
+    {
+      "cname": "homebrew-linux-fonts.git",
+      "options_name": "homebrew-linux-fonts.git",
+      "url": "/homebrew-linux-fonts.git",
+      "status": "S1702040750X1702044350",
+      "upstream": "https://github.com/Homebrew/homebrew-linux-fonts.git",
+      "size": "18M"
+    },
+    {
+      "cname": "iina",
+      "options_name": "iina",
+      "url": "/iina",
+      "status": "S1702041260X1702062860",
+      "upstream": "rsync://link-start.iina.io/iina/",
+      "size": "2.91G"
+    },
+    {
+      "cname": "jenkins",
+      "options_name": "jenkins",
+      "url": "/jenkins",
+      "status": "S1702039121X1702060721",
+      "upstream": "rsync://rsync.osuosl.org/jenkins/",
+      "size": "168.74G"
+    },
+    {
+      "cname": "kali",
+      "options_name": "kali",
+      "url": "/kali",
+      "status": "S1702037059X1702058659",
+      "upstream": "rsync://ftp.nluug.nl/kali/",
+      "size": "837.65G"
+    },
+    {
+      "cname": "kali-images",
+      "options_name": "kali-images",
+      "url": "/kali-images",
+      "status": "S1702021729X1702043329",
+      "upstream": "rsync://ftp.nluug.nl/kali-images/",
+      "size": "185.01G"
+    },
+    {
+      "cname": "kernel",
+      "options_name": "kernel",
+      "url": "/kernel",
+      "status": "S1702025642X1702047242",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/kernel/",
+      "size": "1.18T"
+    },
+    {
+      "cname": "linux.git",
+      "options_name": "linux.git",
+      "url": "/linux.git",
+      "status": "S1702040282X1702043882",
+      "upstream": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git",
+      "size": "3.0G"
+    },
+    {
+      "cname": "manjaro",
+      "options_name": "manjaro",
+      "url": "/manjaro",
+      "status": "S1702036397X1702057997",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/manjaro/",
+      "size": "171.97G"
+    },
+    {
+      "cname": "manjaro-cd",
+      "options_name": "manjaro-cd",
+      "url": "/manjaro-cd",
+      "status": "UX1683887694",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/osdn/storage/g/m/ma/manjaro/",
+      "size": "unknown"
+    },
+    {
+      "cname": "mongodb",
+      "options_name": "mongodb",
+      "url": "/mongodb",
+      "status": "S1702041228X1702062828",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/mongodb/",
+      "size": "174.72G"
+    },
+    {
+      "cname": "ohmyzsh.git",
+      "options_name": "ohmyzsh.git",
+      "url": "/ohmyzsh.git",
+      "status": "S1702039142X1702042742",
+      "upstream": "https://github.com/ohmyzsh/ohmyzsh.git",
+      "size": "136M"
+    },
+    {
+      "cname": "openwrt",
+      "options_name": "openwrt",
+      "url": "/openwrt",
+      "status": "Y1702040969O1696021008",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/openwrt/",
+      "size": "1.94T"
+    },
+    {
+      "cname": "raspberry-pi-os-images",
+      "options_name": "raspberry-pi-os-images",
+      "url": "/raspberry-pi-os-images",
+      "status": "S1702032605X1702054205",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os-images/",
+      "size": "608.61G"
+    },
+    {
+      "cname": "raspberrypi",
+      "options_name": "raspberrypi",
+      "url": "/raspberrypi",
+      "status": "S1702031262X1702052862",
+      "upstream": "rsync://apt-repo.raspberrypi.org/archive/debian/",
+      "size": "369.41G"
+    },
+    {
+      "cname": "raspberrypi-images",
+      "options_name": "raspberrypi-images",
+      "url": "/raspberrypi-images",
+      "status": "UX1686212335",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os-images/",
+      "size": "591.40G"
+    },
+    {
+      "cname": "raspbian",
+      "options_name": "raspbian",
+      "url": "/raspbian",
+      "status": "F1702022969O1702001116X1702044569",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/raspbian/",
+      "size": "588.29G"
+    },
+    {
+      "cname": "rfc",
+      "options_name": "rfc",
+      "url": "/rfc",
+      "status": "S1702030695X1702052295",
+      "upstream": "rsync://ftp.rfc-editor.org/rfcs/",
+      "size": "4.25G"
+    },
+    {
+      "cname": "rocky",
+      "options_name": "rocky",
+      "url": "/rocky",
+      "status": "U",
+      "upstream": "rsync://msync.rockylinux.org/rocky/mirror/pub/rocky/",
+      "size": "1.33T"
+    },
+    {
+      "cname": "ros",
+      "options_name": "ros",
+      "url": "/ros",
+      "status": "S1702020684X1702042284",
+      "upstream": "rsync://packages.ros.org/ros-main/",
+      "size": "122.11G"
+    },
+    {
+      "cname": "ros2",
+      "options_name": "ros2",
+      "url": "/ros2",
+      "status": "S1702020605X1702042205",
+      "upstream": "rsync://packages.ros.org/ros2-main/",
+      "size": "96.26G"
+    },
+    {
+      "cname": "ros2-rhel",
+      "options_name": "ros2-rhel",
+      "url": "/ros2-rhel",
+      "status": "S1702024488X1702046088",
+      "upstream": "rsync://packages.ros.org/ros2-rhel-main/",
+      "size": "13.59G"
+    },
+    {
+      "cname": "rpmfusion",
+      "options_name": "rpmfusion",
+      "url": "/rpmfusion",
+      "status": "S1702025515X1702047115",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/rpmfusion/",
+      "size": "145.49G"
+    },
+    {
+      "cname": "ubuntu",
+      "options_name": "ubuntu",
+      "url": "/ubuntu",
+      "status": "S1702023830X1702045430",
+      "upstream": "rsync://rsync.archive.ubuntu.com/ubuntu/",
+      "size": "2.65T"
+    },
+    {
+      "cname": "ubuntu-ports",
+      "options_name": "ubuntu-ports",
+      "url": "/ubuntu-ports",
+      "status": "S1702032185X1702053785",
+      "upstream": "rsync://rsync.mirrors.ustc.edu.cn/ubuntu-ports/",
+      "size": "3.09T"
+    },
+    {
+      "cname": "ubuntu-releases",
+      "options_name": "ubuntu-releases",
+      "url": "/ubuntu-releases",
+      "status": "S1702040705X1702055105",
+      "upstream": "rsync://rsync.releases.ubuntu.com/releases/",
+      "size": "41.70G"
+    },
+    {
+      "cname": "vim",
+      "options_name": "vim",
+      "url": "/vim",
+      "status": "S1702034404X1702056004",
+      "upstream": "rsync://ftp.vim.org/Vim/",
+      "size": "6.56G"
+    },
+    {
+      "cname": "zabbix",
+      "options_name": "zabbix",
+      "url": "/zabbix",
+      "status": "S1702041484X1702063084",
+      "upstream": "rsync://repo.zabbix.com/mirror/",
+      "size": "235.81G"
+    },
+    {
+      "cname": "zsh-autocomplete.git",
+      "options_name": "zsh-autocomplete.git",
+      "url": "/zsh-autocomplete.git",
+      "status": "S1702038890X1702042490",
+      "upstream": "https://github.com/marlonrichert/zsh-autocomplete.git",
+      "size": "4.8M"
+    },
+    {
+      "cname": "zsh-autosuggestions.git",
+      "options_name": "zsh-autosuggestions.git",
+      "url": "/zsh-autosuggestions.git",
+      "status": "S1702040620X1702044220",
+      "upstream": "https://github.com/zsh-users/zsh-autosuggestions.git",
+      "size": "868K"
+    },
+    {
+      "cname": "zsh-fast-syntax-highlighting.git",
+      "options_name": "zsh-fast-syntax-highlighting.git",
+      "url": "/zsh-fast-syntax-highlighting.git",
+      "status": "S1702040880X1702044480",
+      "upstream": "https://github.com/zdharma-continuum/fast-syntax-highlighting.git",
+      "size": "1.6M"
+    },
+    {
+      "cname": "zsh-syntax-highlighting.git",
+      "options_name": "zsh-syntax-highlighting.git",
+      "url": "/zsh-syntax-highlighting.git",
+      "status": "S1702040460X1702044060",
+      "upstream": "https://github.com/zsh-users/zsh-syntax-highlighting.git",
+      "size": "2.2M"
+    }
+  ],
+  "endpoints": [
+    {
+      "label": "xjtu",
+      "_label": "Xi'an Jiaotong University Network and China Education and Research Network of Shaanxi Province",
+      "public": true,
+      "resolve": "mirrors.xjtu.edu.cn",
+      "range": [
+        "49.208.0.0/17",
+        "58.206.96.0/19",
+        "115.154.0.0/16",
+        "202.200.224.0/20",
+        "202.117.0.0/18",
+        "202.117.160.0/20",
+        "202.117.192.0/19",
+        "219.245.32.0/20",
+        "219.245.128.0/18",
+        "2001:250:1001::/48"
+      ],
+      "_range": [
+        "49.208.0.0/17 AS4538 China Education and Research Network",
+        "58.206.96.0/19 AS4538 China Education and Research Network",
+        "115.154.0.0/16 AS4538 China Education and Research Network",
+        "202.200.224.0/20 AS4538 China Education and Research Network",
+        "202.117.0.0/18 AS4538 China Education and Research Network",
+        "202.117.160.0/20 AS4538 Xi'an Medical University",
+        "202.117.192.0/21 AS4538 Shaanxi Institute of EducationChina",
+        "202.117.192.0/24 AS4538 Shaanxi Institute of EducationChina",
+        "202.117.200.0/21 AS4538 Shaan Xi Institute of Finance and Economics",
+        "202.117.208.0/20 AS4538 Xi'an JiaoTong University",
+        "219.245.32.0/20 AS4538 China Education and Research Network",
+        "219.245.128.0/19 AS4538 China Education and Research Network",
+        "219.245.160.0/19 AS4538 China Education and Research Network",
+        "2001:250:1001::/48 AS24353 CERNET IPv6 Backbone"
+      ],
+      "filter": [
+        "V4",
+        "V6",
+        "SSL",
+        "NOSSL"
+      ]
+    },
+    {
+      "label": "xjtud",
+      "_label": "Shaanxi Province Network, TODO: resolve to d.mirrors.xjtu.edu.cn",
+      "public": true,
+      "resolve": "mirrors.xjtu.edu.cn",
+      "range": [
+        "1.80.0.0/13",
+        "61.185.0.0/16",
+        "111.20.224.0/20",
+        "113.200.0.0/15",
+        "219.244.0.0/14",
+        "240e:454::/30"
+      ],
+      "_range": [
+        "1.80.0.0/13 AS4134 CHINANET SHAANXI PROVINCE NETWORK",
+        "61.185.0.0/16 AS4134 CHINANET Shanxi(SN) province network",
+        "111.20.224.0/20 AS9808 China Mobile Communications Corporation",
+        "113.200.0.0/15 AS4837 China Unicom Shannxi Province Network",
+        "219.244.0.0/14 AS4538 China Education and Research Network",
+        "240e:454::/30 AS4134 Chinatelecom networks with tens of high-end routers and switches"
+      ],
+      "filter": [
+        "V4",
+        "V6",
+        "SSL",
+        "NOSSL"
+      ]
+    }
+  ],
+  "extension": "D"
+}
