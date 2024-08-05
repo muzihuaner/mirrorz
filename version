@@ -1,4 +1,4 @@
-frontend: 4c7a227 Update deploy.yml
+frontend: ab3d236 Create static.yml
 config: ddb0269 nwafu: update to current configuration
 parser: 481b365 Add nwafu
 i18n: fc9633e Add dependencies for speedtest scripts
